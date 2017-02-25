@@ -14,12 +14,6 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 									
-		<h3>Email alerts</h3>
-		We have a range of different alerts to keep you up to date with important changes.
-		<ul>
-			<li><a href="#" title="From here you can sign up to, change or cancel all the email alerts available through the site.">Register for alerts</a></li>
-		</ul>
-
 		<h3>Reports</h3>
 		<ul>
 			<li><a href="/_files/business_link_annual_review_0910.pdf" title="Download the Venture Labs Annual Review 2009-10 (PDF, 1,001KB)" target="_blank" rel="noopener noreferrer">2009-10 Annual Review</a></li>
@@ -28,16 +22,9 @@
 			<li><a href="/_files/local_growth_white_paper.pdf" title="The Government's white paper on encouraging local growth (PDF, 1,940KB)" target="_blank" rel="noopener noreferrer">Local Growth White Paper</a></li>
 		</ul>
 
-		<h3>Contact us</h3>
-		<ul>
-			<li><a href="#">Get help</a></li>
-			<li><a href="#" title="Tell us what you think">Feedback</a></li>
-		</ul>
-
 		<h1>About Venture Labs</h1>
 		<img src="/_img/about_header2.jpg" alt="" />
 		<ul>
-			<li><a href="#">About Venture Labs</a></li>
 			<li><a href="#overview" title="An overview of the Venture Labs service">Overview of the service</a></li>
 			<li><a href="#objectives" title="Find out about the Venture Labs objectives and governance">Our governance</a></li>
 			<li><a href="#use" title="More information how how to use the businesslink.gov.uk website">How to use the site</a></li>
@@ -62,8 +49,6 @@
 			<li><a href="whats-new.php">What's new</a></li>
 			<li><a href="find-a-case-study.php" title="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities">Case studies</a></li>
 			<li><a href="tools-directory.php" title="Links to interactive tools">Interactive tools</a></li>
-			<li><a href="#" title="We encourage linking to our site">Linking to us</a></li>
-			<li><a href="#">Can't find what you're looking for?</a></li>
 		</ul>
 
 		<h2>Follow us on</h2>
