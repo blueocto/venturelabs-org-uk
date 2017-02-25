@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Resource efficiency - General tips | Business Link</title>
+	<title>Resource efficiency - General tips | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -101,7 +101,7 @@
 			<li><a href="/new-business-through-action-on-carbon.php">Learn about the benefits of cutting your carbon emissions</a></li>
 			<li><a href="/environment-and-efficiency.php">Practical advice on environment and efficiency for your business</a></li>
 		</ul>
-		<p>For impartial advice and support to help your business succeed, call Business Link on <strong>0845 600 9 006</strong></p>
+		<p>For impartial advice and support to help your business succeed, call Venture Labs on <strong>0845 600 9 006</strong></p>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

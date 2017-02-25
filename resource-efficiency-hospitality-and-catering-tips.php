@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Resource efficiency - Hospitality and Catering | Business Link</title>
+	<title>Resource efficiency - Hospitality and Catering | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
