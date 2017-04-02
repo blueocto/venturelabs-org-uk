@@ -47,12 +47,10 @@
 			<li>The comprehensive <a href="https://www.gov.uk/browse/business/setting-up" title="Access the My New Business tool" target="_blank">Start-Up Service - Opens in a new window</a> offers support through the stages of setting up a business  with  free access to over 200 videos, case studies,  tutorials and tools and a starting up task list to guide you through the process.</li>
 			<li>Our <a href="https://data.gov.uk/data/contracts-finder-archive/" title="Access Contracts Finder on the Venture Labs website" target="_blank">Contracts Finder - Opens in a new window</a> can help you identify public sector procurement opportunities.</li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
-		<ul>
-			<li><a href="#">Print page now - Opens in a new window</a></li>
-			<li><a href="#">Tell a friend about this page</a></li>
-			<li><a href="#">Send me an email alert when this page changes</a></li>
-		</ul>
+		
+		<hr />
+		
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
