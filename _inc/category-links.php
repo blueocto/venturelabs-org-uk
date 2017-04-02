@@ -182,10 +182,168 @@
 
 								</ul>
 							</li>
-							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
-							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
+							<li>
+								<a href="/starting-up/business-structures.php">Business structures</a>
+								<ul>
+									<li><a href="/starting-up/business-structures.php" title="Business structures">Introduction</a></li>
+									<li>
+										<a href="/starting-up/business-structures/legal-structures-the-basics.php">Legal structures: the basics</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics.php" title="Legal structures: the basics">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/becoming-a-sole-trader.php">Becoming a sole trader</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/partnerships.php">Partnerships</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/starting-a-private-company.php">Starting a private company</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/starting-a-public-limited-company.php">Starting a public limited company</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/setting-up-specific-types-of-limited-company.php">Setting up specific types of limited company</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/european-economic-interest-groupings.php">European Economic Interest Groupings</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/uk-establishments-of-overseas-companies.php">UK establishments of overseas companies</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/buying-a-franchise.php">Buying a franchise</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php">Set up and register as self-employed</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php" title="Set up and register as self-employed">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/setting-up-as-self-employed.php">Setting up as self-employed</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/registering-for-tax-and-national-insurance.php">Registering for tax and National Insurance</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/arranging-to-make-national-insurance-contributions.php">Arranging to make National Insurance contributions</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checking-your-self-employment-status.php">Checking your self-employment status</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checklist-setting-up-as-self-employed.php">Checklist: setting up as self-employed</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-partnership.php">Set up and register a partnership</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership.php" title="Set up and register a partnership">Introduction</a>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/the-officers-of-a-partnership.php">The officers of a partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/types-of-partner.php">Types of partner</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/setting-up-a-deed-of-partnership.php">Setting up a deed of partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/naming-your-partnership.php">Naming your partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/tax-matters-of-a-partnership.php">Tax matters of a partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/checklist-setting-up-a-partnership.php">Checklist: setting up a partnership</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php">Set up and register a limited partnership</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php" title="Set up and register a limited partnership">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/definition-of-a-limited-partnership-and-partners.php">Definition of a limited partnership and partners</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/how-to-register-a-limited-partnership.php">How to register a limited partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/tax-matters-of-a-limited-partnership.php">Tax matters of a limited partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/dissolving-a-limited-partnership.php">Dissolving a limited partnership</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php">Set up and register a limited liability partnership (LLP)</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php" title="Set up and register a limited liability partnership (LLP)">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/the-members-of-an-llp.php">The members of an LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/where-to-register-your-llp-and-get-help.php">Where to register your LLP and get help</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/deed-of-partnership-of-an-llp.php">Deed of partnership of an LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/naming-your-llp.php">Naming your LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/tax-matters-of-an-llp.php">Tax matters of an LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/checklist-setting-up-and-registering-an-llp.php">Checklist: setting up and registering an LLP</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php">Set up and register a limited company (private or public)</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php" title="Set up and register a limited company (private or public)">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/registration-documents-and-forms.php">Registration documents and forms</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/the-companys-officers.php">The company's officers</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/types-of-limited-company.php">Types of limited company</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/requirements-for-public-limited-companies.php">Requirements for public limited companies</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/where-to-register-your-company-and-get-help.php">Where to register your company and get help</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/tax-matters-of-a-limited-company.php">Tax matters of a limited company</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/checklist-setting-up-and-registering-a-limited-company-private-or-public.php">Checklist: setting up and registering a limited company (private or public)</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/right-to-manage-companies-and-commonhold-associations.php">Right to manage companies and commonhold associations</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Set up a social enterprise</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php" title="Set up a social enterprise">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/unincorporated-associations.php">Unincorporated associations</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/trusts.php">Trusts</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/limited-companies-with-a-social-purpose.php">Limited companies with a social purpose</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php">Community benefit societies</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/social-enterprises-as-registered-charities.php">Social enterprises as registered charities</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-interest-companies.php">Community Interest Companies</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/charitable-incorporated-organisations.php">Charitable incorporated organisations</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="/starting-up/name-your-business.php">Name your business</a>
+								<ul>
+									<li><a href="/starting-up/name-your-business.php" title="Name your business">Introduction</a></li>
+									<li><a href="https://www.gov.uk/set-up-business" title="Set up a business" target="_blank" rel="noopener noreferrer">Name your business</a></li>
+									<li>
+										<a href="/starting-up/name-your-business/choose-the-right-name-for-your-business.php">Choose the right name for your business</a>
+										<ul>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business.php" title="Choose the right name for your business">Introduction</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/choosing-a-business-name-to-create-the-right-impression.php">Choosing a business name to create the right impression</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/names-for-limited-companies-and-llps.php">Names for limited companies and LLPs</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/names-for-sole-traders-partnerships-and-limited-partnerships.php">Names for sole traders, partnerships and limited partnerships</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/use-of-sensitive-words-and-expressions-in-business-names.php">Use of sensitive words and expressions in business names</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/displaying-and-disclosing-your-business-company-or-limited-liability-partnership-name.php">Displaying and disclosing your business, company or limited liability partnership name</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/getting-your-business-name-on-the-internet.php">Getting your business name on the internet</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp.php">Rules for naming your limited company or limited liability partnership (LLP)</a>
+										<ul>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp.php" title="Rules for naming your limited company or limited liability partnership (LLP)">Introduction</a></li>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/choosing-a-name-for-a-company-or-llp.php">Choosing a name for a company or LLP</a></li>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/objections-to-company-names.php">Objections to company names</a></li>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/prescribed-and-sensitive-words.php">Prescribed and sensitive words</a></li>
+										</ul>
+									</li>
+									<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
+								</ul>
+							</li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
-							<li><a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
+							<li>
+								<a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a>
+								<ul>
+									<li><a href="/starting-up/choose-and-set-up-your-workplace.php" title="Choose and set up your workplace">Introduction</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Choose the right type of premises</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Rent or buy premises</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Manage workplace health and safety</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Set up your business at home</a></li>
+									<li>
+										<a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home</a>
+										<ul>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php" title="Starting a business from home">Introduction</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/is-starting-a-home-based-business-right-for-you.php">Is starting a home-based business right for you?</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/popular-home-business-ideas.php">Popular home business ideas</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/start-up-costs-and-financing-your-home-based-business.php">Start-up costs and financing your home-based business</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/record-keeping.php">Record keeping</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/it-and-home-business.php">IT and home business</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-work-environment.php">Your work environment</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities.php">Environmental responsibilities</a>
+										<ul>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities.php" title="Environmental responsibilities">Introduction</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/comply-with-key-environmental-legislation.php">Comply with key environmental legislation</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/does-my-business-need-a-permit-or-licence.php">Does my business need a permit or licence?</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/hazardous-substances-covered-by-environmental-legislation.php">Hazardous substances covered by environmental legislation</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/conservation-and-biodiversity-issues-for-businesses.php">Conservation and biodiversity issues for businesses</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/environmental-issues-in-specific-business-sectors.php">Environmental issues in specific business sectors</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/who-enforces-environmental-legislation.php">Who enforces environmental legislation?</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/prevent-and-remedy-pollution-incidents.php">Prevent and remedy pollution incidents</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/the-business-benefits-of-good-environmental-and-sustainable-practices.php">The business benefits of good environmental and sustainable practices</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 							<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get to grips with business taxes</a></li>
 							<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a></li>
 							<li><a href="/starting-up/corporation-tax.php">Corporation Tax</a></li>
@@ -577,6 +735,19 @@
 							<li>
 								<a href="/buy-or-sell-a-business.php" title="Buy or sell a business">Introduction</a>
 							</li>
+							<!-- Added not not sure if it goes here -->
+							<li>
+								<a href="/buy-or-sell-a-business/floating-on-the-stock-market/">Floating on the stock market</a>
+								<ul>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/is-your-business-suitable-to-be-a-public-company.php">Is your business suitable to be a public company?</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/advantages-and-disadvantages-of-stock-market-flotation.php">Advantages and disadvantages of stock market flotation</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/the-process-of-floating-on-a-stock-market.php">The process of floating on a stock market</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/appoint-your-advisers.php">Appoint your advisers</a></li>
+									<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/here-is-how-we-prepared-our-business-for-flotation.php">Here's how we prepared our business for flotation</a></li>
+								</ul>
+							</li>
+							<!-- end -->
 							<li>
 								<a href="layer910d.html?topicId=1074407303">Businesses in difficulty</a>
 								<ul>
@@ -584,16 +755,16 @@
 										<a>Complain against an undischarged bankrupt or disqualified company director</a>
 										<ul>
 											<li>
-												<a href="layer2f3a.html?topicId=1084624281" title="How to complain against a disqualified director, an undischarged bankrupt or a person subject to bankruptcy restrictions" >Introduction</a>
+												<a href="layer2f3a.html?topicId=1084624281" title="How to complain against a disqualified director, an undischarged bankrupt or a person subject to bankruptcy restrictions">Introduction</a>
 											</li>
 											<li>
-												<a href="detail5885.html?itemId=1084681574&amp;type=RESOURCES"  >What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a>
+												<a href="detail5885.html?itemId=1084681574&amp;type=RESOURCES">What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a>
 											</li>
 											<li>
-												<a href="detailc89d.html?itemId=1084624469&amp;type=RESOURCES"  >How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a>
+												<a href="detailc89d.html?itemId=1084624469&amp;type=RESOURCES">How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a>
 											</li>
 											<li>
-												<a href="detailb79c.html?itemId=1084624496&amp;type=RESOURCES"  >Complaining about disqualified directors, undischarged bankrupts and persons subject to bankruptcy restrictions</a>
+												<a href="detailb79c.html?itemId=1084624496&amp;type=RESOURCES">Complaining about disqualified directors, undischarged bankrupts and persons subject to bankruptcy restrictions</a>
 											</li>
 										</ul>
 									</li>
@@ -618,38 +789,83 @@
 								</ul>
 							</li>
 							<li>
-								<a href="layer4bae.html?topicId=1074400490"  >Considering selling a business</a>
+								<a href="buy-or-sell-a-business/considering-selling-a-business.php">Considering selling a business</a>
 								<ul>
 									<li>
 										<a>Preparing to sell your business</a>
 										<ul>
 											<li>
-												<a href="layer19b7.html?topicId=1074410823" title="Options for selling your business, making it attractive to purchasers and finding advisers">Introduction</a>
+												<a href="buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business.php" title="Prepare to sell your business">Introduction</a>
 											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Is selling my business the right option?</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/ways-to-sell-your-business.php">Ways to sell your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-a-sale-realistic.php">Is a sale realistic?</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/when-to-sell-your-business.php">When to sell your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php">Choosing advisers when selling your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/show-strong-financial-performance.php">Show strong financial performance</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/streamline-your-business-operations.php">Streamline your business operations</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
+										</ul>
+									</li>
+									<li>
+										<a>Consider your exit strategy when starting up</a>
+										<ul>
 											<li>
-												<a href="detail0983.html?itemId=1074423944&amp;type=RESOURCES"  >Is selling my business the right option?</a>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/consider-your-exit-strategy-when-starting-up.php" title="Consider your exit strategy when starting up">Introduction</a>
 											</li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/why-you-need-an-exit-strategy.php">Why you need an exit strategy</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/what-do-you-want-from-your-business.php">What do you want from your business?</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/decisions-that-could-affect-your-eventual-exit.php">Decisions that could affect your eventual exit</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/exit-option-family-succession.php">Exit option: family succession</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/exit-option-selling-your-business.php">Exit option: selling your business</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/exit-option-float-your-business.php">Exit option: float your business</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/exit-option-close-your-business.php">Exit option: close your business</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/the-exit-process.php">The exit process</a></li>
+											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/here-is-how-I-planned-an-exit-strategy.php">Here's how I planned an exit strategy</a></li>
+										</ul>
+									</li>
+									<li>
+										<a>Obtaining information on a business you are thinking of buying</a>
+										<ul>
 											<li>
-												<a href="detail351c.html?itemId=1074423958&amp;type=RESOURCES"  >Ways to sell your business</a>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying.php" title="Obtaining information on a business you are thinking of buying">Introduction</a>
 											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/assess-a-companys-assets.php">Assess a company's assets</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/legal-and-financial-checks.php">Legal and financial checks</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/employment-it-and-environment-checks.php">Employment, IT and environment checks</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/operating-within-the-law.php">Operating within the law</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/where-to-get-help-and-advice.php">Where to get help and advice</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/here-is-how-i-obtained-the-right-information-about-a-business-before-buying-it.php">Here's how I obtained the right information about a business before buying it</a></li>
+										</ul>
+									</li>
+									<li>
+										<a>Understanding contracts when buying or selling a business</a>
+										<ul>
 											<li>
-												<a href="detail5dc6.html?itemId=1074423967&amp;type=RESOURCES"  >Is a sale realistic?</a>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business.php" title="Understanding contracts when buying or selling a business">Introduction</a>
 											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/preparing-to-negotiate-the-sale-of-a-business.php">Preparing to negotiate the sale of a business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/preparing-for-the-final-contract.php">Preparing for the final contract</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/signing-and-completing-the-sale.php">Signing and completing the sale</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/negotiating-the-deal-the-buyers-perspective.php">Negotiating the deal - the buyer's perspective</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/negotiating-the-deal-the-sellers-perspective.php">Negotiating the deal - the seller's perspective</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/checklist-before-you-sign-a-contract.php">Checklist before you sign a contract</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/sources-of-further-advice.php">Sources of further advice</a></li>
+										</ul>
+									</li>
+									<li>
+										<a>Value and market your business</a>
+										<ul>
 											<li>
-												<a href="detaildd28.html?itemId=1074423981&amp;type=RESOURCES"  >When to sell your business</a>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business.php" title="Value and market your business">Introduction</a>
 											</li>
-											<li>
-												<a href="detail30d6.html?itemId=1074423992&amp;type=RESOURCES"  >Choosing advisers when selling your business</a>
-											</li>
-											<li>
-												<a href="detail80a3.html?itemId=1074424013&amp;type=RESOURCES"  >Show strong financial performance</a>
-											</li>
-											<li>
-												<a href="detailfca8-2.html?itemId=1074424032&amp;type=RESOURCES"  >Streamline your business operations</a>
-											</li>
-											<li>
-												<a href="detaila136.html?itemId=1075062195&amp;type=CASE STUDIES"  >Here's how I prepared my business for sale</a>
-											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/key-factors-affecting-the-value-of-your-business.php">Key factors affecting the value of your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/common-methods-of-valuing-a-business.php">Common methods of valuing a business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/prepare-a-sales-memorandum.php">Prepare a sales memorandum</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/identify-likely-buyers.php">Identify likely buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/research-sources-of-potential-buyers.php">Research sources of potential buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/approach-potential-buyers.php">Approach potential buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/here-is-how-I-marketed-my-business-for-sale.php">Here's how I marketed my business for sale</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -657,6 +873,7 @@
 							<li>
 								<a href="/buy-or-sell-a-business/franchising.php">Franchising</a>
 								<ul>
+									<li><a href="/buy-or-sell-a-business/franchising.php" title="Franchising">Introduction</a></li>
 									<li>
 										<a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a>
 										<ul>
@@ -673,99 +890,155 @@
 										</ul>
 									</li>
 									<li>
-										<p><strong>Turn your business into a franchise</strong></p>
+										<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise.php">Turn your business into a franchise</a>
 										<ul>
 											<li>
-												<a href="detail0584-2.html?itemId=1077056054&amp;type=RESOURCES"  >Franchising options</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise.php" title="Turn your business into a franchise">Introduction</a>
 											</li>
 											<li>
-												<a href="detail1891-2.html?itemId=1077060955&amp;type=RESOURCES"  >The benefits of franchising your business</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/franchising-options.php">Franchising options</a>
 											</li>
 											<li>
-												<a href="detail4f6f.html?itemId=1077060959&amp;type=RESOURCES"  >Is franchising right for your business?</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/the-benefits-of-franchising-your-business.php">The benefits of franchising your business</a>
 											</li>
 											<li>
-												<a href="detaildffb-2.html?itemId=1077061045&amp;type=RESOURCES"  >Develop your business format</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/is-franchising-right-for-your-business.php">Is franchising right for your business?</a>
 											</li>
 											<li>
-												<a href="detail8763.html?itemId=1077061251&amp;type=RESOURCES"  >The franchise agreement</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/develop-your-business-format.php">Develop your business format</a>
 											</li>
 											<li>
-												<a href="detail2057.html?itemId=1077061265&amp;type=RESOURCES"  >Franchise fees and royalties</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/the-franchise-agreement.php">The franchise agreement</a>
 											</li>
 											<li>
-												<a href="detail45f0.html?itemId=1077061297&amp;type=RESOURCES"  >Marketing your franchise opportunity</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/franchise-fees-and-royalties.php">Franchise fees and royalties</a>
 											</li>
 											<li>
-												<a href="detail07b5.html?itemId=1077061355&amp;type=RESOURCES"  >Managing your franchisees</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/marketing-your-franchise-opportunity.php">Marketing your franchise opportunity</a>
 											</li>
 											<li>
-												<a href="detail4c41.html?itemId=1081790687&amp;type=CASE STUDIES"  >Here's how I turned my existing business into a franchise</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/managing-your-franchisees.php">Managing your franchisees</a>
+											</li>
+											<li>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/here-is-how-i-turned-my-existing-business-into-a-franchise.php">Here's how I turned my existing business into a franchise</a>
 											</li>
 										</ul>
 									</li>
 								</ul>
 							</li>
 							<li>
-								<a href="layer73cb.html?topicId=1087216741"  >Transferring your business</a>
+								<a href="/buy-or-sell-a-business/transferring-your-business.php">Transferring your business</a>
 								<ul>
 									<li>
-										<strong>Selling or passing a business to a family member</strong>
+										<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member.php">Selling or passing a business to a family member</a>
 										<ul>
 											<li>
-												<a href="detail3e60.html?itemId=1074413858&amp;type=RESOURCES"  >Is family succession the right option?</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member.php" title="Selling or passing a business to a family member">Introduction</a>
 											</li>
 											<li>
-												<a href="detailfea2.html?itemId=1074413682&amp;type=RESOURCES"  >One family successor or more?</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/is-family-succession-the-right-option.php">Is family succession the right option?</a>
 											</li>
 											<li>
-												<a href="detail24b5.html?itemId=1074413732&amp;type=RESOURCES"  >Identify a potential family successor</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/one-family-successor-or-more.php">One family successor or more?</a>
 											</li>
 											<li>
-												<a href="detailef42.html?itemId=1074413750&amp;type=RESOURCES"  >Clarify your future involvement in the business</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/identify-a-potential-family-successor.php">Identify a potential family successor</a>
 											</li>
 											<li>
-												<a href="detailfa8e.html?itemId=1074413764&amp;type=RESOURCES"  >Manage the family succession process</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/clarify-your-future-involvement-in-the-business.php">Clarify your future involvement in the business</a>
 											</li>
 											<li>
-												<a href="detaild6d7.html?itemId=1074413850&amp;type=RESOURCES"  >Tax implications of family succession</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/manage-the-family-succession-process.php">Manage the family succession process</a>
 											</li>
 											<li>
-												<a href="detaile181.html?itemId=1075070048&amp;type=CASE STUDIES"  >Here's how I'm transferring my business to my son</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/tax-implications-of-family-succession.php">Tax implications of family succession</a>
+											</li>
+											<li>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/here-is-how-i-am-transferring-my-business-to-my-son.php">Here's how I'm transferring my business to my son</a>
 											</li>
 										</ul>
 									</li>
 									<li>
-										<strong>Succession planning and business transfer</strong>
-										<img src="../../_img/px_sellingabusiness.gif" alt="Current section" width="5" height="5" />
+										<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer.php">Succession planning and business transfer</a>
 										<ul>
 											<li>
-												<a href="detail3285.html?itemId=1081350603&amp;type=RESOURCES"  >Why succession planning is important</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer.php" title="Succession planning and business transfer">Introduction</a>
 											</li>
 											<li>
-												<a href="detail40d6.html?itemId=1081350691&amp;type=RESOURCES"  >Assessing your options</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/why-succession-planning-is-important.php">Why succession planning is important</a>
 											</li>
 											<li>
-												<a href="detail4bd0.html?itemId=1081350695&amp;type=RESOURCES"  >Keeping it in the family</a> 
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/assessing-your-options.php">Assessing your options</a>
 											</li>
 											<li>
-												<a href="detailcfa4.html?itemId=1081350703&amp;type=RESOURCES" title="Transferring ownership to a non-family member " >Transferring ownership to a non-family member </a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/keeping-it-in-the-family.php">Keeping it in the family</a> 
 											</li>
 											<li>
-												<a href="detail6fcc.html?itemId=1081350613&amp;type=RESOURCES"  >Trade sales</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/transferring-ownership-to-a-non-family-member.php" title="Transferring ownership to a non-family member ">Transferring ownership to a non-family member </a>
 											</li>
 											<li>
-												<a href="detail2547.html?itemId=1081350706&amp;type=RESOURCES"  >Voluntary liquidation</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/trade-sales.php">Trade sales</a>
 											</li>
 											<li>
-												<a href="detail7065.html?itemId=1081350616&amp;type=RESOURCES"  >Have a formal succession plan</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/voluntary-liquidation.php">Voluntary liquidation</a>
 											</li>
 											<li>
-												<a href="detail5fe9.html?itemId=1087157769&amp;type=CASE STUDIES"  >Here's how I successfully took over a family business (Flash video)</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/have-a-formal-succession-plan.php">Have a formal succession plan</a>
 											</li>
 											<li>
-												<a href="http://online.gov.uk/bdotg/action/logicToolStart?itemId=1078303661&amp;type=BLTTOOL"  >Which succession planning options should I consider?</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/here-is-how-I-successfully-took-over-a-family-business_flash-video.php">Here's how I successfully took over a family business (Flash video)</a>
 											</li>
+											<!-- //
+											<li>
+												<a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1078303661&amp;type=BLTTOOL">Which succession planning options should I consider?</a>
+											</li>
+											// -->
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="/buy-or-sell-a-business/mergers-and-acquisitions.php">Mergers and acquisitions</a>
+								<ul>
+									<li>
+										<a href="/buy-or-sell-a-business/mergers-and-acquisitions/mergers.php">Mergers</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/mergers-and-acquisitions/mergers.php" ittle="Mergers">Introduction</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/who-is-responsible-for-uk-merger-control.php">Who is responsible for UK merger control?</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/when-does-the-office-of-fair-trading-investigate-mergers.php">When does the Office of Fair Trading investigate mergers?</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/notifying-authorities-of-a-merger.php">Notifying authorities of a merger</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/merger-assessment-and-decisions.php">Merger assessment and decisions</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="/buy-or-sell-a-business/selling.php">Selling</a>
+								<ul>
+									<li>
+										<a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business.php">Complete the sale of your business</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business.php" title="Complete the sale of your business">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/preparing-your-business-for-sale.php">Preparing your business for sale</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/initial-meetings-with-potential-buyers.php">Initial meetings with potential buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/assess-offers-how-is-the-deal-structured.php">Assess offers: how is the deal structured?</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/assess-offers-your-responsibilities-and-liabilities.php">Assess offers: your responsibilities and liabilities</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/choosing-and-negotiating-with-a-buyer.php">Choosing and negotiating with a buyer</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/undergoing-due-diligence.php">Undergoing due diligence</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout.php">How to achieve an employee buyout</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout.php" title="How to achieve an employee buyout">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/why-consider-an-employee-buyout.php">Why consider an employee buyout?</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/alternatives-to-an-employee-buyout.php">Alternatives to an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/planning-for-an-employee-buyout.php">Planning for an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/forms-of-employee-ownership.php">Forms of employee ownership</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/key-stages-in-an-employee-buyout.php">Key stages in an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/financing-an-employee-buyout.php">Financing an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/running-the-business-after-an-employee-buyout.php">Running the business after an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/help-and-advice-for-employee-buyouts.php">Help and advice for employee buyouts</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -794,13 +1067,16 @@
 							<li><a href="/your-business-sector/construction.php">Construction</a></li>
 						</ul>
 					</li>
+					<li data-accordion-item>
+						<a href="/tools-directory.php">Tools Directory</a>
+						<ul>
+							<li><a href="/tools-directory.php" title="Tools Directory">Introduction</a></li>
+						</ul>
+					</li>
 				</ul>
 			</div><!-- #closed categories -->
 
-			<?php /* ?>
-			<hr />
-
-			<div id="serviceprovider">
+			<div class="service-provider">
 				<p>
 					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank" rel="noopener noreferrer">
 						In partnership with Cabinet Office
@@ -808,7 +1084,6 @@
 					</a>
 				</p>
 			</div><!-- #serviceprovider -->
-			<?php */ ?>
 		</div><!-- #left -->
 
 	</div><!-- // .categories -->
