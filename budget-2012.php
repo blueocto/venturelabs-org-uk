@@ -35,17 +35,12 @@
 			<li>A <strong>strategy for gas generation</strong> will be published in the Autumn, recognising that gas-fired electricity generation will continue to play a major role in UK energy supplies for the next decade and beyond.</li>
 			<li>A package of tax measures will be introduced to secure billions of pounds of additional <strong>oil and gas investment</strong> in the UK Continental Shelf.</li>
 		</ul>
-		<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
-		<ul>
-			<li><a href="#">Print page now</a></li>
-			<li><a href="#">Tell a friend about this page</a></li>
-			<li><a href="#">Send me an email alert when this page changes</a></li>
-		</ul>
-		<table cellpadding="0" cellspacing="0">
-			<tr>
-				<td><img src="/_img/Budgetoneoffpage.jpg" width="181" height="121" alt="" /></td>
-			</tr>
-		</table>
+		
+		<hr />
+
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/Budgetoneoffpage.jpg" width="181" height="121" alt="" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
