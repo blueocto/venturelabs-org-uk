@@ -1,0 +1,282 @@
+/********************************************************************
+
+	Structure
+
+********************************************************************/
+
+
+/********************************************************************
+GENERAL STYLES
+********************************************************************/
+.label {
+	padding: rem-calc(5px 5px 2px 5px); 
+	font-weight: bold; 
+}
+
+/********************************************************************
+LINK STYLES
+********************************************************************/
+a:visited {
+
+	color: darken($primary-color, 20%); 
+
+	// Mobile tap color
+	// &:link {
+		//Highlight links on iOS, Similar to :hover for mobile devices.
+		// -webkit-tap-highlight-color : rgba( 0, 0, 0, 0.3 );
+	// }
+}
+
+/* Add a external link icon */
+a[target="_blank"]:after {
+	font-size: 0.8rem; 
+	font-family: "FontAwesome"; 
+	content: "\f08e"; 
+	display: inline-block; 
+	padding-left: rem-calc(5px); 
+	// stop the accordion styles overwritng		
+	float: none!important; 		
+	right: 0!important; 		
+	top: 2px!important; 
+}
+
+/* show links which are dead */
+a[href="#"] {
+	color: red; 
+}
+a[href="#"]:after {
+	font-family: "FontAwesome"; 
+	content: "\f057"; 
+	display: inline-block; 
+	color: red; 
+	padding-left: rem-calc(5px); 
+}
+
+/* if in the menu, move icons to the left */
+.categories {
+	.menu {
+		a[target="_blank"]:before {
+			font-family: "FontAwesome"; 
+			content: "\f08e"; 
+			display: inline-block; 
+			padding-right: rem-calc(5px); 
+			// stop the accordion styles overwritng		
+			float: none!important; 		
+			right: 0!important; 		
+			top: 2px!important; 
+			vertical-align: middle; 
+		}
+		a[target="_blank"]:after {
+			content: ''; 
+			display: none; 
+		}
+		a[href="#"]:before {
+			font-family: "FontAwesome"; 
+			content: "\f057"; 
+			display: inline-block; 
+			color: red; 
+			padding-right: rem-calc(5px); 
+			vertical-align: middle; 
+		}
+		a[href="#"]:after {
+			content: ''; 
+			display: none; 
+		}
+	}
+}
+
+/* Change the colour of telephone links */
+a[href^="tel:"] {
+  color: orange; 
+  font-weight: bold; 
+  text-decoration: none;
+}
+/* add a unicode telephone icon */
+a[href^="tel:"]:before {
+  content: "\260e";
+  padding-right: rem-calc(5px);
+}
+
+/* Links containing an image then text */
+.caption {
+	text-align: center; 
+
+	img {
+		display: block; 
+	}
+}
+
+/********************************************************************
+H1, H2, H3, H4, H5 P STYLES
+********************************************************************/
+// h1, .h1, 
+// h2, .h2, 
+// h3, .h3, 
+// h4, .h4, 
+// h5, .h5 {}
+
+// p {
+	// font-size: 1.188rem; // 19px 
+// }
+
+/********************************************************************
+HEADER STYLES
+********************************************************************/
+header {
+	margin-bottom: rem-calc(40px); 
+}
+
+// header, 
+// .breadcrumbs, 
+footer {
+	padding: 1rem; // 16px
+	border-top: 1px solid #ddd; 
+}
+
+
+.top-logo {
+	display: block; 
+	margin: 0 auto; 
+	max-width: 170px; 
+
+	@include breakpoint(medium) {
+		margin: 0 15px; 
+		max-width: 150px; 
+	}
+}
+
+.strapline {
+	margin-top: 10px;
+	font-size: 21px;
+	color: #3276AD; 
+
+	@include breakpoint(medium) {
+		float: right; 
+		margin-top: 40px; 
+		font-size: 30px;
+	}
+}
+
+.quick-links {
+	margin-bottom: 60px; 
+	border-bottom: 1px solid $medium-gray; 
+}
+
+/* normal horz main nav */
+.top-bar {
+
+	.menu > li > a {
+		border-left: 0; 
+		border-top-width: 5px; 
+		border-top-style: solid; 
+	}
+}
+
+
+/*** mobile ~ tablet menu ***/
+.top-bar .mobile-menu {
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+	padding: 0 15px; 
+	font-weight: 600; 
+	background-color: #333; 
+
+	> li > a {
+		border: 0; 
+	}
+}
+
+/*** off-canvas ***/
+.off-canvas {
+	padding: 50px 0; 
+
+	.menu > li > a {
+		border-left-width: 7px; 
+	}
+}
+
+
+
+/*** Breadcrumbs ***/		
+// Let's remove Foundation styling		
+.breadcrumbs li:not(:last-child):after {		
+	content: ""; 		
+	margin: 0; 		
+}		
+// And add some to the Perch breadcrumb		
+.breadcrumb-arrow {		
+	padding: 0 .75rem; 		
+	color: #cacaca; 		
+}
+
+
+/*** Side bar master navigation ***/
+.categories {
+	outline: 1px solid #ccc; 
+
+	.fa {		
+		position: relative; 		
+		top: -3px; 		
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up'		
+	ul li ul {		
+		background-color: lighten($light-gray, 5%); 		
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics'		
+	ul li ul li ul {		
+		background-color: #fff; 		
+	}		
+	.submenu.is-accordion-submenu {		
+		margin: 0; 
+		padding: 10px 20px; 
+		list-style: none; 
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
+	ul li ul li ul li ul { 		
+		background-color: lighten($light-gray, 5%); 		
+	}		
+}		
+/*** accordion arrows ***/
+.is-accordion-submenu-parent > a {
+	display: block; 
+}
+.is-accordion-submenu-parent > a:after { 
+	top: 11px;		
+    right: 10px;		
+    float: right;		
+    position: absolute; 		
+    margin-top: 0; 		
+}
+
+/* level 0 */
+.is-accordion-submenu-parent > a:after {
+	// see above
+	// outline: 1px solid red; 
+}
+/* level 1 */
+li ul .is-accordion-submenu-parent > a:after {
+	right: 1px; 
+	// outline: 1px solid blue; 
+}
+/* level 2 */
+li ul li ul .is-accordion-submenu-parent > a:after {
+	right: -11px; 
+	// outline: 1px solid green; 
+}
+
+ 
+/********************************************************************
+NAVIGATION STYLES
+********************************************************************/
+.parent-cat {		
+	font-style: italic; 		
+}
+
+
+/********************************************************************
+SIDEBARS & ASIDES
+********************************************************************/
+.submenu.is-accordion-submenu {
+	margin-left: 33px; 
+}
+
