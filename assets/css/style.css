@@ -2356,14 +2356,15 @@ a:visited {
 
 /* Add a external link icon */
 a[target="_blank"]:after {
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-family: "FontAwesome";
   content: "\f08e";
   display: inline-block;
   padding-left: 0.3125rem;
   float: none !important;
   right: 0 !important;
-  top: 2px !important; }
+  top: 2px !important;
+  vertical-align: text-top; }
 
 /* show links which are dead */
 a[href="#"] {
@@ -2378,6 +2379,7 @@ a[href="#"]:after {
 
 /* if in the menu, move icons to the left */
 .categories .menu a[target="_blank"]:before {
+  font-size: 80%;
   font-family: "FontAwesome";
   content: "\f08e";
   display: inline-block;
@@ -2392,12 +2394,13 @@ a[href="#"]:after {
   display: none; }
 
 .categories .menu a[href="#"]:before {
+  font-size: 80%;
   font-family: "FontAwesome";
   content: "\f057";
   display: inline-block;
   color: red;
   padding-right: 0.3125rem;
-  vertical-align: middle; }
+  vertical-align: text-top; }
 
 .categories .menu a[href="#"]:after {
   content: '';

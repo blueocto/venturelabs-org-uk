@@ -29,7 +29,7 @@ a:visited {
 
 /* Add a external link icon */
 a[target="_blank"]:after {
-	font-size: 0.8rem; 
+	font-size: 1rem; 
 	font-family: "FontAwesome"; 
 	content: "\f08e"; 
 	display: inline-block; 
@@ -38,6 +38,7 @@ a[target="_blank"]:after {
 	float: none!important; 		
 	right: 0!important; 		
 	top: 2px!important; 
+	vertical-align: text-top; 
 }
 
 /* show links which are dead */
@@ -56,6 +57,7 @@ a[href="#"]:after {
 .categories {
 	.menu {
 		a[target="_blank"]:before {
+			font-size: 80%; 
 			font-family: "FontAwesome"; 
 			content: "\f08e"; 
 			display: inline-block; 
@@ -71,12 +73,13 @@ a[href="#"]:after {
 			display: none; 
 		}
 		a[href="#"]:before {
+			font-size: 80%; 
 			font-family: "FontAwesome"; 
 			content: "\f057"; 
 			display: inline-block; 
 			color: red; 
 			padding-right: rem-calc(5px); 
-			vertical-align: middle; 
+			vertical-align: text-top; 
 		}
 		a[href="#"]:after {
 			content: ''; 
