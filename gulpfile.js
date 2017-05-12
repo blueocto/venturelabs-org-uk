@@ -90,7 +90,7 @@ gulp.task('foundation-js', function() {
 		'./_vendor/foundation-sites/js/foundation.responsiveMenu.js',
 		'./_vendor/foundation-sites/js/foundation.responsiveToggle.js',
 		// './_vendor/foundation-sites/js/foundation.reveal.js',
-		'./_vendor/foundation-sites/js/foundation.slider.js',
+		// './_vendor/foundation-sites/js/foundation.slider.js',
 		// './_vendor/foundation-sites/js/foundation.sticky.js',
 		// './_vendor/foundation-sites/js/foundation.tabs.js',
 		// './_vendor/foundation-sites/js/foundation.toggler.js',
@@ -127,7 +127,7 @@ gulp.task('browsersync', function() {
 
 	browserSync.init(files, {
 		// Replace with URL of your local site
-		proxy: "http://business-link-github.dev/",
+		proxy: "http://alpha.venturelabs.org.uk.dev/",
 	});
 	
 	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
