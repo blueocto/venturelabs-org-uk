@@ -31,7 +31,7 @@
 			<li><a href="complain-against-an-undischarged-bankrupt-or-disqualified-company-director/how-to-check-if-a-director-has-been-disqualified-or-if-an-individual-is-an-undischarged-bankrupt-or-subject-to-bankruptcy-restrictions.php">How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a></li>
 			<li><a href="complain-against-an-undischarged-bankrupt-or-disqualified-company-director/complaining-about-disqualified-directors-undischarged-bankrupts-and-persons-subject-to-bankruptcy-restrictions.html">Complaining about disqualified directors, undischarged bankrupts and persons subject to bankruptcy restrictions</a></li>
 		</ul>
-		<p><img src="../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		<strong>Print options</strong> - <span><a href="#">What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11" border="0" alt="" /><span> - Opens in a new window</span></a></span>
 		<ul>
 			<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>

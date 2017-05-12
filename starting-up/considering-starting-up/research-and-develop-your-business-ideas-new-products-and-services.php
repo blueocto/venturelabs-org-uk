@@ -46,13 +46,11 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-I-got-my-great-new-product-in-front-of-customers.php">Here's how I got my great new product in front of customers</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 		</ul>
-		<img src="../../_img/hr_325px_global.gif" alt="" />
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		<img src="../../_img/hr_140px_global.gif" alt="" />
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 
 		<h3>Actions</h3>
 		<ul>
@@ -64,7 +62,6 @@
 			<li><a href="http://www.productmanager.co.uk/innovation-management.html" target="_blank" rel="noopener noreferrer">Innovation management information on the Innovation Process Management website</a></li>
 			<li><a href="http://www.designcouncil.org.uk/resources/search/design%2520methods/bundle/guide?retain-filters=1" target="_blank" rel="noopener noreferrer">Idea generation and creativity advice on the Design Council website</a></li>
 		</ul>
-		<img src="../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

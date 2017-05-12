@@ -103,8 +103,6 @@
 
 			<h3>Companies House Contact Centre</h3>
 			<p>0303 1234 500</p>
-
-			<img src="../../../_img/hr_140px_global.gif" alt="" />
 			
 			<h3>Actions</h3>
 			<ul>
@@ -128,8 +126,6 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

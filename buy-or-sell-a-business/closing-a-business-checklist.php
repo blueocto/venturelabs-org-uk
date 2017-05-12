@@ -30,7 +30,7 @@
 			<li>Introduction</li>
 			<li><a href="#">Business exit checklist</a></li>
 		</ul>
-		<p><img src="../_img/hr_325px_global.gif" alt="" /></p>
+
 		<ul>
 			<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
 			<li><a href="#">Print page now</a></li>

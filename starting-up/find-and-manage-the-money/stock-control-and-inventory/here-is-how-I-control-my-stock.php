@@ -51,12 +51,8 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li>Here's how I control my stock</li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">

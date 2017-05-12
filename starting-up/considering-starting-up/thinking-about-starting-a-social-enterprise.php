@@ -41,20 +41,17 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
-		<img src="../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 600 9 006</p>
-		<img src="../../_img/hr_140px_global.gif" alt="" />
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 600 9 006</p> -->
 
-			<h3>Actions</h3>
-			<ul>
-				<li><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78927/building-stronger-civil-society.pdf" target="_blank" rel="noopener noreferrer">Download 'Big Society' strategy information from the Gov.uk website (PDF, 182K)</a></li>
-				<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information on the Social Enterprise UK website</a></li>
-			</ul>
-			<img src="../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+		<h3>Actions</h3>
+		<ul>
+			<li><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78927/building-stronger-civil-society.pdf" target="_blank" rel="noopener noreferrer">Download 'Big Society' strategy information from the Gov.uk website (PDF, 182K)</a></li>
+			<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information on the Social Enterprise UK website</a></li>
+		</ul>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -60,16 +60,12 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business.php">Sources and contacts to help you start a business</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Enterprise Finance Guarantee information on the BIS website </a></li>
@@ -88,8 +84,6 @@
 			<li><a href="/finance-and-grants/finance-options/grants-and-government-support/grants-the-basics.php">Grants: the basics</a></li>
 			<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

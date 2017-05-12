@@ -44,15 +44,11 @@
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/succession-planning-in-family-businesses.php">Succession planning in family businesses</a></li>
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/here-is-how-having-a-family-member-in-the-business-made-a-difference.php">Here's how having a family member in the business made a difference</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 		
 		<h3>Actions</h3>
 		<ul>
@@ -60,8 +56,6 @@
 			<li><a href="http://www.ifb.org.uk/" target="_blank" rel="noopener noreferrer">Family business resources on the Institute for Family Business website</a></li>
 			<li><a href="#">Download a guide on family businesses from the BDO Stoy Hayward website (PDF, 50K)</a></li>
 		</ul>
-		
-		
 		
 		<h3>Also on this site</h3>
 		<ul>
@@ -72,8 +66,6 @@
 			<li><a href="/employment-and-skills/problems-at-work/managing-conflict.php">Managing conflict</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home </a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -49,11 +49,7 @@
 			<li>Here's how I decided I was ready to start up my business</li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -85,9 +81,6 @@
 		<p><a href="/find-a-case-study.php"><b>Find a case study</b></a></p>
 
 		
-
-
-
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

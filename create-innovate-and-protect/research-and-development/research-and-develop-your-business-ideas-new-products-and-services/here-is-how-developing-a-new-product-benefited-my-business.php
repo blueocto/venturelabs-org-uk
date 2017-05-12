@@ -53,11 +53,7 @@
 			<li>Here's how developing a new product benefited my business</li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -81,8 +77,6 @@
 
 		<p><a href="/find-a-case-study.php"><strong>Find a case study</strong></a></p>
 		
-		<img src="../../../_img/px_growthandinnovation.gif" width="181" height="5" alt="" />
-
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

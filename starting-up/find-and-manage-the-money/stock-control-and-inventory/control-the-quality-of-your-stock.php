@@ -44,16 +44,12 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>BSI Standards and Publications</h3>
 		<p>020 8996 9001</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.bsigroup.com/en-GB/iso-9001-quality-management/" target="_blank" rel="noopener noreferrer">Quality control guidance on the BSI website</a></li>
@@ -66,8 +62,6 @@
 			<li><a href="/grow-your-business/growth-through-strategic-sourcing/negotiate-the-right-deal-with-suppliers.php">Negotiate the right deal with suppliers</a></li>
 			<li><a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php">Manage your suppliers</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

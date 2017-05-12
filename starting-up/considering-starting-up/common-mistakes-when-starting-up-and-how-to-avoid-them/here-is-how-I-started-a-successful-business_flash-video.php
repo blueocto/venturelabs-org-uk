@@ -53,11 +53,7 @@
 			<li>Here's how I started a successful business (Flash video)</li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -80,8 +76,6 @@
 		</div>
 
 		<p><a href="findContentBankf4d5.html?bank=CASE_STUDIES"  title=""><b>Find a case study</b></a></p>
-
-		<img src="../../../_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

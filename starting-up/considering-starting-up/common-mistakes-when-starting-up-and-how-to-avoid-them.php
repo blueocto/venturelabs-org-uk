@@ -39,14 +39,10 @@
 					<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/here-is-how-I-started-a-successful-business_flash-video.php">Here's how I started a successful business (Flash video)</a></li>
 				</ul>
 
-				<img src="../../_img/hr_325px_global.gif" alt="" />
-
 				<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-				<h3>Venture Labs Helpline</h3>
-				<p>0845 000 0000</p>
-
-				<img src="../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+				<!-- <h3>Venture Labs Helpline</h3> -->
+				<!-- <p>0845 000 0000</p> -->
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

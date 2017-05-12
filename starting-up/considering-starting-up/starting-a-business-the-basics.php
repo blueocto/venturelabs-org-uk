@@ -23,7 +23,7 @@
 		<p>You can <a href="/do-it-online/incorporate-your-company-online.php">incorporate your limited company online with Companies House</a> using the web incorporation service, for incorporating a private company, limited by shares, with model articles of association.</p>
 		
 		<ul>
-			<li><a href="/starting-up/considering-starting-up/what-to-do-before-you-start-your-business.php" title="What to do before you start your business">Next</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-to-do-before-you-start-your-business.php" title="What to do before you start your business">Next</a></li>
 		</ul>
 		
 		<h3>Subjects covered in this guide</h3>
@@ -37,14 +37,10 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 		
-		<img src="../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		<img src="../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

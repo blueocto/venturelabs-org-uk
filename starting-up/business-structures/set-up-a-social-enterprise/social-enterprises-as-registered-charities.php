@@ -34,7 +34,7 @@
 			
 			<ul>
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php" title="Community benefit societies">Prev</a></li>
-				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php" title="Community Interest Companies">Next</a></li>
+				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-interest-companies.php" title="Community Interest Companies">Next</a></li>
 			</ul>
 			
 			<h3>Subjects covered in this guide</h3>
@@ -45,7 +45,7 @@
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/limited-companies-with-a-social-purpose.php">Limited companies with a social purpose</a></li>
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php">Community benefit societies</a></li>
 				<li>Social enterprises as registered charities</li>
-				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Community Interest Companies</a></li>
+				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-interest-companies.php">Community Interest Companies</a></li>
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/charitable-incorporated-organisations.php">Charitable incorporated organisations</a></li>
 				<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			</ul>
@@ -54,9 +54,7 @@
 
 			<h3>Charity Commission Contact Centre General Enquiry Line</h3>
 			<p>0845 3000 218</p>
-			
-			<img src="../../../_img/hr_140px_global.gif" alt="" />
-			
+						
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="https://www.gov.uk/topic/running-charity/setting-up" target="_blank" rel="noopener noreferrer">Charity registration documents from the Charity Commission</a></li>
@@ -75,8 +73,6 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

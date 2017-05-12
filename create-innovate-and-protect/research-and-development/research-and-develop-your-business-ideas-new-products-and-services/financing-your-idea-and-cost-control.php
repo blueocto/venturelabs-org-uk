@@ -78,14 +78,10 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 600 9 006</p>
-
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 600 9 006</p> -->
 
 		<h3>Actions</h3>
 		<ul>
@@ -111,8 +107,6 @@
 			<li><a href="/create-innovate-and-protect/design-for-business-success/how-can-I-use-design-in-my-business.php">How can I use design in my business?</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/manage-your-research-design-and-development.php">Manage your research, design and development</a></li>
 		</ul>
-
-		<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

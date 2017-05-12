@@ -54,8 +54,6 @@
 			<li>Stock control administration</li>
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -73,8 +71,6 @@
 			<li><a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php">Set up a basic record-keeping system</a></li>
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php">Financial and management accounts: the basics</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

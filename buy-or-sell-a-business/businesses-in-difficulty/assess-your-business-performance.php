@@ -29,7 +29,7 @@
 			<li>Introduction</li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077717552&type=BLTTOOL">Assess your business' performance</a></li>
 		</ul>
-		<p><img src="../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		<strong>Print options</strong> - <span><a href="#">What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11" border="0" alt="" /><span> - Opens in a new window</span></a></span>
 		<ul>
 			<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>

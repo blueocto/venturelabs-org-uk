@@ -52,12 +52,8 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li>Here's how I started a successful social enterprise</li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -80,8 +76,6 @@
 		</div>
 
 		<p><strong><a href="/find-a-case-study.php">Find a case study</a></strong></p>
-
-		<img src="../../../_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

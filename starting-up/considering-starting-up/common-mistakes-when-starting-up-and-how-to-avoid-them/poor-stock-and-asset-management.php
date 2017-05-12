@@ -56,12 +56,10 @@
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/here-is-how-I-started-a-successful-business_flash-video.php">Here's how I started a successful business (Flash video)</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 
 		<h3>Also on this site</h3>
 		<ul>
@@ -69,9 +67,7 @@
 			<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a></li>
 		</ul>
 
-		
-
-
+	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

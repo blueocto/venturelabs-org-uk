@@ -53,8 +53,6 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/prepare-a-financial-plan.php">Prepare a financial plan</a></li>
 			<li>Find support</li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -64,8 +62,8 @@
 		<p>0845 915 4515<br/></p>
 		<h3>HMRC Tax Credits Helpline</h3>
 		<p>0845 300 3900<br/></p>
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 		
 		<h3>Also on this site</h3>
 		<ul>
@@ -75,8 +73,6 @@
 			<li><a href="/sales-and-marketing/online-marketing/online-business-networking-and-social-networking.php">Online business networking and social networking</a></li>
 			<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php">Extra help and support available for your start up</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

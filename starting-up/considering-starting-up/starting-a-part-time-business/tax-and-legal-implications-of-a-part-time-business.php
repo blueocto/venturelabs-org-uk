@@ -43,12 +43,10 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 
 		<h3>Also on this site</h3>
 		<ul>
@@ -57,8 +55,6 @@
 			<li><a href="https://www.gov.uk/set-up-business" title="Discover what it means to be your own boss and how to take the first steps in getting your business off the ground" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></li>
 			<li><a href="https://www.gov.uk/business-legal-structures" title="Learn about the different types of business and legal structures to help you choose the right one for your new business" target="_blank" rel="noopener noreferrer">Understand the different business types</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

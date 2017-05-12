@@ -58,9 +58,7 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -76,8 +74,6 @@
 			<li><a href="/it-and-ecommerce/software-and-business-applications/supply-chain-software.php">Supply chain software</a></li>
 			<li><a href="/it-and-ecommerce/introduction-to-it/an-overview-of-it-and-e-commerce.php">An overview of IT and e-commerce</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

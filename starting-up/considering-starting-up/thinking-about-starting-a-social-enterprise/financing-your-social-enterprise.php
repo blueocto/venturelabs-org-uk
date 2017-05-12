@@ -48,16 +48,12 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://responsiblefinance.org.uk/funding-innovation/" target="_blank" rel="noopener noreferrer">CDFI information on the CDFA website</a></li>
@@ -78,9 +74,7 @@
 			<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Set up a social enterprise</a></li>
 		</ul>
 
-		
-
-
+	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

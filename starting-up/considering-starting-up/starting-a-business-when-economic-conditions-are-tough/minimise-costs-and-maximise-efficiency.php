@@ -50,13 +50,11 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business.php">Sources and contacts to help you start a business</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
 		
 		<h3>Also on this site</h3>
 		<ul>
@@ -65,8 +63,6 @@
 			<li><a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php">Manage your suppliers</a></li>
 			<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php">How to choose and manage a business bank account</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

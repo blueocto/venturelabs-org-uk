@@ -50,16 +50,12 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/using-the-business-plan-template.php">Using the business plan template</a></li>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/sales-and-marketing/advertising-branding-and-design/choosing-the-right-advertising-media.php">Use our interactive tool to investigate what will be the best advertising media for your business</a></li>
@@ -75,8 +71,6 @@
 			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">Know your customers' needs</a></li>
 			<li><a href="/sales-and-marketing/pricing/price-your-product-or-service.php">Price your product or service</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

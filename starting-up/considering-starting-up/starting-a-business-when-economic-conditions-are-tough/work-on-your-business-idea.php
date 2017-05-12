@@ -51,15 +51,11 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.bl.uk/business-and-ip-centre" target="_blank" rel="noopener noreferrer">Idea development information on the British Library Business &amp; IP Centre website</a></li>
@@ -70,8 +66,6 @@
 			<li><a href="https://www.gov.uk/set-up-business" title="Find out about researching your chosen market and how to generate or develop a new business idea" target="_blank" rel="noopener noreferrer">Develop your business idea</a></li>
 			<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

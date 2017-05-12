@@ -42,8 +42,6 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -51,8 +49,6 @@
 			<li><a href="https://www.bsigroup.com/en-GB/iso-9001-quality-management/" target="_blank" rel="noopener noreferrer">Quality management information on the British Standards Institution website</a></li>
 			<li><a href="https://www.cips.org/en-au/training/training-courses1/inventory-management/" target="_blank" rel="noopener noreferrer">Inventory management course on the Chartered Institute of Purchasing and Supply website</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

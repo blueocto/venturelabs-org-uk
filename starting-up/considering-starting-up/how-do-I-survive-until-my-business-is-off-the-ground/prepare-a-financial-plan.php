@@ -45,16 +45,12 @@
 			<li>Prepare a financial plan</li>
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="../../../_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download a spreadsheet containing cashflow forecast, profit and loss forecast and sales forecast templates (XLS, 44K) </a></li>
@@ -69,8 +65,6 @@
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a></li>
 			<li><a href="/sales-and-marketing/selling/forecast-and-plan-your-sales.php">Forecast and plan your sales</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

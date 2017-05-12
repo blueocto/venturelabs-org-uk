@@ -73,9 +73,7 @@
 			<p>0303 1234 500</p>
 			<h3>TSO Customer Services</h3>
 			<p>0870 600 5522</p>
-			
-			<img src="../../../_img/hr_140px_global.gif" alt="" />
-			
+						
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="https://www.gov.uk/government/publications/register-a-private-or-public-company-in01" target="_blank" rel="noopener noreferrer">Download form IN01 from Companies House (PDF, 1.03MB)</a></li>
@@ -92,8 +90,6 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

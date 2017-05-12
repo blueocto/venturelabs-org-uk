@@ -61,8 +61,6 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -70,8 +68,6 @@
 		<p>020 8996 9001</p>
 		<h3>BSIA Helpline</h3>
 		<p>0845 389 3889</p>
-
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
 
 		<h3>Actions</h3>
 		<ul>
@@ -85,9 +81,7 @@
 			<li><a href="/employment-and-skills/staff-documents-and-employment-policies/monitoring-and-security-of-staff.php">Monitoring and security of staff</a></li>
 		</ul>
 
-		
-
-
+	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

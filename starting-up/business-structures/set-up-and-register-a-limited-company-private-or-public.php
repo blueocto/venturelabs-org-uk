@@ -38,15 +38,11 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/right-to-manage-companies-and-commonhold-associations.php">Right to manage companies and commonhold associations</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Companies House Contact Centre</h3>
 		<p>0303 1234 500</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/topic/company-registration-filing/starting-company" target="_blank" rel="noopener noreferrer">Company incorporation guidance from Companies House</a></li>
@@ -54,8 +50,6 @@
 			<li><a href="http://www.accaglobal.com/uk/en/member.html" target="_blank" rel="noopener noreferrer">Chartered accountant search with the Association of Certified Chartered Accountants</a></li>
 			<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your limited company online with Companies House</a></li>
 		</ul>
-		</ul>
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 </div><!-- // .small-12 large-8 large-push-4 columns -->

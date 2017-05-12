@@ -52,8 +52,6 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -66,8 +64,6 @@
 			<li><a href="http://web.archive.org/web/20111108221856/http://www.sel.org.uk/publications.aspx" target="_blank" rel="noopener noreferrer">Social enterprise resource materials from Social Enterprise London</a></li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/whatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 guidance from the Department for Business, Innovation &amp; Skills</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 </div><!-- // .small-12 large-8 large-push-4 columns -->

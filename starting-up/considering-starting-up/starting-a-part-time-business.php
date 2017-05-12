@@ -34,15 +34,12 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/help-and-support-for-part-time-businesses.php">Help and support for part-time businesses</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
 		</ul>
-		<img src="../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+	
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

@@ -44,7 +44,7 @@
 		
 		<h3>More information</h3>
 		<p>Or if you need more help, see our guide on <a href="https://www.gov.uk/advertise-job">Advertise a job with Universal Jobmatch</a>. </p>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
+		
 		<ul>
 			<li><a href="#">Tell a friend about this page</a></li>
 			<li><a href="#" title="Tell a friend about this page">Send me an email alert when this page changes</a></li>

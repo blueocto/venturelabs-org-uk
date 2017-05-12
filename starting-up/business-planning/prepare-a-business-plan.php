@@ -44,15 +44,11 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.horsesmouth.co.uk/publisha.content/spotlight/taxonomy.publisha" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
@@ -60,9 +56,7 @@
 			<li><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 
-		
-
-
+	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

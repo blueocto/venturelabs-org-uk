@@ -40,16 +40,12 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/prepare-a-financial-plan.php">Prepare a financial plan</a></li>
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 000 0000</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 000 0000</p> -->
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.startupdonut.co.uk/startup/financing-a-business/start-up-costs" target="_blank" rel="noopener noreferrer">Start up finance resources on the Start up Donut website</a></li>
@@ -62,8 +58,6 @@
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a></li>
 			<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/tax-advantages-for-those-starting-up-in-business.php" title="The tax allowances and reliefs available to new businesses">Tax advantages for those starting up in business</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
