@@ -505,7 +505,7 @@
 			<a href="/starting-up/vat.php">VAT</a>
 			<ul>
 				<li><a href="/starting-up/vat.php" title="VAT">Introduction</a></li>
-				<!-- <li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php">Introduction to VAT</a> -->
+				<li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php">Introduction to VAT</a>
 			<!--
 			|	|	|
 			|	|	├── Introduction
@@ -519,7 +519,7 @@
 			|	|	├── Here's how I got to grips with VAT
 			|	|	└── More Useful Links
 			//-->
-				<!-- </li> -->
+				</li>
 				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Get to grips with VAT and your business</a></li>
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102023&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
