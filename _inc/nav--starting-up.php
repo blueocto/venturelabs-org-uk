@@ -485,6 +485,7 @@
 			<a href="/starting-up/corporation-tax.php">Corporation Tax</a>
 			<ul>
 				<li><a href="/starting-up/corporation-tax.php" title="Corporation Tax<">Introduction</a></li>
+				<!--
 				<li>
 					<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php">Who is liable for Corporation Tax</a>
 					<ul>
@@ -495,6 +496,7 @@
 						<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-you-must-do-if-your-company-or-organisation-is-liable-for-corporation-tax.php">What you must do if your company or organisation is liable for Corporation Tax</a></li>
 					</ul>
 				</li>
+				-->
 				<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get started with Corporation Tax</a></li>
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102017&r.l1=1073858805&r.l2=1085541869&r.s=e&type=HUBCHASSIS
@@ -505,7 +507,7 @@
 			<a href="/starting-up/vat.php">VAT</a>
 			<ul>
 				<li><a href="/starting-up/vat.php" title="VAT">Introduction</a></li>
-				<li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php">Introduction to VAT</a>
+				<!-- <li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php">Introduction to VAT</a> -->
 			<!--
 			|	|	|
 			|	|	├── Introduction
@@ -519,7 +521,7 @@
 			|	|	├── Here's how I got to grips with VAT
 			|	|	└── More Useful Links
 			//-->
-				</li>
+				<!-- </li> -->
 				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Get to grips with VAT and your business</a></li>
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102023&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
@@ -532,11 +534,11 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102070&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
 				//-->
-				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Run and manage your VAT account</a></li>
+				<!-- <li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Run and manage your VAT account</a></li> -->
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102052&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
 				//-->
-				<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php">How to complete your VAT Return box by box</a>
+				<!-- <li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php">How to complete your VAT Return box by box</a> -->
 			<!--
 			|	|	|
 			|	|	├── Introduction
@@ -547,8 +549,8 @@
 			|	|	├── VAT rate changes
 			|	|	└── Here's how I got to grips with VAT
 			// -->
-				</li>
-				<li><a href="/tax-payroll-and-company-information/vat/when-to-register-for-vat.php">When to register for VAT</a>
+				<!-- </li> -->
+				<!-- <li><a href="/tax-payroll-and-company-information/vat/when-to-register-for-vat.php">When to register for VAT</a> -->
 			<!--
 			|		|
 			|		├── Introduction
@@ -603,16 +605,18 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102011&r.l1=1073858805&r.l2=1073859176&r.s=e&type=HUBCHASSIS
 				//-->
+				<!--
 				<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php">Ensuring your workers are eligible to work in the UK</a>
-			<!--
+			
 			|	|	├── Introduction
 			|	|	├── Checking a prospective worker's entitlement to work in the UK
 			|	|	├── Copying and retaining workers' records
 			|	|	├── Compliance checks and penalties for immigration offences
 			|	|	├── Here's how migrant workers contribute to our workforce
 			|	|	└── Here's how we check the entitlement of our staff to work in the UK
-			//-->
+			
 				</li>
+				//-->
 				<li><a href="https://www.gov.uk/employment-contracts-and-conditions" target="_blank" rel="noopener noreferrer">Create a written statement of employment</a></li>
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/stmtEmpLanding?r.l1=1073858805&r.l2=1073859176&r.s=tl&topicId=1075225309
