@@ -22,7 +22,7 @@
 		<p>However, you will need to put time and effort into finding the business that's right for you. Also, the costs involved in buying an existing business can be substantial and should not be underestimated.</p>
 		<p>This guide takes you through the steps of buying an existing business, including how to assess and value a business, your obligations to any existing staff and where you can get professional help.</p>
 		<ul>
-			<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php">Next</a></li>
+			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/advantages-and-disadvantages-of-buying-an-existing-business.php" title="Advantages and disadvantages of buying an existing business">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
@@ -49,7 +49,6 @@
 			<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Use our interactive tool to identify the right finance options for your business</a></li>
 		</ul>
 
-		<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

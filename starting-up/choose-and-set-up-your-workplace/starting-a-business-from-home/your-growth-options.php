@@ -51,9 +51,7 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li>Your growth options</li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -67,8 +65,6 @@
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/assess-your-options-for-growth.php">Assess your options for growth</a></li>
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/prepare-a-business-plan-for-growth.php">Prepare a business plan for growth</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

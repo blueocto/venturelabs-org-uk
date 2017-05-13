@@ -73,8 +73,6 @@
 				<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 			<hr />
 			
 			<p>Developed with:<br />

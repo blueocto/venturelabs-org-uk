@@ -49,8 +49,6 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -66,8 +64,6 @@
 			<li><a href="/tax-payroll-and-company-information/self-assessment/tax-returns-if-youre-self-employed-or-in-a-partnership/record-keeping-self-employed.php">Record keeping (self-employed)</a></li>
 			<li><a href="/tax-payroll-and-company-information/self-assessment/your-tax-return-the-basics/record-keeping-individuals-and-directors.php">Record keeping (individuals and directors)</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

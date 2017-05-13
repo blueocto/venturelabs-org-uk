@@ -52,16 +52,12 @@
 			<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/objections-to-company-names.php">Objections to company names</a></li>
 			<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/prescribed-and-sensitive-words.php">Prescribed and sensitive words</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Companies House Contact Centre</h3>
 		<p>0303 1234 500</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your limited company online with Companies House</a></li>
@@ -77,8 +73,6 @@
 			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Understand the different business types</a></li>
 			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

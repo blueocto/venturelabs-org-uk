@@ -51,9 +51,7 @@
 			
 			<h3>Environment Agency Helpline</h3>
 			<p>03708 506 506</p>
-			
-			<p><img src="../../../_img/hr_140px_global.gif" alt="" /></p>
-			
+						
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="http://www.netregs.org.uk/business-sectors/" target="_blank" rel="noopener noreferrer">Environmental legislation explained for your industry sector on the NetRegs website</a></li>
@@ -71,8 +69,6 @@
 				<li><a href="/environment-and-efficiency/waste-legislation-and-responsibility/managing-your-hazardous-waste.php">Managing your hazardous waste</a></li>
 				<li><a href="/environment-and-efficiency/waste-legislation-and-responsibility/duty-of-care-your-waste-responsibilities.php">Duty of care - your waste responsibilities</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>
 				Developed with:<br />

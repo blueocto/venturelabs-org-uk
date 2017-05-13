@@ -68,7 +68,6 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 		</div>
 		<!-- // .small-12 large-8 large-push-4 columns -->

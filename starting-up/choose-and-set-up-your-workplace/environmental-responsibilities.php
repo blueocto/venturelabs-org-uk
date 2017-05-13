@@ -38,26 +38,20 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/prevent-and-remedy-pollution-incidents.php">Prevent and remedy pollution incidents</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/the-business-benefits-of-good-environmental-and-sustainable-practices.php">The business benefits of good environmental and sustainable practices</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Envirowise Advice Line</h3>
 		<p>0800 585 794</p>
 		<h3>Environment Agency Helpline</h3>
 		<p>03708 506 506</p>
-
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
 		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20140328084622/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">Environmental legislation explained on the NetRegs website</a></li>
 			<li><a href="/environment-and-efficiency/measuring-and-reporting-environmental-performance/assess-your-environmental-compliance.php">Use our interactive tool to assess your environmental compliance</a></li>
 		</ul>
-		
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-		
+				
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

@@ -55,8 +55,6 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -71,8 +69,6 @@
 			<li><a href="/sales-and-marketing/online-marketing/online-business-networking-and-social-networking.php">Online business networking and social networking</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

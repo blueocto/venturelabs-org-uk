@@ -78,8 +78,6 @@
 				<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 			<hr />
 			
 			<p>Developed with:<br />

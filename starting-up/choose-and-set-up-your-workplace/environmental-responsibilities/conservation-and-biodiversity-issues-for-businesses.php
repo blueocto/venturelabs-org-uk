@@ -88,8 +88,6 @@
 				<li><a href="/your-business-sector/farming/land-and-conservation/sites-of-special-scientific-interest-sssi-and-historical-monuments.php">Sites of Special Scientific Interest (SSSI) and historical monuments</a></li>
 				<li><a href="/environment-and-efficiency/construction-and-building-trades/japanese-knotweed-giant-hogweed-and-other-invasive-plants.php">Japanese knotweed, giant hogweed and other invasive plants</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>
 				Developed with:

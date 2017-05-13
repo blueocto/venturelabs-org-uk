@@ -51,8 +51,6 @@
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/getting-your-business-name-on-the-internet.php">Getting your business name on the internet</a></li>
 			<li>Here's how I chose the name for my business</li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

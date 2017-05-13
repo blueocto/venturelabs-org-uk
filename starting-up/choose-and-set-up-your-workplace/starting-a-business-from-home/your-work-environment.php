@@ -61,9 +61,7 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -77,8 +75,6 @@
 			<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace.php">Use your home as a workplace</a></li>
 			<li><a href="/workplace-health-and-safety/what-workplace-facilities-do-you-need-to-provide.php">What workplace facilities do you need to provide?</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

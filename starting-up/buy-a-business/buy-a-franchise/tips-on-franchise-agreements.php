@@ -68,7 +68,6 @@
 				<li><a href="/employment-and-skills/redundancy-restructures-and-change/responsibilities-to-employees-if-you-buy-or-sell-a-business.php">Responsibilities to employees if you buy or sell a business</a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 		</div>
 		<!-- // .small-12 large-8 large-push-4 columns -->

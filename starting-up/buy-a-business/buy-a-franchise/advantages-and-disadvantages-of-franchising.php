@@ -78,8 +78,6 @@
 				<li><a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a></li>
 				<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<hr />
 

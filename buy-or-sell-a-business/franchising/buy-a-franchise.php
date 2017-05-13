@@ -51,7 +51,6 @@
 			<li><a href="http://www.theukfranchisedirectory.net" target="_blank" rel="noopener noreferrer">UK franchise opportunities on the UK Franchise Directory website</a></li>
 		</ul>
 
-		<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

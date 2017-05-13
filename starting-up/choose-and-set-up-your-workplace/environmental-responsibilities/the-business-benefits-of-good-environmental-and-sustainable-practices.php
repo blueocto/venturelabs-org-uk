@@ -76,8 +76,6 @@
 				<li><a href="/your-business-sector/farming/farm-business-planning/business-innovation-for-agriculture.php">Business innovation for agriculture</a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 			<p>
 				Developed with:
 				<br />

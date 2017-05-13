@@ -39,8 +39,6 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

@@ -44,9 +44,7 @@
 			<li>Managing your home-based business</li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Also on this site</h3>
@@ -56,8 +54,6 @@
 			<li><a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php">Credit checking your customers and setting credit limits</a></li>
 			<li><a href="/it-and-ecommerce/introduction-to-it/plan-your-it.php">Plan your IT</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

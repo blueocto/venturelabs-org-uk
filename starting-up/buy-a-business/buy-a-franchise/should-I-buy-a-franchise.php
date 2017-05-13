@@ -75,8 +75,6 @@
 				<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">Write a marketing plan</a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 			<hr />
 			
 			<p>Developed with:<br />

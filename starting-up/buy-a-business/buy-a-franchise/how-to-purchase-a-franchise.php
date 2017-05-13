@@ -77,8 +77,6 @@
 				<li><a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a></li>
 				<li><a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php">Choose and work with a solicitor</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer">

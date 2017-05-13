@@ -31,17 +31,12 @@
 			<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/objections-to-company-names.php">Objections to company names</a></li>
 			<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/prescribed-and-sensitive-words.php">Prescribed and sensitive words</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Companies House Contact Centre</h3>
-		<p>0303 1234 500
-		</p>
-		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
-		
+		<p>0303 1234 500</p>
+				
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/get-information-about-a-company" target="_blank" rel="noopener noreferrer">Use our interactive tool to search for an available company name and trade mark</a></li>
@@ -49,8 +44,6 @@
 			<li><a href="https://www.citma.org.uk/trade_marks/about_trade_marks" target="_blank" rel="noopener noreferrer">Trade marks guidance on the Institute of Trade Mark Attorneys website</a></li>
 		</ul>
 		
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

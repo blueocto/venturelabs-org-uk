@@ -76,8 +76,6 @@
 				<li><a href="/environment-and-efficiency/the-business-case-for-environmental-improvements/benefits-of-improving-your-environmental-performance.php">Benefits of improving your environmental performance</a></li>
 				<li><a href="/environment-and-efficiency/sources-of-environmental-advice/local-authority-services-an-overview.php">Local authority services: an overview</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>
 				Developed with:

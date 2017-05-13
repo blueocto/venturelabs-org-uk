@@ -73,7 +73,6 @@
 				<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a></li>
 			</ul>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 		
 		</div><!-- // .small-12 large-8 large-push-4 columns -->
 		

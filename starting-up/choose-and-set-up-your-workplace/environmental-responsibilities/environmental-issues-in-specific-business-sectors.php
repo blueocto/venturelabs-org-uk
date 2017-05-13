@@ -60,8 +60,6 @@
 				<li><a href="/environment-and-efficiency/waste-legislation-and-responsibility/duty-of-care-your-waste-responsibilities.php">Duty of care - your waste responsibilities</a></li>
 				<li><a href="/environment-and-efficiency/sources-of-environmental-advice/using-an-environmental-consultant.php">Using an environmental consultant</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>
 				Developed with:

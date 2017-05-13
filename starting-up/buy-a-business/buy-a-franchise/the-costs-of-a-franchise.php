@@ -73,8 +73,6 @@
 				<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up.php">Choose the right finance when starting up</a></li>
 				<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer">

@@ -53,19 +53,15 @@
 			<li>Getting your business name on the internet</li>
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
 		</ul>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Nominet Enquiry Line</h3>
 		<p>01865 33 22 11</p>
 		<h3>Companies House Contact Centre</h3>
 		<p>0303 1234 500</p>
-		<h3>Venture Labs Helpline</h3>
-		<p>0845 600 9 006</p>
-
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<!-- <h3>Venture Labs Helpline</h3> -->
+		<!-- <p>0845 600 9 006</p> -->
 		
 		<h3>Actions</h3>
 		<ul>
@@ -82,8 +78,6 @@
 			<li><a href="/it-and-ecommerce/suppliers/choose-and-manage-your-it-supplier.php">Choose and manage your IT supplier</a></li>
 			<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business</a></li>
 		</ul>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

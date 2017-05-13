@@ -81,8 +81,6 @@
 				<li><a href="/environment-and-efficiency/preventing-and-managing-pollution/preventing-water-pollution.php" title="How to comply with water pollution legislation and avoid being prosecuted for causing a pollution incident">Preventing water pollution</a></li>
 				<li><a href="/environment-and-efficiency/waste-legislation-and-responsibility/duty-of-care-your-waste-responsibilities.php">Duty of care - your waste responsibilities</a></li>
 			</ul>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 			
 			<p>
 				Developed with:
