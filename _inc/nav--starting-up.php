@@ -602,18 +602,16 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102011&r.l1=1073858805&r.l2=1073859176&r.s=e&type=HUBCHASSIS
 				//-->
-				<!--
 				<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php">Ensuring your workers are eligible to work in the UK</a>
-			
+			<!--//
 			|	|	├── Introduction
 			|	|	├── Checking a prospective worker's entitlement to work in the UK
 			|	|	├── Copying and retaining workers' records
 			|	|	├── Compliance checks and penalties for immigration offences
 			|	|	├── Here's how migrant workers contribute to our workforce
 			|	|	└── Here's how we check the entitlement of our staff to work in the UK
-			
+			//-->
 				</li>
-				//-->
 				<li><a href="https://www.gov.uk/employment-contracts-and-conditions" target="_blank" rel="noopener noreferrer">Create a written statement of employment</a></li>
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/stmtEmpLanding?r.l1=1073858805&r.l2=1073859176&r.s=tl&topicId=1075225309
