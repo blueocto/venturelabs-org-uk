@@ -536,7 +536,7 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102052&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
 				//-->
-				<!-- <li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php">How to complete your VAT Return box by box</a> -->
+				<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php">How to complete your VAT Return box by box</a>
 			<!--
 			|	|	|
 			|	|	├── Introduction
@@ -547,7 +547,7 @@
 			|	|	├── VAT rate changes
 			|	|	└── Here's how I got to grips with VAT
 			// -->
-				<!-- </li> -->
+				</li>
 				<li><a href="/starting-up/vat/when-to-register-for-vat.php">When to register for VAT</a>
 					<ul>
 						<li><a href="/starting-up/vat/when-to-register-for-vat.php" title="When to register for VAT">Introduction</a></li>
