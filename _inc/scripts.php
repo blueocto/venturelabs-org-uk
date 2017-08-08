@@ -1,11 +1,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <?php /* Load What-Input files in footer */ ?>
-<script defer src="http://alpha.venturelabs.org.uk/_vendor/what-input/dist/what-input.min.js"></script>
+<!-- <script defer src="http://alpha.venturelabs.org.uk/_vendor/what-input/dist/what-input.min.js"></script> -->
 <?php /* Adding Foundation scripts file in the footer */ ?>
-<script defer src="http://alpha.venturelabs.org.uk/assets/js/foundation.min.js"></script>
+<script defer src="http://alpha.venturelabs.org.uk/assets/js/foundation.js"></script>
 <?php /* Load What-Input files in footer */ ?>
-<script defer src="http://alpha.venturelabs.org.uk/assets/js/scripts.min.js"></script>
+<script defer src="http://alpha.venturelabs.org.uk/assets/js/scripts.js"></script>
 <?php /* Typekit - Proxima Nova Soft
 <script defer src="https://use.typekit.net/hnm1usr.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
