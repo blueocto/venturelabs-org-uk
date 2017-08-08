@@ -1,4 +1,4 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 
 <?php /* Load What-Input files in footer */ ?>
 <!-- <script defer src="http://alpha.venturelabs.org.uk/_vendor/what-input/dist/what-input.min.js"></script> -->
