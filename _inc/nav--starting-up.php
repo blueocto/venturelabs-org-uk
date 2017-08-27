@@ -730,21 +730,22 @@
 			|	|	└── Review your import readiness
 			//-->
 				</li>
-				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── Planning to export?
-			|	|	├── Selling and distribution in overseas markets
-			|	|	├── Marketing your product or service overseas
-			|	|	├── Your legal responsibilities as an exporter
-			|	|	├── Transport considerations
-			|	|	├── Financial considerations
-			|	|	├── Working effectively with different cultures
-			|	|	├── Helping your business grow internationally
-			|	|	├── Ten key steps to successful exporting
-			|	|	├── Here's how I developed a strong export market
-			|	|	└── Here's how I kept my business profitable by exporting my products abroad (Flash video)
-			//-->
+				<li>
+					<a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a>
+					<ul>
+						<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php" title="Exporting - an overview">Introduction</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/planning-to-export.php">Planning to export?</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/selling-and-distribution-in-overseas-markets.php">Selling and distribution in overseas markets</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/marketing-your-product-or-service-overseas.php">Marketing your product or service overseas</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/your-legal-responsibilities-as-an-exporter.php">Your legal responsibilities as an exporter</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/transport-considerations.php">Transport considerations</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/financial-considerations.php">Financial considerations</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/working-effectively-with-different-cultures.php">Working effectively with different cultures</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/helping-your-business-grow-internationally.php">Helping your business grow internationally</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/ten-key-steps-to-successful-exporting.php">Ten key steps to successful exporting</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-developed-a-strong-export-market.php">Here's how I developed a strong export market</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-kept-my-business-profitable-by-exporting-my-products-abroad_flash-video.php">Here's how I kept my business profitable by exporting my products abroad (Flash video)</a></li>
+					</ul>
 				</li>
 				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php">Preparing to export</a>
 			<!--
@@ -769,17 +770,18 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101996&r.l1=1073858805&r.l2=1073859173&r.s=e&type=HUBCHASSIS
 				//-->
-				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php">Intellectual property: the basics</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── What is intellectual property?
-			|	|	├── How you can protect your intellectual property
-			|	|	├── Patents
-			|	|	├── Copyright
-			|	|	├── Trade marks
-			|	|	├── Designs
-			|	|	└── A start-up intellectual property checklist
-			//-->
+				<li>
+					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php">Intellectual property: the basics</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php" title="Intellectual property: the basics">Introduction</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/what-is-intellectual-property.php">What is intellectual property?</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/how-you-can-protect-your-intellectual-property.php">How you can protect your intellectual property</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/patents.php">Patents</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/copyright.php">Copyright</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/trade-marks.php">Trade marks</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/designs.php">Designs</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/a-start-up-intellectual-property-checklist.php">A start-up intellectual property checklist</a></li>
+					</ul>
 				</li>
 				<li>
 					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Find out how to protect your ideas</a>
@@ -789,17 +791,18 @@
 						<!-- http://webarchive.nationalarchives.gov.uk/20120405153706/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077840105&r.l1=1073858796&r.l2=1086109554&r.l3=1086084986&r.l4=1075197656&r.s=sc&type=BLTTOOL -->
 					</ul>
 				</li>
-				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php">Non-disclosure agreements</a>
-			<!--
-			|		├── Introduction
-			|		├── What is a non-disclosure agreement?
-			|		├── Types of non-disclosure agreement
-			|		├── Ways to prepare a non-disclosure agreement
-			|		├── Key non-disclosure agreement terms
-			|		├── Creating a non-disclosure agreement
-			|		├── Issues when signing a non-disclosure agreement
-			|		└── Here's how I use NDAs in my business
-			// -->
+				<li>
+					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php">Non-disclosure agreements</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php" title="Non-disclosure agreements">Introduction</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/what-is-a-non-disclosure-agreement.php">What is a non-disclosure agreement?</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/types-of-non-disclosure-agreement.php">Types of non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/ways-to-prepare-a-non-disclosure-agreement.php">Ways to prepare a non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/key-non-disclosure-agreement-terms.php">Key non-disclosure agreement terms</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/creating-a-non-disclosure-agreement.php">Creating a non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/issues-when-signing-a-non-disclosure-agreement.php">Issues when signing a non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/here-is-how-I-use-ndas-in-my-business.php"  >Here's how I use NDAs in my business</a></li>
+					</ul>
 				</li>
 			</ul>
 		</li>
