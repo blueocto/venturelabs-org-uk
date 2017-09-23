@@ -46,7 +46,6 @@
 			<li><a href="http://uk.businessesforsale.com/uk/search/businesses-for-sale/articles/sell-my-business-understanding-the-process-of-selling" target="_blank" rel="noopener noreferrer">Business sale process article on the BusinessesForSale website</a></li>
 		</ul>
 
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

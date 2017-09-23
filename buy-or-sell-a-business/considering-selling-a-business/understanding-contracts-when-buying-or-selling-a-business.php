@@ -49,7 +49,6 @@
 			<li><a href="/do-it-online/search-company-information-using-companies-house-webcheck.php">Search company information using the WebCHeck service at Companies House</a></li>
 		</ul>
 
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

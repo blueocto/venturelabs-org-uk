@@ -53,7 +53,6 @@
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/create-an-action-plan-to-successfully-grow-your-business.php">Use our interactive tool to find your strengths and identify the areas you need to work on if you want your business to grow</a></li>
 		</ul>
 		
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

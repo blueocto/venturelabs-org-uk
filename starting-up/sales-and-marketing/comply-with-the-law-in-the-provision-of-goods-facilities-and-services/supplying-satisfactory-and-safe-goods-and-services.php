@@ -80,8 +80,6 @@
 			<li><a href="/sales-and-marketing/pricing/competing-fairly.php">Competing fairly</a></li>
 		</ul>
 
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-		
 		<p>
 			Developed with:<br />
 			<a href="http://webarchive.nationalarchives.gov.uk/20130403014324/http://oft.gov.uk/" target="_blank" rel="noopener noreferrer" title="Office of Fair Trading - Opens in a new window">
@@ -93,7 +91,8 @@
 			</a>
 		</p>
 		
-		</div><!-- // .small-12 large-8 large-push-4 columns -->
+		
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 

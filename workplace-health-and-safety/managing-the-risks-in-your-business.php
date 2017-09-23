@@ -44,8 +44,6 @@
 		<ul>
 			<li><a href="http://www.hse.gov.uk/risk/index.htm" target="_blank" rel="noopener noreferrer">Risk assessment guidance on the Health and Safety Executive website</a></li>
 		</ul>
-		
-		<img src="../../../_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

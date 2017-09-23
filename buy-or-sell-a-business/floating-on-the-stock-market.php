@@ -51,7 +51,7 @@
 			<li><a href="http://www.londonstockexchange.com/companies-and-advisors/listing/markets/guide-to-capital-markets.pdf" target="_blank">Download Capital Markets information from the London Stock Exchange website (PDF, 1.68MB)<span> - Opens in a new window</span></a></li>
 			<li><a href="../finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php" title="This interactive tool provides you with a personalised list of the most suitable finance options for your business">Use our interactive tool to identify the right finance options for your business</a></li>
 		</ul>
-		<img src="../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

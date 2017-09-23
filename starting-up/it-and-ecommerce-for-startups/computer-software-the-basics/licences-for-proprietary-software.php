@@ -69,8 +69,6 @@
 				<img src="../../../_img/logo_b2b.gif" width="60" height="35" alt="" /> The National B2B Centre
 			</a>
 		</p>
-
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

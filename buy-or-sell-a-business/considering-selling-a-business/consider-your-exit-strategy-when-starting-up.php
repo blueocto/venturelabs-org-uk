@@ -48,7 +48,6 @@
 			<li><a href="/tax-payroll-and-company-information/selling-or-closing-your-business/check-tax-and-legal-issues-when-selling-a-business.php">Use our interactive tool to investigate the tax and legal issues when selling or closing your business</a></li>
 		</ul>
 		
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

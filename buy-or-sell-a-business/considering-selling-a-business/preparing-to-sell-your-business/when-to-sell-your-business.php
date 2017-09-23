@@ -57,7 +57,7 @@
 			<li><a href="http://www.lucasweston.com/top-ten-business-seller-mistakes.htm" target="_blank">Common mistakes in business sales explained on the Lucas &amp; Weston website<span> - Opens in a new window</span></a></li>
 			<li><a href="../../../tax-payroll-and-company-information/selling-or-closing-your-business/check-tax-and-legal-issues-when-selling-a-business.php">Use our interactive tool to investigate the tax and legal issues when selling or closing your business</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" /></div>
+
 		<h3>Also on this site</h3>
 		<ul>
 			<li><a href="../consider-your-exit-strategy-when-starting-up.php">Consider your exit strategy when starting up</a></li>
@@ -66,7 +66,7 @@
 			<li><a href="../../selling/complete-the-sale-of-your-business.php">Complete the sale of your business</a></li>
 			<li><a href="../../../tax-payroll-and-company-information/selling-or-closing-your-business/selling-or-closing-your-business-an-overview.php">Selling or closing your business - an overview</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" /></div>
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

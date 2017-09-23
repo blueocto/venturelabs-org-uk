@@ -52,8 +52,7 @@
 			<li><a href="http://www.knowledgebusiness.com/knowledgebusiness/Templates/Home.aspx?siteId=1&menuItemId=25" target="_blank">Business knowledge news and resources on the KNOW website<span> - Opens in a new window</span></a></li>
 			<li><a href="http://www.trainingzone.co.uk/" target="_blank">Knowledge sharing information on the Training Zone website (registration required)<span> - Opens in a new window</span></a></li>
 		</ul>
-		</ul>
-		<img src="../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

@@ -45,8 +45,7 @@
 			<li><a href="http://www.ifb.org.uk/" target="_blank" rel="noopener noreferrer">Business development advice on the Institute for Family Business website</a></li>
 			<li><a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer.php">Use our interactive tool to get a detailed report of the succession options most suitable to your situation</a></li>
 		</ul>
-		
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

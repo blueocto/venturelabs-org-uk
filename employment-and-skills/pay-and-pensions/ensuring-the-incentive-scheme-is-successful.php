@@ -79,16 +79,13 @@
 			<li><a href="https://www.equalityhumanrights.com/en/search?text=gender+pay+reporting" target="_blank" rel="noopener noreferrer">Information on equal pay principles on the EHRC website</a></li>
 		</ul>
 
-	<img src="/_img/px_employingpeople.gif" alt="" width="181" height="5" />
-
-	<h3>Also on this site</h3>
-	<ul>
-		<li><a href="/employment-and-skills/staff-documents-and-employment-policies/the-employment-contract.php">The employment contract</a></li>
-		<li><a href="/employment-and-skills/equality-and-diversity/prevent-discrimination-and-value-diversity.php">Prevent discrimination and value diversity</a></li>
-		<li><a href="/employment-and-skills/redundancy-restructures-and-change/change-an-employees-terms-of-employment.php">Change an employee's terms of employment</a></li>
-		<li><a href="/employment-and-skills/working-time/flexible-working-the-law-and-best-practice.php">Flexible working - the law and best practice</a></li>
-	</ul>
-	<img src="/_img/px_employingpeople.gif" alt="" width="181" height="5" />
+		<h3>Also on this site</h3>
+		<ul>
+			<li><a href="/employment-and-skills/staff-documents-and-employment-policies/the-employment-contract.php">The employment contract</a></li>
+			<li><a href="/employment-and-skills/equality-and-diversity/prevent-discrimination-and-value-diversity.php">Prevent discrimination and value diversity</a></li>
+			<li><a href="/employment-and-skills/redundancy-restructures-and-change/change-an-employees-terms-of-employment.php">Change an employee's terms of employment</a></li>
+			<li><a href="/employment-and-skills/working-time/flexible-working-the-law-and-best-practice.php">Flexible working - the law and best practice</a></li>
+		</ul>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

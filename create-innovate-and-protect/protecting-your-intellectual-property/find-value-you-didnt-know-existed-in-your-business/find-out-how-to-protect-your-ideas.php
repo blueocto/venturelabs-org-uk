@@ -48,8 +48,6 @@
 
 		<h3>Intellectual Property Office Information Centre</h3>
 		<p>0300 300 2000</p>
-		
-		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

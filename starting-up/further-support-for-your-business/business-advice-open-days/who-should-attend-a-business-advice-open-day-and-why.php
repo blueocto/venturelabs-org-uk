@@ -68,8 +68,6 @@
 					<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> HM Revenue &amp; Customs
 				</a>
 			</p>
-
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 		
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

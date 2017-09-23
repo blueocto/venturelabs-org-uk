@@ -48,7 +48,6 @@
 			<li><a href="http://www.britishdesigninnovation.org/" target="_blank">Search for a product designer on the BDI website<span> - Opens in a new window</span></a></li>
 		</ul>
 		</ul>
-		<img src="../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

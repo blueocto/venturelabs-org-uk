@@ -62,8 +62,6 @@ Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department
 				</a>
 			</p>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->
 

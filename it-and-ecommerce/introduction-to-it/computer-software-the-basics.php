@@ -52,8 +52,6 @@
 			</a>
 		</p>
 
-		<img src="../../../_img/px_itandecommerce.gif" alt="" width="181" height="5" />
-
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

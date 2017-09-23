@@ -44,7 +44,7 @@
 			<li><a href="http://web.archive.org/web/20130301091232/http://www.livingstonepartners.co.uk/practical_guide_downloads" target="_blank" rel="noopener noreferrer">Unquoted companies selling guidance on the Livingstone Partners website</a></li>
 			<li><a href="http://www.lucasweston.com/top-ten-business-seller-mistakes.htm" target="_blank" rel="noopener noreferrer">Guidance on avoiding common seller mistakes on the Lucas &amp; Weston website</a></li>
 		</ul>
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

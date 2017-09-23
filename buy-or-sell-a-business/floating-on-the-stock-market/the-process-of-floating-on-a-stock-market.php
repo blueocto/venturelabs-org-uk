@@ -66,7 +66,6 @@
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/assess-your-options-for-growth.php">Assess your options for growth</a></li>
 		</ul>
 
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

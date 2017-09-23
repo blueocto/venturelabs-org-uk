@@ -42,8 +42,6 @@
 				<li><a href="http://webarchive.nationalarchives.gov.uk/20120418192509tf_/http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&_pageLabel=pageImport_Home" target="_blank" rel="noopener noreferrer">Find guides on importing on the HM Revenue &amp; Customs website</a></li>
 				<li><a href="https://web.archive.org/web/20120401235244/http://www.knowledge.hsbc.co.uk:80/international+business/plan+your+imports/develop+an+import+strategy" target="_blank" rel="noopener noreferrer">Import strategy advice on the HSBC KnowledgeCentre website</a></li>
 			</ul>
-
-			<img src="../../../_img/px_internationaltrade.gif" alt="" width="181" height="5" />
 			
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

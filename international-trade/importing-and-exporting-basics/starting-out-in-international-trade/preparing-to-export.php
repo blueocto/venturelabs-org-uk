@@ -58,8 +58,6 @@
 					<img src="../../../_img/UKTI.gif" width="60" height="35" alt="" /> UK Trade &amp; Investment
 				</a>
 			</p>
-
-			<img src="../../../_img/px_internationaltrade.gif" alt="" width="181" height="5" />
 			
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

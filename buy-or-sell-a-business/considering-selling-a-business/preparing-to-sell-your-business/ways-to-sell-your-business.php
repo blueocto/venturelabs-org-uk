@@ -56,7 +56,7 @@
 			<li><a href="#">Download succession planning guidance from the Deloitte website (PDF, 120K)</a></li>
 			<li><a href="../../../tax-payroll-and-company-information/selling-or-closing-your-business/check-tax-and-legal-issues-when-selling-a-business.php">Use our interactive tool to investigate the tax and legal issues when selling or closing your business</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" /></div>
+		
 		<h3>Also on this site</h3>
 		<ul>
 			<li><a href="../consider-your-exit-strategy-when-starting-up.php">Consider your exit strategy when starting up</a></li>
@@ -65,7 +65,7 @@
 			<li><a href="../value-and-market-your-business.php">Value and market your business</a></li>
 			<li><a href="../../selling/complete-the-sale-of-your-business.php">Complete the sale of your business</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" /></div>
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

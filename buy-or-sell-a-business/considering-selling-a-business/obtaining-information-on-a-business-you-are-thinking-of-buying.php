@@ -61,8 +61,7 @@
 			<li><a href="http://www.daltonsbusiness.com/buy/business-for-sale-listing" target="_blank" rel="noopener noreferrer">Valuation advice and businesses for sale on the Daltons Business website</a></li>
 			<li><a href="https://www.gov.uk/government/organisations/companies-house/about/about-our-services#companies-house-direct-chd" target="_blank" rel="noopener noreferrer">Detailed company information on the Companies House website</a></li>
 		</ul>
-		
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

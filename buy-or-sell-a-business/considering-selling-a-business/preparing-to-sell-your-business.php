@@ -45,8 +45,6 @@
 			<li><a href="http://www.lucasweston.com/mistake.htm" target="_blank" rel="noopener noreferrer">Common mistakes in business sales explained on the Lucas &amp; Weston website</a></li>
 		</ul>
 
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="185" height="50" />
-
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
