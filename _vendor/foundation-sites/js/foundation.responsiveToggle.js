@@ -1,19 +1,14 @@
 'use strict';
 
-import $ from 'jquery';
-
-import { MediaQuery } from './foundation.util.mediaQuery';
-import { Motion } from './foundation.util.motion';
-import { Plugin } from './foundation.plugin';
+!function($) {
 
 /**
  * ResponsiveToggle module.
  * @module foundation.responsiveToggle
  * @requires foundation.util.mediaQuery
- * @requires foundation.util.motion
  */
 
-class ResponsiveToggle extends Plugin {
+class ResponsiveToggle {
   /**
    * Creates a new instance of Tab Bar.
    * @class
@@ -21,12 +16,14 @@ class ResponsiveToggle extends Plugin {
    * @param {jQuery} element - jQuery object to attach tab bar functionality to.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = $(element);
     this.options = $.extend({}, ResponsiveToggle.defaults, this.$element.data(), options);
 
     this._init();
     this._events();
+
+    Foundation.registerPlugin(this, 'ResponsiveToggle');
   }
 
   /**
@@ -80,7 +77,7 @@ class ResponsiveToggle extends Plugin {
    */
   _update() {
     // Mobile
-    if (!MediaQuery.atLeast(this.options.hideFor)) {
+    if (!Foundation.MediaQuery.atLeast(this.options.hideFor)) {
       this.$element.show();
       this.$targetMenu.hide();
     }
@@ -98,7 +95,7 @@ class ResponsiveToggle extends Plugin {
    * @fires ResponsiveToggle#toggled
    */
   toggleMenu() {
-    if (!MediaQuery.atLeast(this.options.hideFor)) {
+    if (!Foundation.MediaQuery.atLeast(this.options.hideFor)) {
       /**
        * Fires when the element attached to the tab bar toggles.
        * @event ResponsiveToggle#toggled
@@ -111,7 +108,7 @@ class ResponsiveToggle extends Plugin {
           });
         }
         else {
-          Motion.animateOut(this.$targetMenu, this.animationOut, () => {
+          Foundation.Motion.animateOut(this.$targetMenu, this.animationOut, () => {
             this.$element.trigger('toggled.zf.responsiveToggle');
           });
         }
@@ -124,11 +121,13 @@ class ResponsiveToggle extends Plugin {
     }
   };
 
-  _destroy() {
+  destroy() {
     this.$element.off('.zf.responsiveToggle');
     this.$toggler.off('.zf.responsiveToggle');
 
     $(window).off('changed.zf.mediaquery', this._updateMqHandler);
+
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -150,4 +149,7 @@ ResponsiveToggle.defaults = {
   animate: false
 };
 
-export { ResponsiveToggle };
+// Window exports
+Foundation.plugin(ResponsiveToggle, 'ResponsiveToggle');
+
+}(jQuery);

@@ -1,9 +1,8 @@
 'use strict';
 
+!function($) {
 
-import { rtl as Rtl } from "./foundation.util.core";
-
-var Box = {
+Foundation.Box = {
   ImNotTouchingYou: ImNotTouchingYou,
   GetDimensions: GetDimensions,
   GetOffsets: GetOffsets
@@ -116,7 +115,7 @@ function GetOffsets(element, anchor, position, vOffset, hOffset, isOverflow) {
   switch (position) {
     case 'top':
       return {
-        left: (Rtl() ? $anchorDims.offset.left - $eleDims.width + $anchorDims.width : $anchorDims.offset.left),
+        left: (Foundation.rtl() ? $anchorDims.offset.left - $eleDims.width + $anchorDims.width : $anchorDims.offset.left),
         top: $anchorDims.offset.top - ($eleDims.height + vOffset)
       }
       break;
@@ -187,10 +186,10 @@ function GetOffsets(element, anchor, position, vOffset, hOffset, isOverflow) {
       break;
     default:
       return {
-        left: (Rtl() ? $anchorDims.offset.left - $eleDims.width + $anchorDims.width : $anchorDims.offset.left + hOffset),
+        left: (Foundation.rtl() ? $anchorDims.offset.left - $eleDims.width + $anchorDims.width : $anchorDims.offset.left + hOffset),
         top: $anchorDims.offset.top + $anchorDims.height + vOffset
       }
   }
 }
 
-export {Box};
+}(jQuery);

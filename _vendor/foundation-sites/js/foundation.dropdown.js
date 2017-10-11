@@ -1,14 +1,6 @@
 'use strict';
 
-import $ from 'jquery';
-import { Keyboard } from './foundation.util.keyboard';
-import { Box } from './foundation.util.box';
-import { GetYoDigits } from './foundation.util.core';
-import { Plugin } from './foundation.plugin';
-
-  // import "foundation.util.triggers.js";
-  // TODO: Figure out what a triggers import "means", since triggers are always accessed indirectly.
-
+!function($) {
 
 /**
  * Dropdown module.
@@ -18,7 +10,7 @@ import { Plugin } from './foundation.plugin';
  * @requires foundation.util.triggers
  */
 
-class Dropdown extends Plugin {
+class Dropdown {
   /**
    * Creates a new instance of a dropdown.
    * @class
@@ -26,12 +18,13 @@ class Dropdown extends Plugin {
    *        Object should be of the dropdown panel, rather than its anchor.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, Dropdown.defaults, this.$element.data(), options);
     this._init();
 
-    Keyboard.register('Dropdown', {
+    Foundation.registerPlugin(this, 'Dropdown');
+    Foundation.Keyboard.register('Dropdown', {
       'ENTER': 'open',
       'SPACE': 'open',
       'ESCAPE': 'close'
@@ -68,7 +61,7 @@ class Dropdown extends Plugin {
       'aria-hidden': 'true',
       'data-yeti-box': $id,
       'data-resize': $id,
-      'aria-labelledby': this.$anchor[0].id || GetYoDigits(6, 'dd-anchor')
+      'aria-labelledby': this.$anchor[0].id || Foundation.GetYoDigits(6, 'dd-anchor')
     });
     this._events();
   }
@@ -137,25 +130,25 @@ class Dropdown extends Plugin {
   _setPosition() {
     if(this.$anchor.attr('aria-expanded') === 'false'){ return false; }
     var position = this.getPositionClass(),
-        $eleDims = Box.GetDimensions(this.$element),
-        $anchorDims = Box.GetDimensions(this.$anchor),
+        $eleDims = Foundation.Box.GetDimensions(this.$element),
+        $anchorDims = Foundation.Box.GetDimensions(this.$anchor),
         _this = this,
         direction = (position === 'left' ? 'left' : ((position === 'right') ? 'left' : 'top')),
         param = (direction === 'top') ? 'height' : 'width',
         offset = (param === 'height') ? this.options.vOffset : this.options.hOffset;
 
-    if(($eleDims.width >= $eleDims.windowDims.width) || (!this.counter && !Box.ImNotTouchingYou(this.$element, this.$parent))){
+    if(($eleDims.width >= $eleDims.windowDims.width) || (!this.counter && !Foundation.Box.ImNotTouchingYou(this.$element, this.$parent))){
       var newWidth = $eleDims.windowDims.width,
           parentHOffset = 0;
       if(this.$parent){
-        var $parentDims = Box.GetDimensions(this.$parent),
+        var $parentDims = Foundation.Box.GetDimensions(this.$parent),
             parentHOffset = $parentDims.offset.left;
         if ($parentDims.width < newWidth){
           newWidth = $parentDims.width;
         }
       }
 
-      this.$element.offset(Box.GetOffsets(this.$element, this.$anchor, 'center bottom', this.options.vOffset, this.options.hOffset + parentHOffset, true)).css({
+      this.$element.offset(Foundation.Box.GetOffsets(this.$element, this.$anchor, 'center bottom', this.options.vOffset, this.options.hOffset + parentHOffset, true)).css({
         'width': newWidth - (this.options.hOffset * 2),
         'height': 'auto'
       });
@@ -163,9 +156,9 @@ class Dropdown extends Plugin {
       return false;
     }
 
-    this.$element.offset(Box.GetOffsets(this.$element, this.$anchor, position, this.options.vOffset, this.options.hOffset));
+    this.$element.offset(Foundation.Box.GetOffsets(this.$element, this.$anchor, position, this.options.vOffset, this.options.hOffset));
 
-    while(!Box.ImNotTouchingYou(this.$element, this.$parent, true) && this.counter){
+    while(!Foundation.Box.ImNotTouchingYou(this.$element, this.$parent, true) && this.counter){
       this._reposition(position);
       this._setPosition();
     }
@@ -219,9 +212,9 @@ class Dropdown extends Plugin {
     this.$anchor.add(this.$element).on('keydown.zf.dropdown', function(e) {
 
       var $target = $(this),
-        visibleFocusableElements = Keyboard.findFocusable(_this.$element);
+        visibleFocusableElements = Foundation.Keyboard.findFocusable(_this.$element);
 
-      Keyboard.handleKey(e, 'Dropdown', {
+      Foundation.Keyboard.handleKey(e, 'Dropdown', {
         open: function() {
           if ($target.is(_this.$anchor)) {
             _this.open();
@@ -279,7 +272,7 @@ class Dropdown extends Plugin {
         .attr({'aria-hidden': false});
 
     if(this.options.autoFocus){
-      var $focusable = Keyboard.findFocusable(this.$element);
+      var $focusable = Foundation.Keyboard.findFocusable(this.$element);
       if($focusable.length){
         $focusable.eq(0).focus();
       }
@@ -288,7 +281,7 @@ class Dropdown extends Plugin {
     if(this.options.closeOnClick){ this._addBodyHandler(); }
 
     if (this.options.trapFocus) {
-      Keyboard.trapFocus(this.$element);
+      Foundation.Keyboard.trapFocus(this.$element);
     }
 
     /**
@@ -331,7 +324,7 @@ class Dropdown extends Plugin {
     this.$element.trigger('hide.zf.dropdown', [this.$element]);
 
     if (this.options.trapFocus) {
-      Keyboard.releaseFocus(this.$element);
+      Foundation.Keyboard.releaseFocus(this.$element);
     }
   }
 
@@ -352,11 +345,11 @@ class Dropdown extends Plugin {
    * Destroys the dropdown.
    * @function
    */
-  _destroy() {
+  destroy() {
     this.$element.off('.zf.trigger').hide();
     this.$anchor.off('.zf.dropdown');
-    $(document.body).off('click.zf.dropdown');
 
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -433,4 +426,7 @@ Dropdown.defaults = {
   closeOnClick: false
 }
 
-export {Dropdown};
+// Window exports
+Foundation.plugin(Dropdown, 'Dropdown');
+
+}(jQuery);

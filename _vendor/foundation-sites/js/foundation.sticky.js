@@ -1,9 +1,7 @@
 'use strict';
 
-import $ from 'jquery';
-import { GetYoDigits } from './foundation.util.core';
-import { MediaQuery } from './foundation.util.mediaQuery';
-import { Plugin } from './foundation.plugin';
+!function($) {
+
 /**
  * Sticky module.
  * @module foundation.sticky
@@ -11,18 +9,20 @@ import { Plugin } from './foundation.plugin';
  * @requires foundation.util.mediaQuery
  */
 
-class Sticky extends Plugin {
+class Sticky {
   /**
    * Creates a new instance of a sticky thing.
    * @class
    * @param {jQuery} element - jQuery object to make sticky.
    * @param {Object} options - options object passed when creating the element programmatically.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, Sticky.defaults, this.$element.data(), options);
 
     this._init();
+
+    Foundation.registerPlugin(this, 'Sticky');
   }
 
   /**
@@ -32,16 +32,13 @@ class Sticky extends Plugin {
    */
   _init() {
     var $parent = this.$element.parent('[data-sticky-container]'),
-        id = this.$element[0].id || GetYoDigits(6, 'sticky'),
+        id = this.$element[0].id || Foundation.GetYoDigits(6, 'sticky'),
         _this = this;
 
-    if($parent.length){
-      this.$container = $parent;
-    } else {
+    if (!$parent.length) {
       this.wasWrapped = true;
-      this.$element.wrap(this.options.container);
-      this.$container = this.$element.parent();
     }
+    this.$container = $parent.length ? $parent : $(this.options.container).wrapInner(this.$element);
     this.$container.addClass(this.options.containerClass);
 
     this.$element.addClass(this.options.stickyClass).attr({ 'data-resize': id, 'data-mutate': id });
@@ -296,7 +293,7 @@ class Sticky extends Plugin {
    * @private
    */
   _setSizes(cb) {
-    this.canStick = MediaQuery.is(this.options.stickyOn);
+    this.canStick = Foundation.MediaQuery.is(this.options.stickyOn);
     if (!this.canStick) {
       if (cb && typeof cb === 'function') { cb(); }
     }
@@ -379,7 +376,7 @@ class Sticky extends Plugin {
    * Removes event listeners, JS-added css properties and classes, and unwraps the $element if the JS added the $container.
    * @function
    */
-  _destroy() {
+  destroy() {
     this._removeSticky(true);
 
     this.$element.removeClass(`${this.options.stickyClass} is-anchored is-at-top`)
@@ -404,6 +401,7 @@ class Sticky extends Plugin {
                        height: ''
                      });
     }
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -495,4 +493,7 @@ function emCalc(em) {
   return parseInt(window.getComputedStyle(document.body, null).fontSize, 10) * em;
 }
 
-export {Sticky};
+// Window exports
+Foundation.plugin(Sticky, 'Sticky');
+
+}(jQuery);

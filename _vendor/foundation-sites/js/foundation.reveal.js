@@ -1,33 +1,33 @@
 'use strict';
 
-import $ from 'jquery';
-import { Keyboard } from './foundation.util.keyboard';
-import { MediaQuery } from './foundation.util.mediaQuery';
-import { Motion } from './foundation.util.motion';
-import { Plugin } from './foundation.plugin';
+!function($) {
 
 /**
  * Reveal module.
  * @module foundation.reveal
  * @requires foundation.util.keyboard
+ * @requires foundation.util.box
  * @requires foundation.util.triggers
  * @requires foundation.util.mediaQuery
  * @requires foundation.util.motion if using animations
  */
 
-class Reveal extends Plugin {
+class Reveal {
   /**
    * Creates a new instance of Reveal.
    * @class
    * @param {jQuery} element - jQuery object to use for the modal.
    * @param {Object} options - optional parameters.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, Reveal.defaults, this.$element.data(), options);
     this._init();
 
-    Keyboard.register('Reveal', {
+    Foundation.registerPlugin(this, 'Reveal');
+    Foundation.Keyboard.register('Reveal', {
+      'ENTER': 'open',
+      'SPACE': 'open',
       'ESCAPE': 'close',
     });
   }
@@ -39,7 +39,7 @@ class Reveal extends Plugin {
   _init() {
     this.id = this.$element.attr('id');
     this.isActive = false;
-    this.cached = {mq: MediaQuery.current};
+    this.cached = {mq: Foundation.MediaQuery.current};
     this.isMobile = mobileSniff();
 
     this.$anchor = $(`[data-open="${this.id}"]`).length ? $(`[data-open="${this.id}"]`) : $(`[data-toggle="${this.id}"]`);
@@ -81,14 +81,8 @@ class Reveal extends Plugin {
    * @private
    */
   _makeOverlay() {
-    var additionalOverlayClasses = '';
-
-    if (this.options.additionalOverlayClasses) {
-      additionalOverlayClasses = ' ' + this.options.additionalOverlayClasses;
-    }
-
     return $('<div></div>')
-      .addClass('reveal-overlay' + additionalOverlayClasses)
+      .addClass('reveal-overlay')
       .appendTo(this.options.appendTo);
   }
 
@@ -259,14 +253,14 @@ class Reveal extends Plugin {
           })
           .focus();
         addRevealOpenClasses();
-        Keyboard.trapFocus(_this.$element);
+        Foundation.Keyboard.trapFocus(_this.$element);
       }
       if (this.options.overlay) {
-        Motion.animateIn(this.$overlay, 'fade-in');
+        Foundation.Motion.animateIn(this.$overlay, 'fade-in');
       }
-      Motion.animateIn(this.$element, this.options.animationIn, () => {
+      Foundation.Motion.animateIn(this.$element, this.options.animationIn, () => {
         if(this.$element) { // protect against object having been removed
-          this.focusableElements = Keyboard.findFocusable(this.$element);
+          this.focusableElements = Foundation.Keyboard.findFocusable(this.$element);
           afterAnimation();
         }
       });
@@ -286,17 +280,19 @@ class Reveal extends Plugin {
         'tabindex': -1
       })
       .focus();
-    Keyboard.trapFocus(this.$element);
-
-    addRevealOpenClasses();
-
-    this._extraHandlers();
+    Foundation.Keyboard.trapFocus(this.$element);
 
     /**
      * Fires when the modal has successfully opened.
      * @event Reveal#open
      */
     this.$element.trigger('open.zf.reveal');
+
+    addRevealOpenClasses();
+
+    setTimeout(() => {
+      this._extraHandlers();
+    }, 0);
   }
 
   /**
@@ -306,7 +302,7 @@ class Reveal extends Plugin {
   _extraHandlers() {
     var _this = this;
     if(!this.$element) { return; } // If we're in the middle of cleanup, don't freak out
-    this.focusableElements = Keyboard.findFocusable(this.$element);
+    this.focusableElements = Foundation.Keyboard.findFocusable(this.$element);
 
     if (!this.options.overlay && this.options.closeOnClick && !this.options.fullScreen) {
       $('body').on('click.zf.reveal', function(e) {
@@ -319,15 +315,44 @@ class Reveal extends Plugin {
 
     if (this.options.closeOnEsc) {
       $(window).on('keydown.zf.reveal', function(e) {
-        Keyboard.handleKey(e, 'Reveal', {
+        Foundation.Keyboard.handleKey(e, 'Reveal', {
           close: function() {
             if (_this.options.closeOnEsc) {
               _this.close();
+              _this.$anchor.focus();
             }
           }
         });
       });
     }
+
+    // lock focus within modal while tabbing
+    this.$element.on('keydown.zf.reveal', function(e) {
+      var $target = $(this);
+      // handle keyboard event with keyboard util
+      Foundation.Keyboard.handleKey(e, 'Reveal', {
+        open: function() {
+          if (_this.$element.find(':focus').is(_this.$element.find('[data-close]'))) {
+            setTimeout(function() { // set focus back to anchor if close button has been activated
+              _this.$anchor.focus();
+            }, 1);
+          } else if ($target.is(_this.focusableElements)) { // dont't trigger if acual element has focus (i.e. inputs, links, ...)
+            _this.open();
+          }
+        },
+        close: function() {
+          if (_this.options.closeOnEsc) {
+            _this.close();
+            _this.$anchor.focus();
+          }
+        },
+        handled: function(preventDefault) {
+          if (preventDefault) {
+            e.preventDefault();
+          }
+        }
+      });
+    });
   }
 
   /**
@@ -344,13 +369,17 @@ class Reveal extends Plugin {
     // Motion UI method of hiding
     if (this.options.animationOut) {
       if (this.options.overlay) {
-        Motion.animateOut(this.$overlay, 'fade-out');
+        Foundation.Motion.animateOut(this.$overlay, 'fade-out', finishUp);
+      }
+      else {
+        finishUp();
       }
 
-      Motion.animateOut(this.$element, this.options.animationOut, finishUp);
+      Foundation.Motion.animateOut(this.$element, this.options.animationOut);
     }
     // jQuery method of hiding
     else {
+
       this.$element.hide(this.options.hideDelay);
 
       if (this.options.overlay) {
@@ -389,7 +418,7 @@ class Reveal extends Plugin {
       }
 
 
-      Keyboard.releaseFocus(_this.$element);
+      Foundation.Keyboard.releaseFocus(_this.$element);
 
       _this.$element.attr('aria-hidden', true);
 
@@ -416,8 +445,6 @@ class Reveal extends Plugin {
          window.location.hash = '';
        }
      }
-
-    this.$anchor.focus();
   }
 
   /**
@@ -436,7 +463,7 @@ class Reveal extends Plugin {
    * Destroys an instance of a modal.
    * @function
    */
-  _destroy() {
+  destroy() {
     if (this.options.overlay) {
       this.$element.appendTo($(this.options.appendTo)); // move $element outside of $overlay to prevent error unregisterPlugin()
       this.$overlay.hide().off().remove();
@@ -444,6 +471,8 @@ class Reveal extends Plugin {
     this.$element.hide().off();
     this.$anchor.off('.zf');
     $(window).off(`.zf.reveal:${this.id}`);
+
+    Foundation.unregisterPlugin(this);
   };
 }
 
@@ -552,15 +581,12 @@ Reveal.defaults = {
    * @type {string}
    * @default "body"
    */
-  appendTo: "body",
-  /**
-   * Allows adding additional class names to the reveal overlay.
-   * @option
-   * @type {string}
-   * @default ''
-   */
-  additionalOverlayClasses: ''
+  appendTo: "body"
+
 };
+
+// Window exports
+Foundation.plugin(Reveal, 'Reveal');
 
 function iPhoneSniff() {
   return /iP(ad|hone|od).*OS/.test(window.navigator.userAgent);
@@ -574,4 +600,4 @@ function mobileSniff() {
   return iPhoneSniff() || androidSniff();
 }
 
-export {Reveal};
+}(jQuery);

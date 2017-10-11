@@ -1,20 +1,16 @@
 'use strict';
 
-
-import $ from 'jquery';
-import { Keyboard } from './foundation.util.keyboard';
-import { Nest } from './foundation.util.nest';
-import { GetYoDigits } from './foundation.util.core';
-import { Plugin } from './foundation.plugin';
+!function($) {
 
 /**
  * AccordionMenu module.
  * @module foundation.accordionMenu
  * @requires foundation.util.keyboard
+ * @requires foundation.util.motion
  * @requires foundation.util.nest
  */
 
-class AccordionMenu extends Plugin {
+class AccordionMenu {
   /**
    * Creates a new instance of an accordion menu.
    * @class
@@ -22,15 +18,16 @@ class AccordionMenu extends Plugin {
    * @param {jQuery} element - jQuery object to make into an accordion menu.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, AccordionMenu.defaults, this.$element.data(), options);
 
-    Nest.Feather(this.$element, 'accordion');
+    Foundation.Nest.Feather(this.$element, 'accordion');
 
     this._init();
 
-    Keyboard.register('AccordionMenu', {
+    Foundation.registerPlugin(this, 'AccordionMenu');
+    Foundation.Keyboard.register('AccordionMenu', {
       'ENTER': 'toggle',
       'SPACE': 'toggle',
       'ARROW_RIGHT': 'open',
@@ -56,10 +53,10 @@ class AccordionMenu extends Plugin {
 
     this.$menuLinks = this.$element.find('.is-accordion-submenu-parent');
     this.$menuLinks.each(function(){
-      var linkId = this.id || GetYoDigits(6, 'acc-menu-link'),
+      var linkId = this.id || Foundation.GetYoDigits(6, 'acc-menu-link'),
           $elem = $(this),
           $sub = $elem.children('[data-submenu]'),
-          subId = $sub[0].id || GetYoDigits(6, 'acc-menu'),
+          subId = $sub[0].id || Foundation.GetYoDigits(6, 'acc-menu'),
           isActive = $sub.hasClass('is-active');
       $elem.attr({
         'aria-controls': subId,
@@ -129,7 +126,7 @@ class AccordionMenu extends Plugin {
         }
       });
 
-      Keyboard.handleKey(e, 'AccordionMenu', {
+      Foundation.Keyboard.handleKey(e, 'AccordionMenu', {
         open: function() {
           if ($target.is(':hidden')) {
             _this.down($target);
@@ -155,7 +152,6 @@ class AccordionMenu extends Plugin {
         toggle: function() {
           if ($element.children('[data-submenu]').length) {
             _this.toggle($element.children('[data-submenu]'));
-            return true;
           }
         },
         closeAll: function() {
@@ -218,13 +214,15 @@ class AccordionMenu extends Plugin {
     $target.addClass('is-active').attr({'aria-hidden': false})
       .parent('.is-accordion-submenu-parent').attr({'aria-expanded': true});
 
-    $target.slideDown(_this.options.slideSpeed, function () {
-      /**
-       * Fires when the menu is done opening.
-       * @event AccordionMenu#down
-       */
-      _this.$element.trigger('down.zf.accordionMenu', [$target]);
-    });
+      //Foundation.Move(this.options.slideSpeed, $target, function() {
+        $target.slideDown(_this.options.slideSpeed, function () {
+          /**
+           * Fires when the menu is done opening.
+           * @event AccordionMenu#down
+           */
+          _this.$element.trigger('down.zf.accordionMenu', [$target]);
+        });
+      //});
   }
 
   /**
@@ -234,13 +232,15 @@ class AccordionMenu extends Plugin {
    */
   up($target) {
     var _this = this;
-    $target.slideUp(_this.options.slideSpeed, function () {
-      /**
-       * Fires when the menu is done collapsing up.
-       * @event AccordionMenu#up
-       */
-      _this.$element.trigger('up.zf.accordionMenu', [$target]);
-    });
+    //Foundation.Move(this.options.slideSpeed, $target, function(){
+      $target.slideUp(_this.options.slideSpeed, function () {
+        /**
+         * Fires when the menu is done collapsing up.
+         * @event AccordionMenu#up
+         */
+        _this.$element.trigger('up.zf.accordionMenu', [$target]);
+      });
+    //});
 
     var $menus = $target.find('[data-submenu]').slideUp(0).addBack().attr('aria-hidden', true);
 
@@ -251,11 +251,12 @@ class AccordionMenu extends Plugin {
    * Destroys an instance of accordion menu.
    * @fires AccordionMenu#destroyed
    */
-  _destroy() {
+  destroy() {
     this.$element.find('[data-submenu]').slideDown(0).css('display', '');
     this.$element.find('a').off('click.zf.accordionMenu');
 
-    Nest.Burn(this.$element, 'accordion');
+    Foundation.Nest.Burn(this.$element, 'accordion');
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -276,4 +277,7 @@ AccordionMenu.defaults = {
   multiOpen: true
 };
 
-export {AccordionMenu};
+// Window exports
+Foundation.plugin(AccordionMenu, 'AccordionMenu');
+
+}(jQuery);

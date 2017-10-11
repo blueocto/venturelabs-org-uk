@@ -1,41 +1,31 @@
 'use strict';
 
-import $ from 'jquery';
-import { Keyboard } from './foundation.util.keyboard';
-import { Motion } from './foundation.util.motion';
-import { Timer } from './foundation.util.timer';
-import { onImagesLoaded } from './foundation.util.imageLoader';
-import { GetYoDigits } from './foundation.util.core';
-import { Plugin } from './foundation.plugin';
-import { Touch } from './foundation.util.touch'
-
+!function($) {
 
 /**
  * Orbit module.
  * @module foundation.orbit
  * @requires foundation.util.keyboard
  * @requires foundation.util.motion
- * @requires foundation.util.timer
- * @requires foundation.util.imageLoader
+ * @requires foundation.util.timerAndImageLoader
  * @requires foundation.util.touch
  */
 
-class Orbit extends Plugin {
+class Orbit {
   /**
   * Creates a new instance of an orbit carousel.
   * @class
   * @param {jQuery} element - jQuery object to make into an Orbit Carousel.
   * @param {Object} options - Overrides to the default plugin settings.
   */
-  _setup(element, options){
+  constructor(element, options){
     this.$element = element;
     this.options = $.extend({}, Orbit.defaults, this.$element.data(), options);
 
-    Touch.init($); // Touch init is idempotent, we just need to make sure it's initialied.
-
     this._init();
 
-    Keyboard.register('Orbit', {
+    Foundation.registerPlugin(this, 'Orbit');
+    Foundation.Keyboard.register('Orbit', {
       'ltr': {
         'ARROW_RIGHT': 'next',
         'ARROW_LEFT': 'previous'
@@ -61,7 +51,7 @@ class Orbit extends Plugin {
 
     var $images = this.$element.find('img'),
         initActive = this.$slides.filter('.is-active'),
-        id = this.$element[0].id || GetYoDigits(6, 'orbit');
+        id = this.$element[0].id || Foundation.GetYoDigits(6, 'orbit');
 
     this.$element.attr({
       'data-resize': id,
@@ -77,7 +67,7 @@ class Orbit extends Plugin {
     }
 
     if ($images.length) {
-      onImagesLoaded($images, this._prepareForOrbit.bind(this));
+      Foundation.onImagesLoaded($images, this._prepareForOrbit.bind(this));
     } else {
       this._prepareForOrbit();//hehe
     }
@@ -112,7 +102,7 @@ class Orbit extends Plugin {
   */
   geoSync() {
     var _this = this;
-    this.timer = new Timer(
+    this.timer = new Foundation.Timer(
       this.$element,
       {
         duration: this.options.timerDelay,
@@ -242,7 +232,7 @@ class Orbit extends Plugin {
       if (this.options.accessible) {
         this.$wrapper.add(this.$bullets).on('keydown.zf.orbit', function(e) {
           // handle keyboard event with keyboard util
-          Keyboard.handleKey(e, 'Orbit', {
+          Foundation.Keyboard.handleKey(e, 'Orbit', {
             next: function() {
               _this.changeSlide(true);
             },
@@ -341,7 +331,7 @@ class Orbit extends Plugin {
       }
 
       if (this.options.useMUI && !this.$element.is(':hidden')) {
-        Motion.animateIn(
+        Foundation.Motion.animateIn(
           $newSlide.addClass('is-active').css({'position': 'absolute', 'top': 0}),
           this.options[`animInFrom${dirIn}`],
           function(){
@@ -349,7 +339,7 @@ class Orbit extends Plugin {
             .attr('aria-live', 'polite');
         });
 
-        Motion.animateOut(
+        Foundation.Motion.animateOut(
           $curSlide.removeClass('is-active'),
           this.options[`animOutTo${dirOut}`],
           function(){
@@ -391,8 +381,9 @@ class Orbit extends Plugin {
   * Destroys the carousel and hides the element.
   * @function
   */
-  _destroy() {
+  destroy() {
     this.$element.off('.zf.orbit').find('*').off('.zf.orbit').end().hide();
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -526,4 +517,7 @@ Orbit.defaults = {
   useMUI: true
 };
 
-export {Orbit};
+// Window exports
+Foundation.plugin(Orbit, 'Orbit');
+
+}(jQuery);

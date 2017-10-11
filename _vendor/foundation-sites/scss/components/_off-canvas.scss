@@ -265,7 +265,6 @@ $content: $maincontent-class
 ) {
   transform: none;
   z-index: $zindex;
-  transition: none;
 
   @if not $offcanvas-fixed-reveal {
     position: absolute;

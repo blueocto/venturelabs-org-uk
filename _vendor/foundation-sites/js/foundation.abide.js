@@ -1,14 +1,13 @@
 'use strict';
 
-import $ from 'jquery';
-import { Plugin } from './foundation.plugin';
+!function($) {
 
 /**
  * Abide module.
  * @module foundation.abide
  */
 
-class Abide extends Plugin {
+class Abide {
   /**
    * Creates a new instance of Abide.
    * @class
@@ -16,11 +15,13 @@ class Abide extends Plugin {
    * @param {Object} element - jQuery object to add the trigger to.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options = {}) {
+  constructor(element, options = {}) {
     this.$element = element;
     this.options  = $.extend({}, Abide.defaults, this.$element.data(), options);
 
     this._init();
+
+    Foundation.registerPlugin(this, 'Abide');
   }
 
   /**
@@ -241,7 +242,7 @@ class Abide extends Plugin {
   }
 
   /**
-   * Goes through a form to find inputs and proceeds to validate them in ways specific to their type.
+   * Goes through a form to find inputs and proceeds to validate them in ways specific to their type. 
    * Ignores inputs with data-abide-ignore, type="hidden" or disabled attributes set
    * @fires Abide#invalid
    * @fires Abide#valid
@@ -452,7 +453,7 @@ class Abide extends Plugin {
    * Destroys an instance of Abide.
    * Removes error styles and classes from elements, without resetting their values.
    */
-  _destroy() {
+  destroy() {
     var _this = this;
     this.$element
       .off('.abide')
@@ -464,6 +465,8 @@ class Abide extends Plugin {
       .each(function() {
         _this.removeErrorClasses($(this));
       });
+
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -557,14 +560,7 @@ Abide.defaults = {
     day_month_year : /^(0[1-9]|[12][0-9]|3[01])[- \/.](0[1-9]|1[012])[- \/.]\d{4}$/,
 
     // #FFF or #FFFFFF
-    color : /^#?([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$/,
-
-    // Domain || URL
-    website: {
-      test: (text) => {
-        return Abide.defaults.patterns['domain'].test(text) || Abide.defaults.patterns['url'].test(text);
-      }
-    }
+    color : /^#?([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$/
   },
 
   /**
@@ -582,4 +578,7 @@ Abide.defaults = {
   }
 }
 
-export {Abide};
+// Window exports
+Foundation.plugin(Abide, 'Abide');
+
+}(jQuery);

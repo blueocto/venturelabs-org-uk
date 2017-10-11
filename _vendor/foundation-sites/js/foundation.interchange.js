@@ -1,17 +1,15 @@
 'use strict';
 
-import $ from 'jquery';
-import { MediaQuery } from './foundation.util.mediaQuery';
-import { Plugin } from './foundation.plugin';
-
+!function($) {
 
 /**
  * Interchange module.
  * @module foundation.interchange
  * @requires foundation.util.mediaQuery
+ * @requires foundation.util.timerAndImageLoader
  */
 
-class Interchange extends Plugin {
+class Interchange {
   /**
    * Creates a new instance of Interchange.
    * @class
@@ -19,7 +17,7 @@ class Interchange extends Plugin {
    * @param {Object} element - jQuery object to add the trigger to.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, Interchange.defaults, options);
     this.rules = [];
@@ -27,6 +25,8 @@ class Interchange extends Plugin {
 
     this._init();
     this._events();
+
+    Foundation.registerPlugin(this, 'Interchange');
   }
 
   /**
@@ -35,12 +35,6 @@ class Interchange extends Plugin {
    * @private
    */
   _init() {
-    var id = this.$element[0].id || Foundation.GetYoDigits(6, 'interchange');
-    this.$element.attr({
-      'data-resize': id,
-      'id': id
-    });
-
     this._addBreakpoints();
     this._generateRules();
     this._reflow();
@@ -52,7 +46,9 @@ class Interchange extends Plugin {
    * @private
    */
   _events() {
-    this.$element.off('resizeme.zf.trigger').on('resizeme.zf.trigger', () => this._reflow());
+    $(window).on('resize.zf.interchange', Foundation.util.throttle(() => {
+      this._reflow();
+    }, 50));
   }
 
   /**
@@ -84,9 +80,9 @@ class Interchange extends Plugin {
    * @private
    */
   _addBreakpoints() {
-    for (var i in MediaQuery.queries) {
-      if (MediaQuery.queries.hasOwnProperty(i)) {
-        var query = MediaQuery.queries[i];
+    for (var i in Foundation.MediaQuery.queries) {
+      if (Foundation.MediaQuery.queries.hasOwnProperty(i)) {
+        var query = Foundation.MediaQuery.queries[i];
         Interchange.SPECIAL_QUERIES[query.name] = query.value;
       }
     }
@@ -109,7 +105,7 @@ class Interchange extends Plugin {
     else {
       rules = this.$element.data('interchange');
     }
-
+    
     rules =  typeof rules === 'string' ? rules.match(/\[.*?\]/g) : rules;
 
     for (var i in rules) {
@@ -177,8 +173,8 @@ class Interchange extends Plugin {
    * Destroys an instance of interchange.
    * @function
    */
-  _destroy() {
-    this.$element.off('resizeme.zf.trigger')
+  destroy() {
+    //TODO this.
   }
 }
 
@@ -201,4 +197,7 @@ Interchange.SPECIAL_QUERIES = {
   'retina': 'only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)'
 };
 
-export {Interchange};
+// Window exports
+Foundation.plugin(Interchange, 'Interchange');
+
+}(jQuery);

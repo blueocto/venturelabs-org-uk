@@ -1,13 +1,6 @@
 'use strict';
 
-import $ from 'jquery';
-import { Keyboard } from './foundation.util.keyboard';
-import { MediaQuery } from './foundation.util.mediaQuery';
-import { transitionend } from './foundation.util.core';
-import { Plugin } from './foundation.plugin';
-
-  // import "foundation.util.triggers.js";
-  // TODO: Figure out what triggers import should actually do, given how indirect their use is
+!function($) {
 
 /**
  * OffCanvas module.
@@ -15,9 +8,10 @@ import { Plugin } from './foundation.plugin';
  * @requires foundation.util.keyboard
  * @requires foundation.util.mediaQuery
  * @requires foundation.util.triggers
+ * @requires foundation.util.motion
  */
 
-class OffCanvas extends Plugin {
+class OffCanvas {
   /**
    * Creates a new instance of an off-canvas wrapper.
    * @class
@@ -25,7 +19,7 @@ class OffCanvas extends Plugin {
    * @param {Object} element - jQuery object to initialize.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, OffCanvas.defaults, this.$element.data(), options);
     this.$lastTrigger = $();
@@ -34,7 +28,8 @@ class OffCanvas extends Plugin {
     this._init();
     this._events();
 
-    Keyboard.register('OffCanvas', {
+    Foundation.registerPlugin(this, 'OffCanvas')
+    Foundation.Keyboard.register('OffCanvas', {
       'ESCAPE': 'close'
     });
 
@@ -77,9 +72,8 @@ class OffCanvas extends Plugin {
       this.options.revealOn = this.options.revealOn || this.$element[0].className.match(/(reveal-for-medium|reveal-for-large)/g)[0].split('-')[2];
       this._setMQChecker();
     }
-
-    if (this.options.transitionTime) {
-      this.$element.css('transition-duration', this.options.transitionTime);
+    if (!this.options.transitionTime === true) {
+      this.options.transitionTime = parseFloat(window.getComputedStyle($('[data-off-canvas]')[0]).transitionDuration) * 1000;
     }
   }
 
@@ -110,13 +104,13 @@ class OffCanvas extends Plugin {
     var _this = this;
 
     $(window).on('changed.zf.mediaquery', function() {
-      if (MediaQuery.atLeast(_this.options.revealOn)) {
+      if (Foundation.MediaQuery.atLeast(_this.options.revealOn)) {
         _this.reveal(true);
       } else {
         _this.reveal(false);
       }
     }).one('load.zf.offcanvas', function() {
-      if (MediaQuery.atLeast(_this.options.revealOn)) {
+      if (Foundation.MediaQuery.atLeast(_this.options.revealOn)) {
         _this.reveal(true);
       }
     });
@@ -211,12 +205,6 @@ class OffCanvas extends Plugin {
       window.scrollTo(0,document.body.scrollHeight);
     }
 
-    if (this.options.transitionTime && this.options.transition !== 'overlap') {
-      this.$element.siblings('[data-off-canvas-content]').css('transition-duration', this.options.transitionTime);
-    } else {
-      this.$element.siblings('[data-off-canvas-content]').css('transition-duration', '');
-    }
-
     /**
      * Fires when the off-canvas menu opens.
      * @event OffCanvas#opened
@@ -243,7 +231,7 @@ class OffCanvas extends Plugin {
     }
 
     if (this.options.autoFocus === true) {
-      this.$element.one(transitionend(this.$element), function() {
+      this.$element.one(Foundation.transitionend(this.$element), function() {
         var canvasFocus = _this.$element.find('[data-autofocus]');
         if (canvasFocus.length) {
             canvasFocus.eq(0).focus();
@@ -255,7 +243,7 @@ class OffCanvas extends Plugin {
 
     if (this.options.trapFocus === true) {
       this.$element.siblings('[data-off-canvas-content]').attr('tabindex', '-1');
-      Keyboard.trapFocus(this.$element);
+      Foundation.Keyboard.trapFocus(this.$element);
     }
   }
 
@@ -298,7 +286,7 @@ class OffCanvas extends Plugin {
 
     if (this.options.trapFocus === true) {
       this.$element.siblings('[data-off-canvas-content]').removeAttr('tabindex');
-      Keyboard.releaseFocus(this.$element);
+      Foundation.Keyboard.releaseFocus(this.$element);
     }
   }
 
@@ -323,7 +311,7 @@ class OffCanvas extends Plugin {
    * @private
    */
   _handleKeyboard(e) {
-    Keyboard.handleKey(e, 'OffCanvas', {
+    Foundation.Keyboard.handleKey(e, 'OffCanvas', {
       close: () => {
         this.close();
         this.$lastTrigger.focus();
@@ -340,10 +328,12 @@ class OffCanvas extends Plugin {
    * Destroys the offcanvas plugin.
    * @function
    */
-  _destroy() {
+  destroy() {
     this.close();
     this.$element.off('.zf.trigger .zf.offcanvas');
     this.$overlay.off('.zf.offcanvas');
+
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -376,9 +366,9 @@ OffCanvas.defaults = {
    * Amount of time in ms the open and close transition requires. If none selected, pulls from body style.
    * @option
    * @type {number}
-   * @default null
+   * @default 0
    */
-  transitionTime: null,
+  transitionTime: 0,
 
   /**
    * Type of transition for the offcanvas menu. Options are 'push', 'detached' or 'slide'.
@@ -438,4 +428,7 @@ OffCanvas.defaults = {
   trapFocus: false
 }
 
-export {OffCanvas};
+// Window exports
+Foundation.plugin(OffCanvas, 'OffCanvas');
+
+}(jQuery);

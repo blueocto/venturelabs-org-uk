@@ -1,10 +1,6 @@
 'use strict';
 
-import $ from 'jquery';
-import { Motion } from './foundation.util.motion';
-import { Plugin } from './foundation.plugin';
-
-  // import "foundation.util.triggersjs";
+!function($) {
 
 /**
  * Toggler module.
@@ -13,7 +9,7 @@ import { Plugin } from './foundation.plugin';
  * @requires foundation.util.triggers
  */
 
-class Toggler extends Plugin {
+class Toggler {
   /**
    * Creates a new instance of Toggler.
    * @class
@@ -21,13 +17,15 @@ class Toggler extends Plugin {
    * @param {Object} element - jQuery object to add the trigger to.
    * @param {Object} options - Overrides to the default plugin settings.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, Toggler.defaults, element.data(), options);
     this.className = '';
 
     this._init();
     this._events();
+
+    Foundation.registerPlugin(this, 'Toggler');
   }
 
   /**
@@ -105,14 +103,14 @@ class Toggler extends Plugin {
     var _this = this;
 
     if (this.$element.is(':hidden')) {
-      Motion.animateIn(this.$element, this.animationIn, function() {
+      Foundation.Motion.animateIn(this.$element, this.animationIn, function() {
         _this._updateARIA(true);
         this.trigger('on.zf.toggler');
         this.find('[data-mutate]').trigger('mutateme.zf.trigger');
       });
     }
     else {
-      Motion.animateOut(this.$element, this.animationOut, function() {
+      Foundation.Motion.animateOut(this.$element, this.animationOut, function() {
         _this._updateARIA(false);
         this.trigger('off.zf.toggler');
         this.find('[data-mutate]').trigger('mutateme.zf.trigger');
@@ -128,8 +126,9 @@ class Toggler extends Plugin {
    * Destroys the instance of Toggler on the element.
    * @function
    */
-  _destroy() {
+  destroy() {
     this.$element.off('.zf.toggler');
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -143,4 +142,7 @@ Toggler.defaults = {
   animate: false
 };
 
-export {Toggler};
+// Window exports
+Foundation.plugin(Toggler, 'Toggler');
+
+}(jQuery);

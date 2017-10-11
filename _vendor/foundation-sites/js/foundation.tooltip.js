@@ -1,13 +1,6 @@
 'use strict';
 
-import $ from 'jquery';
-
-import { Box } from './foundation.util.box';
-import { GetYoDigits } from './foundation.util.core';
-import { MediaQuery } from './foundation.util.mediaQuery';
-import { Plugin } from './foundation.plugin';
-
-  // import "foundation.util.triggers";
+!function($) {
 
 /**
  * Tooltip module.
@@ -17,7 +10,7 @@ import { Plugin } from './foundation.plugin';
  * @requires foundation.util.triggers
  */
 
-class Tooltip extends Plugin {
+class Tooltip {
   /**
    * Creates a new instance of a Tooltip.
    * @class
@@ -25,13 +18,15 @@ class Tooltip extends Plugin {
    * @param {jQuery} element - jQuery object to attach a tooltip to.
    * @param {Object} options - object to extend the default configuration.
    */
-  _setup(element, options) {
+  constructor(element, options) {
     this.$element = element;
     this.options = $.extend({}, Tooltip.defaults, this.$element.data(), options);
 
     this.isActive = false;
     this.isClick = false;
     this._init();
+
+    Foundation.registerPlugin(this, 'Tooltip');
   }
 
   /**
@@ -39,7 +34,7 @@ class Tooltip extends Plugin {
    * @private
    */
   _init() {
-    var elemId = this.$element.attr('aria-describedby') || GetYoDigits(6, 'tooltip');
+    var elemId = this.$element.attr('aria-describedby') || Foundation.GetYoDigits(6, 'tooltip');
 
     this.options.positionClass = this.options.positionClass || this._getPositionClass(this.$element);
     this.options.tipText = this.options.tipText || this.$element.attr('title');
@@ -145,24 +140,25 @@ class Tooltip extends Plugin {
    */
   _setPosition() {
     var position = this._getPositionClass(this.template),
-        $tipDims = Box.GetDimensions(this.template),
-        $anchorDims = Box.GetDimensions(this.$element),
+        $tipDims = Foundation.Box.GetDimensions(this.template),
+        $anchorDims = Foundation.Box.GetDimensions(this.$element),
         direction = (position === 'left' ? 'left' : ((position === 'right') ? 'left' : 'top')),
         param = (direction === 'top') ? 'height' : 'width',
         offset = (param === 'height') ? this.options.vOffset : this.options.hOffset,
         _this = this;
 
-    if (($tipDims.width >= $tipDims.windowDims.width) || (!this.counter && !Box.ImNotTouchingYou(this.template))) {
-      this.template.offset(Box.GetOffsets(this.template, this.$element, 'center bottom', this.options.vOffset, this.options.hOffset, true)).css({
+    if (($tipDims.width >= $tipDims.windowDims.width) || (!this.counter && !Foundation.Box.ImNotTouchingYou(this.template))) {
+      this.template.offset(Foundation.Box.GetOffsets(this.template, this.$element, 'center bottom', this.options.vOffset, this.options.hOffset, true)).css({
+      // this.$element.offset(Foundation.GetOffsets(this.template, this.$element, 'center bottom', this.options.vOffset, this.options.hOffset, true)).css({
         'width': $anchorDims.windowDims.width - (this.options.hOffset * 2),
         'height': 'auto'
       });
       return false;
     }
 
-    this.template.offset(Box.GetOffsets(this.template, this.$element,'center ' + (position || 'bottom'), this.options.vOffset, this.options.hOffset));
+    this.template.offset(Foundation.Box.GetOffsets(this.template, this.$element,'center ' + (position || 'bottom'), this.options.vOffset, this.options.hOffset));
 
-    while(!Box.ImNotTouchingYou(this.template) && this.counter) {
+    while(!Foundation.Box.ImNotTouchingYou(this.template) && this.counter) {
       this._reposition(position);
       this._setPosition();
     }
@@ -175,7 +171,7 @@ class Tooltip extends Plugin {
    * @function
    */
   show() {
-    if (this.options.showOn !== 'all' && !MediaQuery.is(this.options.showOn)) {
+    if (this.options.showOn !== 'all' && !Foundation.MediaQuery.is(this.options.showOn)) {
       // console.error('The screen is too small to display this tooltip');
       return false;
     }
@@ -341,13 +337,15 @@ class Tooltip extends Plugin {
    * Destroys an instance of tooltip, removes template element from the view.
    * @function
    */
-  _destroy() {
+  destroy() {
     this.$element.attr('title', this.template.text())
                  .off('.zf.trigger .zf.tooltip')
                  .removeClass('has-tip top right left')
                  .removeAttr('aria-describedby aria-haspopup data-disable-hover data-resize data-toggle data-tooltip data-yeti-box');
 
     this.template.remove();
+
+    Foundation.unregisterPlugin(this);
   }
 }
 
@@ -466,4 +464,7 @@ Tooltip.defaults = {
  * TODO utilize resize event trigger
  */
 
-export {Tooltip};
+// Window exports
+Foundation.plugin(Tooltip, 'Tooltip');
+
+}(jQuery);
