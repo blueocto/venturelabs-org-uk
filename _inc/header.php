@@ -37,7 +37,7 @@
 
 			<div class="top-bar" id="top-bar-menu">
 				
-				<div class="top-bar-left float-left">
+				<div class="top-bar-left-custom">
 					
 					<a class="top-logo" href="/index.php" title="VentureLabs for Small Businesses">
 						<img src="/_img/venturelabs_logo_680.png" alt="VentureLabs logo" />
@@ -45,7 +45,7 @@
 
 				</div><!-- //top-bar-left float-left -->
 
-				<div class="top-bar-right show-for-medium">
+				<div class="top-bar-right show-for-large">
 					
 					<ul class="menu quick-links">
 						<li><a href="/index.php">Home</a></li>
@@ -55,7 +55,7 @@
 
 				</div><!-- //top-bar-right show-for-medium -->
 
-				<div class="top-bar-right show-for-medium">
+				<div class="top-bar-right show-for-large">
 					
 					<ul class="menu align-right">
 						<li>
@@ -125,7 +125,7 @@
 
 				</div><!-- //top-bar-right show-for-medium -->
 
-				<div class="top-bar-left float-left show-for-small-only">
+				<div class="mobile-menu-container hide-for-large">
 					
 					<ul class="menu mobile-menu">
 						<li><button class="menu-icon" type="button" data-toggle="off-canvas"></button></li>

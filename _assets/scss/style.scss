@@ -67,7 +67,7 @@ CSS file.
 @import "alpha/mixins";
 
 // Import your custom styles
-@import "main";
+// @import "main";
 // Import alpha srtyles - prevents overwrites
 @import "alpha/structure";
 
@@ -75,4 +75,4 @@ CSS file.
 // @import "2x";
 
 // Import your print styles
-@import "print";
+// @import "print";

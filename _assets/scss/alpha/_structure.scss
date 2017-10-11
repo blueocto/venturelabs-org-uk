@@ -142,7 +142,7 @@ footer {
 	margin: 0 auto; 
 	max-width: 170px; 
 
-	@include breakpoint(medium) {
+	@include breakpoint(large) {
 		margin: 0 15px; 
 		max-width: 150px; 
 	}
@@ -153,7 +153,7 @@ footer {
 	font-size: 21px;
 	color: #3276AD; 
 
-	@include breakpoint(medium) {
+	@include breakpoint(large) {
 		float: right; 
 		margin-top: 40px; 
 		font-size: 30px;
@@ -168,24 +168,37 @@ footer {
 /* normal horz main nav */
 .top-bar {
 
+	.top-bar-left-custom {
+
+		@include breakpoint(large) {
+			float: left; 
+		}
+	}
+
 	.menu > li > a {
 		border-left: 0; 
 		border-top-width: 5px; 
 		border-top-style: solid; 
 	}
-}
 
+	/*** mobile ~ tablet menu ***/
+	.mobile-menu-container {
 
-/*** mobile ~ tablet menu ***/
-.top-bar .mobile-menu {
-	margin-top: 30px; 
-	margin-bottom: 30px; 
-	padding: 0 15px; 
-	font-weight: 600; 
-	background-color: #333; 
+		@include breakpoint(large) {
+			float: left; 
+		}
+	}
 
-	> li > a {
-		border: 0; 
+	.mobile-menu {
+		margin-top: 30px; 
+		margin-bottom: 30px; 
+		padding: 0 15px; 
+		font-weight: 600; 
+		background-color: #333; 
+
+		> li > a {
+			border: 0; 
+		}
 	}
 }
 
