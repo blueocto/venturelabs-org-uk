@@ -35,8 +35,8 @@
 		<p>You can close or print the document at any time in the normal way. To re-open it, open Microsoft Word, click file then open and navigate to its location in the normal way.</p>
 		<p>This template is intended for business planning purposes only. If the financial tables are to be used for any other purpose other than cashflow management, then we strongly recommend that you consult an accountant or tax advisor.</p>
 		<p>Please note that this business plan template may not necessarily follow the same format as one a bank may ask you to complete, nevertheless much of the content required will be similar.</p>
-		<p><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 874K)</a>.</p>
-		<p><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 108K)</a>.</p>
+		<p><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 874K)</a>.</p>
+		<p><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 108K)</a>.</p>
 		
 		<ul>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/presenting-your-business-plan.php" title="Presenting your business plan">Prev</a></li>
@@ -67,8 +67,8 @@
 				
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
-			<li><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
+			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
+			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>

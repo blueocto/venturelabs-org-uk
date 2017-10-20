@@ -29,8 +29,8 @@
 			<li>An extended table of contents. This makes for very dull reading. You should ensure it shows the highlights of the plan, rather than restating the details the plan contains.</li>
 			<li>Hype. While the executive summary should excite the reader enough to read the entire plan, an experienced investor or business person will recognise hype and this will undermine the plan's credibility.</li>
 		</ul>
-		<p><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a>.</p>
-		<p><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a>.</p>
+		<p><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a>.</p>
+		<p><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a>.</p>
 		<p>See our videos and e-learning resources to <a href="https://www.gov.uk/write-business-plan" title="What you need to include in your business plan and how to create one step-by-step" target="_blank" rel="noopener noreferrer">create your business plan</a>.</p>
 		
 		<ul>
@@ -62,8 +62,8 @@
 				
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
-			<li><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
+			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
+			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>

@@ -62,7 +62,7 @@
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/CS0038.jpg" width="181" height="121" border="0" alt="Darren Jones, AKC Home Support Services" />
+					<img src="/_img/CS0038.jpg" width="181" height="121" border="0" alt="Darren Jones, AKC Home Support Services" />
 				</div>
 			</div>
 			<div class="media-object-section">
