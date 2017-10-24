@@ -3,6 +3,10 @@
 <head>
 	<title>Choose the right name for your business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer13f8.html || /layer?topicId=1073859929 -->
+	<meta name="description" lang="en" content="How to find the right name for your business and the rules and regulations involved in registering a name" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>
@@ -14,10 +18,9 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 
-
 		<h1>Choose the right name for your business</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU0200.gif" width="78" height="118" border="0" alt="" />
+		<img src="/_img/SU0200.gif" width="78" height="118" border="0" alt="" />
 		<p>Choosing a name for your business is a creative and enjoyable process. It is also one that you need to get right. Customers may infer a lot from your business name and first impressions count.</p>
 		<p>While it may be tempting to try to stamp your individual personality on your business name, there are many other issues to consider. Being objective and choosing a name that reflects your business strategy can be more valuable, especially as your business develops.</p>
 		<p>This guide shows you how to create the right impression, display your business name, consider whether your business name will be your brand and get your name on the web. It also outlines the specific rules that you must follow when choosing a company name for a limited company, limited liability partnership, sole trader or partnership.</p>
@@ -41,12 +44,13 @@
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Companies House Contact Centre</h3>
-		<p>0303 1234 500
-		</p>
+		<p>0303 1234 500</p>
 		
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
-				
+		
+		<hr />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/government/publications/incorporation-and-names#ch2" target="_blank" rel="noopener noreferrer">Company name guidance from Companies House </a></li>
@@ -54,6 +58,8 @@
 			<li><a href="http://www.nominet.uk/domains/about-domain-names/">Choosing a domain name advice from Nominet</a></li>
 		</ul>
 		
+		
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

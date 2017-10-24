@@ -3,6 +3,10 @@
 <head>
 	<title>Your growth options | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3f99.html || /detail?itemId=1083803490&type=RESOURCES -->
+	<meta name="description" lang="en" content="Managing the growth of your home business, employing people, outsourcing and meeting spaces" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -51,7 +55,9 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li>Your growth options</li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -65,6 +71,8 @@
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/assess-your-options-for-growth.php">Assess your options for growth</a></li>
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/prepare-a-business-plan-for-growth.php">Prepare a business plan for growth</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

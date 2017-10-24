@@ -4,6 +4,10 @@
 <head>
 	<title>Unincorporated associations | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail763d.html || /detail?itemId=1077475675&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to operate and organise an unincorporated association, and decide whether it suits your needs" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -59,7 +63,7 @@
 
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="../../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 44K)</a></li>
+				<li><a href="/_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 44K)</a></li>
 				<li><a href="https://www.ncvo.org.uk/practical-support/information/governance" target="_blank" rel="noopener noreferrer">Good governance and leadership advice from NCVO</a></li>
 				<li><a href="https://www.gov.uk/topic/running-charity" target="_blank" rel="noopener noreferrer">Charitable objects guidance from the Charity Commission</a></li>
 				<li><a href="https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm41305" target="_blank" rel="noopener noreferrer">Legal definition of unincorporated association from HM Revenue &amp; Customs</a></li>
@@ -75,6 +79,113 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+
+			<table height="100%" border="0" width="100%">
+				<tbody>
+					<tr>
+						<td>
+							<a href="http://www.berr.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.berr.gov.uk/', 'bgExternalwwwbusinesslinkgovuk');p.focus();" title="Department for Business, Innovation & Skills - Opens in a new window"><img src="/_img/logo_primary_bis.gif" width="160" height="32" border="0" alt="" />
+								<br/>Department for Business, Innovation &amp; Skills</a>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<a href="https://online.businesslink.gov.uk/bdotg/action/userSupport?refPage=%2Fbdotg%2Faction%2Fdetail%3FitemId%3D1077475675%26type%3DRESOURCES" title="Help &amp; support">Help &amp; support</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Copyright" title="&copy; Crown copyright 2011">Copyright</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Disclaimer" title="Terms &amp; conditions">Terms &amp; conditions</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Privacy" title="Privacy & cookies">Privacy & cookies</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility" title="Accessibility">Accessibility</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=HelpWithPDFFiles" title="PDF help">PDF help</a>
+			<ul>
+				<li><a href="http://www.businesslink.gov.uk/bdotg/action/fullsitemap" title="Site map">Site map</a></li>
+				<li><a href="http://www.businesslink.gov.uk/bdotg/action/help?page=HelpPage" title="Help">Help</a></li>
+				<li><a href="detail01b3.html?itemId=1087351667&amp;page=AboutUs&amp;r.i=1077475675&amp;r.s=h&amp;r.t=RESOURCES&amp;type=CAMPAIGN" title="About us">About us</a></li>
+				<li><a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility">Accessibility</a></li>
+			</ul>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td rowspan="14"><img src="/_img/px_white.gif" alt="" width="5" height="6" /></td>
+					<td colspan="2">
+						<p>
+							<a href="/starting-up.php" title="From first thoughts to a firm footing">Starting up</a>
+						</p>
+						<p><img src="/_img/leftnav_sub_hr.gif" alt="" /></p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<p><a href="layer1e2d.html?topicId=1085161962">Business structures</a>
+						</p>
+						<p><img src="/_img/leftnav_sub_hr.gif" alt="" /></p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><strong>Set up a social enterprise</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td width="10"> </td>
+					<td>
+						<p><img src="/_img/leftnav_sub_sub_hr.gif" alt="" /></p>
+					</td>
+				</tr>
+				<tr>
+					<td width="10"> </td>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise.php" title="The various types of social enterprise and how you can set one up, with links to forms and further information">Introduction</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="/_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /></td>
+					<td>
+						<p><strong>Unincorporated associations</strong></p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise/trusts.php">Trusts</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise/limited-companies-with-a-social-purpose.php">Limited companies with a social purpose</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php">Community benefit societies</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise/social-enterprises-as-registered-charities.php">Social enterprises as registered charities</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Community Interest Companies</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/business-structures/set-up-a-social-enterprise/charitable-incorporated-organisations.php">Charitable incorporated organisations</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"></td>
+				</tr>
+			</table>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

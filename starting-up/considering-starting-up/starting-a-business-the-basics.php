@@ -3,6 +3,10 @@
 <head>
 	<title>Starting a business: the basics | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerc419.html || /layer?topicId=1087078995 -->
+	<meta name="description" lang="en" content="What to do when starting a business, including advice on business plans, financial and legal requirements" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>
@@ -16,7 +20,7 @@
 		
 		<h1>Starting a business: the basics</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU2110.jpg" width="94" height="62" border="0" alt="" />
+		<img src="/_img/SU2110.jpg" width="94" height="62" border="0" alt="" />
 		<p>If you are considering starting up a new business, you need to consider a number of factors to ensure the best chance of success.</p>
 		<p>As well as your product or service, you will need to think about what you will call your business, what sort of structure it will have and how you are going to run it. You should also think about how you are going to attract customers and where the money will come from for setting up while the business finds its feet.</p>
 		<p>This guide outlines what you need to do, and where you can find the information you need, to plan your new business. It gives guidance on business plans, proper finance and the legal requirements that must be met when starting up a business.</p>
@@ -37,10 +41,14 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

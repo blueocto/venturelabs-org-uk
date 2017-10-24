@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I control my stock | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6267.html || /detail?itemId=1075399110&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study, the managing director of Systems (Telecoms) Limited explains how stock is controlled" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>
@@ -51,13 +55,17 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li>Here's how I control my stock</li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/AndreaJones.jpg" width="181" height="121" border="0" alt="Andrea Jones, Systems (Telecoms) Limited" />
+					<img src="/_img/AndreaJones.jpg" width="181" height="121" border="0" alt="Andrea Jones, Systems (Telecoms) Limited" />
 				</div>
 			</div>
 			<div class="media-object-section">

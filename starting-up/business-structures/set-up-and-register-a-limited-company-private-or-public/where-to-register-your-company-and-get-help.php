@@ -4,6 +4,10 @@
 <head>
 	<title>Where to register your company and get help | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail0cca-2.html || /detail?itemId=1073789600&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to register, the costs of registration and where to go to get more help" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>
@@ -50,7 +54,7 @@
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="http://solicitors.lawsociety.org.uk/" target="_blank" rel="noopener noreferrer">Solicitor directory search from the Law Society</a></li>
-				<li><a href="http://web.archive.org/web/20120319152052/http://www.icaewfirms.co.uk/business/index.php"target="_blank" rel="noopener noreferrer">Chartered accountants search facility from the Institute of Chartered Accountants in England and Wales</a></li>
+				<li><a href="http://web.archive.org/web/20120319152052/https://web.archive.org/web/20120904025933/http://www.icaewfirms.co.uk/business/index.php"target="_blank" rel="noopener noreferrer">Chartered accountants search facility from the Institute of Chartered Accountants in England and Wales</a></li>
 				<li><a href="https://www.yell.com/" target="_blank" rel="noopener noreferrer">Sources of professional help from Yell.com</a></li>
 				<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your limited company online with Companies House</a></li>
 			</ul>
@@ -64,6 +68,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -3,6 +3,8 @@
 <head>
 	<title>Choose And Set Up Your Workplace | Starting Up | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer2500.html || /layer?topicId=1073859128 -->
 </head>
 
 <body>

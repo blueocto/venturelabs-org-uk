@@ -4,6 +4,10 @@
 <head>
 	<title>Advantages and disadvantages of franchising | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb621.html || /detail?itemId=1073791408&type=RESOURCES -->
+	<meta name="description" lang="en" content="Franchises have benefits, proven ideas and brand names but the franchisor may restrict how you run the business" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>
@@ -78,12 +82,14 @@
 				<li><a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a></li>
 				<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
 			</ul>
+
+			
 			
 			<hr />
 
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
+					<img src="/_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
 				</a>
 			</p>
 

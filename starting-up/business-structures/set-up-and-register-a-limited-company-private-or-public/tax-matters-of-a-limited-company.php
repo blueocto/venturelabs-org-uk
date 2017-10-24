@@ -4,6 +4,10 @@
 <head>
 	<title>Tax matters of a limited company | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile047.html || /detail?itemId=1073789619&type=RESOURCES -->
+	<meta name="description" lang="en" content="What taxes affect limited companies and how they are reported and paid" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>
@@ -69,6 +73,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

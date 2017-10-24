@@ -3,6 +3,10 @@
 <head>
 	<title>Work on your business idea | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf519.html || /detail?itemId=1081896154&type=RESOURCES -->
+	<meta name="description" lang="en" content="Fine tune your business idea given what you know about the volatile financial climate " />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>
@@ -51,11 +55,15 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.bl.uk/business-and-ip-centre" target="_blank" rel="noopener noreferrer">Idea development information on the British Library Business &amp; IP Centre website</a></li>
@@ -66,6 +74,8 @@
 			<li><a href="https://www.gov.uk/set-up-business" title="Find out about researching your chosen market and how to generate or develop a new business idea" target="_blank" rel="noopener noreferrer">Develop your business idea</a></li>
 			<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

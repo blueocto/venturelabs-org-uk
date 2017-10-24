@@ -4,6 +4,10 @@
 <head>
 	<title>Further information for finding or becoming a business mentor | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail4b09.html || /detail?itemId=1084721841&type=RESOURCES -->
+	<meta name="description" lang="en" content="Business mentoring sources of support, advice and information" />
+	<meta name="keywords" lang="en" content="Business mentoring benefits; mentoring; business mentoring; benefits of business mentoring; online mentoring; online business networking; peer mentoring; online networking; networking; Shell LiveWIRE; Enterprise Nation; horsesmouth; Freelance Advisor; Solutions for Business; coaching; business mentor; becoming a business mentor; business advice; business support; mentorsme; national mentoring network; financial mentors" />
 </head>
 
 <body>
@@ -73,10 +77,12 @@
 
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
+					<img src="/_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
 	Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Innovation &amp; Skills</del>
 				</a>
 			</p>
+
+			
 		
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

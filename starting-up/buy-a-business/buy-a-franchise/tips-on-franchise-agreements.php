@@ -4,6 +4,10 @@
 <head>
 	<title>Tips on franchise agreements | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaild749.html || /detail?itemId=1073791406&type=RESOURCES -->
+	<meta name="description" lang="en" content="Your franchise agreement should cover franchise length, territory, amount of fees, management service fees and royalties, and restrictions" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>
@@ -53,7 +57,7 @@
 				<li><a href="https://www.franchiseinfo.co.uk/advice/legal-advice" title="Legal considerations for anyone thinking of becoming a franchisee" target="_blank" rel="noopener noreferrer">Legal pitfalls of franchising explained on the Franchiseinfo website</a></li>
 				<li><a href="http://www.whichfranchise.com/legalAdvisers/indepthAdvice.cfm" target="_blank" rel="noopener noreferrer">Franchise agreements explained on the whichfranchise.com website</a></li>
 				<li><a href="http://solicitors.lawsociety.org.uk/" target="_blank" rel="noopener noreferrer">Solicitor search tool on the Law Society website</a></li>
-				<li><a href="../../../_files/berr_employment-rights-on-the-transfer-of-an-undertaking_mar-2007.pdf" target="_blank" rel="noopener noreferrer">Download the Transfer of Undertakings (Protection of Employment) regulations guidance from the Department for Business, Innovation &amp; Skills website (PDF, 188K)</a></li>
+				<li><a href="/_files/berr_employment-rights-on-the-transfer-of-an-undertaking_mar-2007.pdf" target="_blank" rel="noopener noreferrer">Download the Transfer of Undertakings (Protection of Employment) regulations guidance from the Department for Business, Innovation &amp; Skills website (PDF, 188K)</a></li>
 				<li><a href="http://www.theukfranchisedirectory.net/" title="Franchise opportunities in the UK" target="_blank" rel="noopener noreferrer">UK franchise opportunities on the UK Franchise Directory website</a></li>
 			</ul>
 			

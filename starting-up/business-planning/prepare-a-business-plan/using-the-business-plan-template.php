@@ -3,6 +3,10 @@
 <head>
 	<title>Using the business plan template | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	
+	<!-- ref: detail223c.html || /detail?itemId=1087369151&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to use our downloadable business plan template, showing you everything you need to include" />
+	<meta name="keywords" lang="en" content="Business plans;  planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
 </head>
 
 <body>
@@ -59,12 +63,16 @@
 			<li>Using the business plan template</li>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>

@@ -3,6 +3,10 @@
 <head>
 	<title>Thinking about starting a social enterprise? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerc1a0.html || /layer?topicId=1079870761 -->
+	<meta name="description" lang="en" content="Why set up a social enterprise and the benefits of doing so" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Thinking about starting a social enterprise?</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/enterprise_week.gif" width="94" height="62" border="0" alt="" />
+		<img src="/_img/enterprise_week.gif" width="94" height="62" border="0" alt="" />
 		<p>Social enterprises are businesses with a social purpose. They have social aims, trade in competitive markets and use their profits for community benefits.</p>
 		<p>Social enterprises work across a wide range of industrial sectors, including growth sectors such as recycling, renewable energy and social care. The sector is diverse and includes some co-operatives, credit unions, housing associations, community development trusts, social firms and community businesses.</p>
 		<p>This guide will help you decide whether to start up a social enterprise and what the benefits will be for you.</p>
@@ -41,17 +45,19 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
+		<img src="/_img/hr_140px_global.gif" alt="" />
 
-		<h3>Actions</h3>
-		<ul>
-			<li><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78927/building-stronger-civil-society.pdf" target="_blank" rel="noopener noreferrer">Download 'Big Society' strategy information from the Gov.uk website (PDF, 182K)</a></li>
-			<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information on the Social Enterprise UK website</a></li>
-		</ul>
+			<h3>Actions</h3>
+			<ul>
+				<li><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78927/building-stronger-civil-society.pdf" target="_blank" rel="noopener noreferrer">Download 'Big Society' strategy information from the Gov.uk website (PDF, 182K)</a></li>
+				<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information on the Social Enterprise UK website</a></li>
+			</ul>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

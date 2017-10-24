@@ -3,6 +3,10 @@
 <head>
 	<title>How do I survive until my business is off the ground? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerbd60.html || /layer?topicId=1074401788 -->
+	<meta name="description" lang="en" content="How to keep yourself afloat during the early months of your new business" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>How do I survive until my business is off the ground?</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU1000.gif" width="78" height="118" border="0" alt="" />
+		<img src="/_img/SU1000.gif" width="78" height="118" border="0" alt="" />
 		<p>It can be a number of months before a new business is profitable and generating a cash surplus. You may need alternative sources of income during this period, if only to cover your outgoings. If your business does make a profit, you may want to re-invest it to help your business develop.</p>
 		<p>This guide gives advice on how to keep your business afloat in the early days. It will help you work out your profits and financial needs, reduce your spending, re-invest your money and find further funds.</p>
 		<p>Careful planning and the right advice can make this transitional phase much easier to manage. A Venture Labs adviser or a financial adviser can help you address these issues further.</p>
@@ -37,15 +41,22 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.unbiased.co.uk/" target="_blank" rel="noopener noreferrer">Financial adviser database on the Independent Financial Adviser Promotion website</a></li>
 		</ul>
+
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

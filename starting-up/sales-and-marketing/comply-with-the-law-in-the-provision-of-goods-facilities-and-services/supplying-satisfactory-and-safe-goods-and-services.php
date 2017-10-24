@@ -3,6 +3,10 @@
 <head>
 	<title>Supplying satisfactory and safe goods and services | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3369.html || /detail?itemId=1073792517&type=RESOURCES -->
+	<meta name="description" lang="en" content="The laws governing the sale and supply of goods and services that you must be familiar with" />
+	<meta name="keywords" lang="en" content="Selling legally; buying and selling legislation,retail regulation,selling legislation,buying legislation,retail legislation; selling online; late payment; data protection; customer information; distance selling; WEEE; Consumer affairs; Trading Standards; Sales of Goods Act; Supply of Goods and Services Act; data protection; consumer rights; customer rights; refunds; warranties; returns; cancellation rights; supplier; proof of age standards scheme; PASS; discrimination; equality; goods, facilities and services; Consumer affairs" />
 </head>
 
 <body>
@@ -38,7 +42,7 @@
 		<p>For more information, see our guide on <a href="/sales-and-marketing/selling-and-the-law/the-sale-of-goods-act.php" title="Keep on the right side of the law when selling to your customers">the Sale of Goods Act</a>.</p>
 		<p>The Consumer Protection from Unfair Trading Regulations give consumers the right not to be misled by the actions or omissions of traders. They also protect consumers from aggressive or high-pressure selling techniques.</p>
 		<p>Business customers are protected by rules that prohibit misleading advertising.</p>
-		<p><a href="../../../_files/berr_the-consumer-protection-from-unfair-trading-regulations-a-basic-guide-for-business_mar-2008.pdf" title="Practical advice on how the Consumer Protection from Unfair Trading Regulations apply to your business" target="_blank" rel="noopener noreferrer">Download a basic guide to the Consumer Protection from Unfair Trading Regulations from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 574K)</a>.</p>
+		<p><a href="/_files/berr_the-consumer-protection-from-unfair-trading-regulations-a-basic-guide-for-business_mar-2008.pdf" title="Practical advice on how the Consumer Protection from Unfair Trading Regulations apply to your business" target="_blank" rel="noopener noreferrer">Download a basic guide to the Consumer Protection from Unfair Trading Regulations from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 574K)</a>.</p>
 		<p>If anyone incurs damage to their private property, is injured or killed as a result of using goods you have supplied you can be sued under product liability law. See our guide on <a href="/workplace-health-and-safety/managing-the-welfare-of-people/product-liability.php" title="Your legal responsibility to make sure your products are sufficiently safe">product liability</a>.</p>
 		<p>Your local Trading Standards service monitors and enforces product safety and day-to-day fair-trading practices. <a href="http://webarchive.nationalarchives.gov.uk/20111006195104/https://www.businesscompanion.info/advice/advice-business.cfm" target="_blank" rel="noopener noreferrer">Find your local Trading Standards office on the Trading Standards Institute (TSI) website</a>.</p>
 		<ul>
@@ -65,7 +69,7 @@
 		<ul>
 			<li><a href="https://www.gov.uk/government/organisations/office-of-fair-trading" title="Your customers' legal rights when they buy goods from you" target="_blank" rel="noopener noreferrer">The Sale of Goods Act on the Office of Fair Trading website</a></li>
 			<li><a href="https://www.gov.uk/government/topics/consumer-rights-and-issues" title="How to comply and avoid unfair commercial practices" target="_blank" rel="noopener noreferrer">Unfair commercial practices advice on the BIS website</a></li>
-			<li><a href="../../../_files/berr_the-consumer-protection-from-unfair-trading-regulations-a-basic-guide-for-business_mar-2008.pdf" title="Practical advice on how the Consumer Protection from Unfair Trading Regulations apply to your business" target="_blank" rel="noopener noreferrer">Download Consumer Protection from Unfair Trading Regulations guidance from the BIS website (PDF, 574K)</a></li>
+			<li><a href="/_files/berr_the-consumer-protection-from-unfair-trading-regulations-a-basic-guide-for-business_mar-2008.pdf" title="Practical advice on how the Consumer Protection from Unfair Trading Regulations apply to your business" target="_blank" rel="noopener noreferrer">Download Consumer Protection from Unfair Trading Regulations guidance from the BIS website (PDF, 574K)</a></li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20111006195104/https://www.businesscompanion.info/advice/advice-business.cfm" target="_blank" rel="noopener noreferrer">Business guidance and Trading Standards office search on the TSI website</a></li>
 		</ul>
 		
@@ -80,19 +84,20 @@
 			<li><a href="/sales-and-marketing/pricing/competing-fairly.php">Competing fairly</a></li>
 		</ul>
 
+		
+		
 		<p>
 			Developed with:<br />
 			<a href="http://webarchive.nationalarchives.gov.uk/20130403014324/http://oft.gov.uk/" target="_blank" rel="noopener noreferrer" title="Office of Fair Trading - Opens in a new window">
-				<img src="../../../_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
+				<img src="/_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
 			</a>
 			<br />
 			<a href="https://www.businesscompanion.info/" target="_blank" rel="noopener noreferrer" title="Trading Standards - Opens in a new window">
-				<img src="../../../_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
+				<img src="/_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
 			</a>
 		</p>
 		
-		
-	</div><!-- // .small-12 large-8 large-push-4 columns -->
+		</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 

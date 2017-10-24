@@ -3,6 +3,10 @@
 <head>
 	<title>The different types of IT suppliers | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf9c7.html || /detail?itemId=1073792238&type=RESOURCES -->
+	<meta name="description" lang="en" content="Identify different types of IT suppliers from whom you can buy systems and services, eg single or multiple source" />
+	<meta name="keywords" lang="en" content="Choosing an IT supplier; ICT; information technology; finding internet expertise; applications technology support; bespoke software; customised software; best available technology; ISP; Internet service provider; ASP; application service provider; outsource; broadband; dial-up; system maintenance; IT support; computer support; service level agreement; SLA; cloud computing; Information technology" />
 </head>
 
 <body>
@@ -69,9 +73,11 @@
 		<p>
 			Developed with:<br />
 			<a href="https://www.nb2bc.co.uk/" title="The National B2B Centre - Opens in a new window" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
+				<img src="/_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
 			</a>
 		</p>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

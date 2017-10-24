@@ -3,6 +3,10 @@
 <head>
 	<title>Stock control systems - keeping track using computer software | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail5998.html || /detail?itemId=1073792781&type=RESOURCES -->
+	<meta name="description" lang="en" content="Sales order processing, automatic stock monitoring and how to choose the right system" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>
@@ -65,6 +69,8 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -82,6 +88,8 @@
 			<li><a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php">Set up a basic record-keeping system</a></li>
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/avoid-the-problems-of-overtrading.php">Avoid the problems of overtrading</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

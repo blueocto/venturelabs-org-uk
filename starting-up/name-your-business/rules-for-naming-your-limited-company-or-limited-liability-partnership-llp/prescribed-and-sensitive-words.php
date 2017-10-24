@@ -3,6 +3,10 @@
 <head>
 	<title>Prescribed and sensitive words | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailbc44.html || /detail?itemId=1085039680&type=RESOURCES -->
+	<meta name="description" lang="en" content="Which words are prescribed for use in a company or LLP name and require the prior consent of a relevant body" />
+	<meta name="keywords" lang="en" content="Company and limited liability partnership naming rules; Limited company; registered company; PLC; limited liability partnership; LLP; Companies House; prescribed words; sensitive words; legislated words; same as; too like; Ltd; limited; objection; opportunistic registration; representative word; regulatory; regulation" />
 </head>
 
 <body>
@@ -31,11 +35,15 @@
 			<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/objections-to-company-names.php">Objections to company names</a></li>
 			<li>Prescribed and sensitive words</li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Companies House Contact Centre</h3>
 		<p>0303 1234 500</p>
+
+		<img src="/_img/hr_140px_global.gif" alt="" />
 		
 		<h3>Actions</h3>
 		<ul>
@@ -51,6 +59,8 @@
 			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Understand the different business types</a></li>
 			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -3,6 +3,10 @@
 <head>
 	<title>Your business plan | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7459.html || /detail?itemId=1087090196&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to put together a successful business plan and what it needs to include" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>
@@ -45,10 +49,12 @@
 			<li>Your business plan</li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 
 		<h3>Also on this site</h3>
 		<ul>

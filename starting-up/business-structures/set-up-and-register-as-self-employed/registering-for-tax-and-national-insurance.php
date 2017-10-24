@@ -4,6 +4,10 @@
 <head>
 	<title>Registering for tax and National Insurance | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail4897.html || /detail?itemId=1083844795&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to register with HMRC for tax and National Insurance, VAT, CIS, and as an employer" />
+	<meta name="keywords" lang="en" content="Registering as self employed; working for myself; self-employment; sole trader regulations; registering as sole trader; setting up a new business; registering a new business; business name; working from home; income tax self-assessment; business rate; business accounts; record keeping; profit and loss; Business practice and regulation" />
 </head>
 
 <body>
@@ -55,7 +59,7 @@
 			<dl>
 				<dt></dt>
 				<dd>
-					 <a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer"><img src="../../../_img/HMRC_logo.gif" width="134" height="35" border="0" alt="" />HM Revenue &amp; Customs</a>
+					 <a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer"><img src="/_img/HMRC_logo.gif" width="134" height="35" border="0" alt="" />HM Revenue &amp; Customs</a>
 				</dd>
 			</dl>
 
@@ -73,6 +77,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

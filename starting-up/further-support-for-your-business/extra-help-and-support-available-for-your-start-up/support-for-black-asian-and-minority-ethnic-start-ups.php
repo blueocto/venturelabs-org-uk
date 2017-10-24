@@ -4,6 +4,9 @@
 <head>
 	<title>Support for black, Asian and minority ethnic start ups | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaildd54.html || /detail?itemId=1097213861&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for ethnic minority people who set up a business, including advice and specialist organisations" />
 </head>
 
 <body>
@@ -57,10 +60,12 @@
 			
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/logo_primary_bis.gif" width="160" height="32" alt="" /> Department for
+					<img src="/_img/logo_primary_bis.gif" width="160" height="32" alt="" /> Department for
 Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Innovation &amp; Skills</del>
 				</a>
 			</p>
+
+			
 
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

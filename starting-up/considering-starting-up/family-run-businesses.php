@@ -3,6 +3,10 @@
 <head>
 	<title>Family-run businesses | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer0733.html || /layer?topicId=1074039321 -->
+	<meta name="description" lang="en" content="Understand the particular benefits and issues that affect family-run businesses" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Family-run businesses</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU0570new.gif" width="94" height="62" border="0" alt="" />
+		<img src="/_img/SU0570new.gif" width="94" height="62" border="0" alt="" />
 		<p>A family-run business is typically one in which more than half the shares are controlled by members of the same family, or one that has been passed between generations.</p>
 		<p>Starting, leading and working in a family business can bring valuable benefits compared with other businesses - from greater trust between staff to increased flexibility. However, without careful management there can also be problems - from family members lacking critical skills, poor communication to clashes over pay.</p>
 		<p>This guide sets out the main advantages that come with running a family business. It also looks at some of the key challenges and suggests ways these can be channelled to become positive forces for business growth and success.</p>
@@ -39,11 +43,15 @@
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/here-is-how-having-a-family-member-in-the-business-made-a-difference.php">Here's how having a family member in the business made a difference</a></li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="#">Download the family business rulebook from the BDO Stoy Hayward website (PDF, 55K)</a></li>
@@ -52,9 +60,11 @@
 
 		<h3>Developed with:</h3>
 		<a class="caption" href="http://www.ifb.org.uk/" target="_blank" rel="noopener noreferrer">
-			<img src="../../_img/logo_ifb.gif" width="130" height="35" border="0" alt="" />
+			<img src="/_img/logo_ifb.gif" width="130" height="35" border="0" alt="" />
 			<br/>Institute for Family Business
 		</a>
+
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

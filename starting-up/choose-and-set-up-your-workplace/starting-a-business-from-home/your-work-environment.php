@@ -3,6 +3,10 @@
 <head>
 	<title>Your work environment | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailcd63.html || /detail?itemId=1083767169&type=RESOURCES -->
+	<meta name="description" lang="en" content="Work equipment and workspace requirements, planning permission and questions to ask yourself" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -61,13 +65,15 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.planningportal.co.uk/info/200130/common_projects/56/working_from_home" target="_blank" rel="noopener noreferrer">Working from home guidance on the Planning Portal website </a></li>
-			<li><a href="../../../_files/hse_homeworkers-guidance_for-employers-on-health-and-safety.pdf" target="_blank" rel="noopener noreferrer">Download homeworking guidance from the Health and Safety Executive website (PDF, 247K)</a></li>
+			<li><a href="/_files/hse_homeworkers-guidance_for-employers-on-health-and-safety.pdf" target="_blank" rel="noopener noreferrer">Download homeworking guidance from the Health and Safety Executive website (PDF, 247K)</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
@@ -75,6 +81,8 @@
 			<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace.php">Use your home as a workplace</a></li>
 			<li><a href="/workplace-health-and-safety/what-workplace-facilities-do-you-need-to-provide.php">What workplace facilities do you need to provide?</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

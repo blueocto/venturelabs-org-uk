@@ -4,6 +4,10 @@
 <head>
 	<title>Environmental issues in specific business sectors | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb9c6.html || /detail?itemId=1079438098&type=RESOURCES -->
+	<meta name="description" lang="en" content="Making sure you comply with environmental legislation for your business sector" />
+	<meta name="keywords" lang="en" content="Environmental responsibilities; environment; responsibilities; hazard; water; waste; chemicals; oils; animal by-products; solvents; noise; pollution; effluent; danger; work practices; working environment; waste; dangerous substances; environmental obligations;  environmental rules; waste management; statutory nuisance; trade effluent; packaging waste; REACH; RoHS; CHIP; Classification Labelling and Packaging of Substances and Mixtures; CLP Regulations; Globally Harmonised Systems" />
 </head>
 
 <body>
@@ -60,16 +64,18 @@
 				<li><a href="/environment-and-efficiency/waste-legislation-and-responsibility/duty-of-care-your-waste-responsibilities.php">Duty of care - your waste responsibilities</a></li>
 				<li><a href="/environment-and-efficiency/sources-of-environmental-advice/using-an-environmental-consultant.php">Using an environmental consultant</a></li>
 			</ul>
+
+			
 			
 			<p>
 				Developed with:
 				<br />
 				<a href="http://webarchive.nationalarchives.gov.uk/20130822084033/http://defra.gov.uk/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/Defra_black_and_white_sml.jpg" width="84" height="65" alt="" /> Department for Environment Food and Rural Affairs
+					<img src="/_img/Defra_black_and_white_sml.jpg" width="84" height="65" alt="" /> Department for Environment Food and Rural Affairs
 				</a>
 				<br />
 				<a href="https://www.gov.uk/government/organisations/environment-agency" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/environment_agency_2006.gif" width="115" height="31" alt="" /> Environment Agency
+					<img src="/_img/environment_agency_2006.gif" width="115" height="31" alt="" /> Environment Agency
 				</a>
 			</p>
 		</div>

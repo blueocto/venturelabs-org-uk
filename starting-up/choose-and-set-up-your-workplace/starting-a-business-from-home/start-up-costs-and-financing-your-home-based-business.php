@@ -3,6 +3,10 @@
 <head>
 	<title>Start-up costs and financing your home-based business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailfeaf.html || /detail?itemId=1083765949&type=RESOURCES -->
+	<meta name="description" lang="en" content="Financial considerations for home businesses" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -53,7 +57,9 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -68,6 +74,8 @@
 			<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
 			<li><a href="/tax-payroll-and-company-information/business-rates/business-rates-an-overview.php">Business rates - an overview</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

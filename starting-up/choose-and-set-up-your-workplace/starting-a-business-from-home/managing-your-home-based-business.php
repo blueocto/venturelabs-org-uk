@@ -3,6 +3,10 @@
 <head>
 	<title>Managing your home-based business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailee1b.html || /detail?itemId=1083803353&type=RESOURCES -->
+	<meta name="description" lang="en" content="Keep your home business running smoothly, business development, customer care and admin " />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -44,7 +48,9 @@
 			<li>Managing your home-based business</li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Also on this site</h3>
@@ -54,6 +60,8 @@
 			<li><a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php">Credit checking your customers and setting credit limits</a></li>
 			<li><a href="/it-and-ecommerce/introduction-to-it/plan-your-it.php">Plan your IT</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -3,6 +3,10 @@
 <head>
 	<title>Set up and register a limited partnership | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layere48d.html || /layer?topicId=1086166435 -->
+	<meta name="description" lang="en" content="What a limited partnership is, the benefits of setting one up, and how to register and dissolve it" />
+	<meta name="keywords" lang="en" content="Limited Partnerships; limited partnership; general partners; limited partners; Companies House; Limited Partnership Act 1907; registration form LP5; LP; Companies House Regsitrar; form LP6; dissolution" />
 </head>
 
 <body>
@@ -31,6 +35,8 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/tax-matters-of-a-limited-partnership.php">Tax matters of a limited partnership</a></li>
 			<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/dissolving-a-limited-partnership.php">Dissolving a limited partnership</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

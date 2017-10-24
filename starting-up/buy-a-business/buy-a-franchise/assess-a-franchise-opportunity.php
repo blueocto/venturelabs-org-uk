@@ -4,6 +4,10 @@
 <head>
 	<title>Assess a franchise opportunity | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail25a5.html || /detail?itemId=1073791410&type=RESOURCES -->
+	<meta name="description" lang="en" content="What to find out when considering buying a franchise - including costs, competition, current success and support" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>
@@ -78,11 +82,13 @@
 				<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a></li>
 			</ul>
 
+			
+
 			<hr />
 			
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
+					<img src="/_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
 				</a>
 			</p>
 

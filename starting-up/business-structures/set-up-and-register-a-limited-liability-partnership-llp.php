@@ -3,6 +3,10 @@
 <head>
 	<title>Set up and register a limited liability partnership (LLP) | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layere3fb.html || /layer?topicId=1073865702 -->
+	<meta name="description" lang="en" content="The legal steps you need to take to form an LLP, including links to Companies House guidance" />
+	<meta name="keywords" lang="en" content="Limited liability partnership registration; two or more people; limited liability partnership; companies house partnership; llp; partnership agreement; incorporation; social enterprise; designated members; deed of partnership; partnership tax; llp2; business names; llp1; llp3; llp4; Business practice and regulation" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Set up and register a limited liability partnership (LLP)</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/TR0820.gif" width="78" height="118" border="0" alt="" />
+		<img src="/_img/TR0820.gif" width="78" height="118" border="0" alt="" />
 		<p>A limited liability partnership (LLP) is similar to a normal partnership, but it also offers reduced personal responsibility for business debts.</p>
 		<p>Unlike sole traders and partners of ordinary partnerships, the LLP itself - not the individual members - is responsible for any debts that it runs up, unless individual members have personally guaranteed a loan to the business.</p>
 		<p>LLPs are more complicated to set up and run than ordinary partnerships, as they have to meet many of the same requirements as limited companies. LLPs are designed to be used by profit-making businesses. Non-profit making organisations should not use this business structure.</p>
@@ -37,12 +41,16 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/checklist-setting-up-and-registering-an-llp.php">Checklist: setting up and registering an LLP</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/government/publications/limited-liability-partnership-incorporation-and-names" target="_blank" rel="noopener noreferrer">LLP incorporation advice from Companies House </a></li>
 		</ul>
+
+		
 
 
 </div><!-- // .small-12 large-8 large-push-4 columns -->

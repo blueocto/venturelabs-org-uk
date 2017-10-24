@@ -3,6 +3,10 @@
 <head>
 	<title>Advantages of family businesses | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailea0d.html || /detail?itemId=1073792650&type=RESOURCES -->
+	<meta name="description" lang="en" content="Commitment, loyalty, stability, flexibility, pride and other characteristics that can benefit family businesses" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>
@@ -44,11 +48,15 @@
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/here-is-how-having-a-family-member-in-the-business-made-a-difference.php">Here's how having a family member in the business made a difference</a></li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="hse_employers-liability-compulsory-insurance-act-1969.pdf" target="_blank" rel="noopener noreferrer">Download a guide to employers' liability insurance from the Health &amp; Safety Executive website (PDF, 192K)</a></li>
@@ -65,7 +73,9 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home </a></li>
 		</ul>
 
-	
+		
+
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

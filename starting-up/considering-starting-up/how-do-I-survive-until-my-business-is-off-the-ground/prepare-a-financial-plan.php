@@ -3,6 +3,10 @@
 <head>
 	<title>Prepare a financial plan | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail96a4.html || /detail?itemId=1074402054&type=RESOURCES -->
+	<meta name="description" lang="en" content="Preparing your financial plan and sticking to a budget" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>
@@ -26,7 +30,7 @@
 			<li>prepare monthly or weekly cashflow forecasts (which should be regularly updated), looking ahead one year - overheads such as rent can be accurately predicted</li>
 			<li>make sure you will have enough money on the day to cover each payment</li>
 		</ul>
-		<p><a href="../../../_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download a spreadsheet containing cashflow forecast, profit and loss forecast and sales forecast templates (XLS, 44K)</a>.</p>
+		<p><a href="/_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download a spreadsheet containing cashflow forecast, profit and loss forecast and sales forecast templates (XLS, 44K)</a>.</p>
 		<p>Once you have drawn up your budget, it is important to stick to it so you don't risk overspending or running out of money for essentials. The key to budgeting is maintaining simple but good records. You will need to keep track of where your money comes from and where it goes.</p>
 		<p>For more information on preparing a financial plan read our guide on <a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">budgeting and business planning</a>.</p>
 		
@@ -45,15 +49,19 @@
 			<li>Prepare a financial plan</li>
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download a spreadsheet containing cashflow forecast, profit and loss forecast and sales forecast templates (XLS, 44K) </a></li>
+			<li><a href="/_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download a spreadsheet containing cashflow forecast, profit and loss forecast and sales forecast templates (XLS, 44K) </a></li>
 			<li><a href="http://www.learndirect.com/store/business-workplace/finance-accounts/understanding-accounts" target="_blank" rel="noopener noreferrer">Understanding Accounts course on the learndirect business website </a></li>
 			<li><a href="http://www.startupdonut.co.uk/startup/financing-a-business/cash-flow/budgeting" target="_blank" rel="noopener noreferrer">Budgeting guidance on the Start up Donut website </a></li>
 		</ul>
@@ -65,6 +73,8 @@
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a></li>
 			<li><a href="/sales-and-marketing/selling/forecast-and-plan-your-sales.php">Forecast and plan your sales</a></li>
 		</ul>
+
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

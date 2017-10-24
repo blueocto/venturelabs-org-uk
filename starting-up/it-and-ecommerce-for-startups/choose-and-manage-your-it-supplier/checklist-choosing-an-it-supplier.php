@@ -3,6 +3,10 @@
 <head>
 	<title>Checklist: choosing an IT supplier | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailab6e.html || /detail?itemId=1073792230&type=RESOURCES -->
+	<meta name="description" lang="en" content="The questions you should ask prospective suppliers when selecting an IT system for your business" />
+	<meta name="keywords" lang="en" content="Choosing an IT supplier; ICT; information technology; finding internet expertise; applications technology support; bespoke software; customised software; best available technology; ISP; Internet service provider; ASP; application service provider; outsource; broadband; dial-up; system maintenance; IT support; computer support; service level agreement; SLA; cloud computing; Information technology" />
 </head>
 
 <body>
@@ -75,9 +79,11 @@
 		<p>
 			Developed with:<br />
 			<a href="https://www.nb2bc.co.uk/" title="The National B2B Centre - Opens in a new window" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
+				<img src="/_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
 			</a>
 		</p>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

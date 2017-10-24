@@ -4,6 +4,10 @@
 <head>
 	<title>Checklist: setting up and registering an LLP | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail5162.html || /detail?itemId=1073789610&type=RESOURCES -->
+	<meta name="description" lang="en" content="The rules and best practice for setting up limited liability partnerships" />
+	<meta name="keywords" lang="en" content="Limited liability partnership registration; two or more people; limited liability partnership; companies house partnership; llp; partnership agreement; incorporation; social enterprise; designated members; deed of partnership; partnership tax; llp2; business names; llp1; llp3; llp4; Business practice and regulation" />
 </head>
 
 <body>
@@ -74,6 +78,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

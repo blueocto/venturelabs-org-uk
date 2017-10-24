@@ -3,6 +3,8 @@
 <head>
 	<title>Buy A Business | Starting Up | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer03ad.html || /layer?topicId=1073859122 -->
 </head>
 
 <body>

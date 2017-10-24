@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>When to register for VAT | Business Link</title>
+	<title>When to register for VAT | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer21f6.html || /layer?topicId=1073863071 -->
+	<meta name="description" lang="en" content="Find out whether you need to register for VAT and how to do it" />
+	<meta name="keywords" lang="en" content="VAT registration: logic tool; registering for VAT; VAT schemes; VAT regulations" />
 </head>
 
 <body>
@@ -19,7 +23,7 @@
 
 		<h1>When to register for VAT</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/DTree_VAT.gif" width="94" height="62" alt="" />
+		<img src="/_img/DTree_VAT.gif" width="94" height="62" alt="" />
 		<p><strong>Do you need to register for VAT?</strong> Just answer a series of simple questions with yes/no answers. Most people will be able to find out the answer in less than five minutes.</p>
 		<p><strong>If you do need to register</strong>, you'll be given links to the forms you need to fill in on the HM Revenue &amp; Customs (HMRC) website. At any step along the way you can correct an earlier answer.</p>
 		<p><strong>If you already know you need to register</strong>, answering these questions will help you to find the correct forms for your particular business circumstances. </p>
@@ -43,7 +47,7 @@
 		
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" title="HM Revenue &amp; Customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
 				HM Revenue &amp; Customs
 			</a>
 		</p>
@@ -58,7 +62,7 @@
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20140603092408/http://search2.hmrc.gov.uk/kb5/hmrc/forms/view.page?record=85vwdkgwso0&formid=1001" target="_blank" rel="noopener noreferrer">Register an individual company for VAT group treatment using form VAT 51 from HMRC</a></li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://search2.hmrc.gov.uk/kb5/hmrc/forms/view.page?formid=1005&record=gmxrhlqonsk" target="_blank" rel="noopener noreferrer">Transfer your existing VAT number using form VAT 68 from HMRC</a></li>
 		</ul>
-				
+		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

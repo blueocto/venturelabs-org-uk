@@ -3,6 +3,10 @@
 <head>
 	<title>Marketing your product or service overseas | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail1918.html || /detail?itemId=1073792496&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to market effectively to potential export channels" />
+	<meta name="keywords" lang="en" content="Exporting - overview; expand market; overseas market research; export regulations; export control organisation; eco; export tariffs; export  duties; export controls; export; exporting; passport to export; business abroad; export; controls; international sales; export; exporting; trading overseas; new markets; foreign markets; duties; marine insurance; export credits; Incoterms; Exports" />
 </head>
 
 <body>
@@ -84,6 +88,8 @@
 				<img src="/_img/UKTI.gif" width="104" height="32" alt="" /> Department for International Trade
 			</a>
 		</p>
+
+		
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

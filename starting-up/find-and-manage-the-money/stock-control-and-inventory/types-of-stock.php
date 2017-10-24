@@ -3,6 +3,10 @@
 <head>
 	<title>Types of stock | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail732f.html || /detail?itemId=1073792657&type=RESOURCES -->
+	<meta name="description" lang="en" content="The four main types of stock - raw materials and components, work in progress, finished goods and consumables" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>
@@ -50,6 +54,8 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Also on this site</h3>
@@ -59,7 +65,7 @@
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a></li>
 		</ul>
 
-	
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

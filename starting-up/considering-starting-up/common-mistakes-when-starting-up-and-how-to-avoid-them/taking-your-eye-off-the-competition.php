@@ -3,6 +3,10 @@
 <head>
 	<title>Taking your eye off the competition | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf94f.html || /detail?itemId=1075219871&type=RESOURCES -->
+	<meta name="description" lang="en" content="Failing to analyse the competition and diversifying your business too soon can mean problems for new businesses" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>
@@ -57,14 +61,18 @@
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/here-is-how-I-started-a-successful-business_flash-video.php">Here's how I started a successful business (Flash video)</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
+
+		<img src="/_img/hr_140px_global.gif" alt="" />
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/how-to-get-to-grips-with-your-competitors.pdf" target="_blank" rel="noopener noreferrer">Download competitor information gathering advice from the Chartered Institute of Marketing website (PDF, 159K)</a></li>
+			<li><a href="/_files/how-to-get-to-grips-with-your-competitors.pdf" target="_blank" rel="noopener noreferrer">Download competitor information gathering advice from the Chartered Institute of Marketing website (PDF, 159K)</a></li>
 		</ul>
 
 		<h3>Also on this site</h3>
@@ -72,6 +80,8 @@
 			<li><a href="https://www.gov.uk/business-selling-customers" target="_blank" rel="noopener noreferrer">Understand your market</a></li>
 			<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -4,6 +4,10 @@
 <head>
 	<title>Charitable incorporated organisations | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7b07.html || /detail?itemId=1077476119&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to incorporate a charity using the form of a charitable incorporated organisation" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -58,7 +62,7 @@
 
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="../../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 44K)</a></li>
+				<li><a href="/_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 44K)</a></li>
 			</ul>
 						
 			<h3>Also on this site</h3>
@@ -68,6 +72,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 		
 
 		</div>

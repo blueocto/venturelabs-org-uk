@@ -3,6 +3,10 @@
 <head>
 	<title>Sources and contacts to help you start a business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8b66.html || /detail?itemId=1081905580&type=RESOURCES -->
+	<meta name="description" lang="en" content="Finding an organisation that can offer practical advice or funding for your start-up business" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>
@@ -24,7 +28,7 @@
 		<p>If you are starting up a co-operative, employee-owned business or social enterprise, Industrial Common Ownership Finance (ICOF) can offer loans of between &pound;5,000 and &pound;50,000. You can <a href="https://coopfinance.coop/borrow/" target="_blank" rel="noopener noreferrer">find out if you are eligible for a loan from ICOF from the ICOF website</a>.</p>
 		<p>If you are disabled and starting a business, the Access to Work scheme provides grants to employers towards any extra employment costs resulting from an employee having a disability. <a href="https://www.gov.uk/access-to-work" target="_blank" rel="noopener noreferrer">Find out about Access to Work on the Jobcentre Plus website</a>.</p>
 		<p>If you are starting up a minority ethnic business - the Asian Business Development Network (ABDN) is a network of entrepreneurs from across minority ethnic communities. It aims to encourage ethnic minority entrepreneurship. You can <a href="https://www.nabauk.org/abdn/" target="_blank" rel="noopener noreferrer">find support for starting up a minority ethnic business from the ABDN</a>.</p>
-		<p>If you are aged between 16 and 30 - Shell LiveWIRE provides advice and practical support in starting up your business. <a href="http://www.shell-livewire.org/" target="_blank" rel="noopener noreferrer">Find guidance on starting up a business on the Shell LiveWIRE website</a>.</p>
+		<p>If you are aged between 16 and 30 - Shell LiveWIRE provides advice and practical support in starting up your business. <a href="https://www.shell-livewire.org/" target="_blank" rel="noopener noreferrer">Find guidance on starting up a business on the Shell LiveWIRE website</a>.</p>
 		<p></p>
 		<p>If you are aged between 18 and 30 and unemployed - the Prince's Trust could offer a loan of up to &pound;5,000. It also offers practical support, such as personal development courses, work experience, skills and qualifications. <a href="https://www.princes-trust.org.uk/" target="_blank" rel="noopener noreferrer">Find out how to apply for a Prince's Trust loan on the Prince's Trust website</a>.</p>
 		<p>If you are a woman - Prowess is an association of organisations that specifically support women in business. <a href="http://www.prowess.org.uk/directory" target="_blank" rel="noopener noreferrer">Find support for women in business on the Prowess website</a>.</p>
@@ -46,18 +50,22 @@
 			<li>Sources and contacts to help you start a business</li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 		
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.gov.uk/bdotg/action/hubChassis?itemId=1097101805&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Find out about business mentoring</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.gov.uk/bdotg/action/hubChassis?itemId=1097101974&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Get tips on how to network</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101805&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Find out about business mentoring</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101974&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Get tips on how to network</a></li>
 			<li><a href="https://www.gov.uk/business-finance-support-finder" target="_blank" rel="noopener noreferrer">Find the right support for your new business</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

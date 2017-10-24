@@ -4,6 +4,10 @@
 <head>
 	<title>Deed of partnership of an LLP | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6ff9.html || /detail?itemId=1073789605&type=RESOURCES -->
+	<meta name="description" lang="en" content="A deed of partnership will usually cover capital, profits, working arrangements and changes to structure" />
+	<meta name="keywords" lang="en" content="Limited liability partnership registration; two or more people; limited liability partnership; companies house partnership; llp; partnership agreement; incorporation; social enterprise; designated members; deed of partnership; partnership tax; llp2; business names; llp1; llp3; llp4; Business practice and regulation" />
 </head>
 
 <body>
@@ -58,7 +62,7 @@
 				<li><a href="http://webarchive.nationalarchives.gov.uk/20140109143644/http://www.hmrc.gov.uk/manuals/bimmanual/bim72501.htm" target="_blank" rel="noopener noreferrer">Partnership Act 1890 guidance from HMRC </a></li>
 				<li><a href="http://solicitors.lawsociety.org.uk/" target="_blank" rel="noopener noreferrer">Solicitor search from the Law Society</a></li>
 				<li><a href="https://web-beta.archive.org/web/20130420094152/http://www.accaglobal.com/en/discover/find-accountant.html" target="_blank" rel="noopener noreferrer">Accountant search from the Association of Chartered Certified Accountants</a></li>
-				<li><a href="../../../_files/compact-law_sample-partnership-agreement.pdf" target="_blank" rel="noopener noreferrer">Download a sample partnership agreement from the Compact Law website (PDF, 74K)</a></li>
+				<li><a href="/_files/compact-law_sample-partnership-agreement.pdf" target="_blank" rel="noopener noreferrer">Download a sample partnership agreement from the Compact Law website (PDF, 74K)</a></li>
 				<li><a href="https://www.cedr.com/" target="_blank" rel="noopener noreferrer">Dispute resolution advice and resources from the Centre for Effective Dispute Resolution</a></li>
 			</ul>
 			
@@ -70,6 +74,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

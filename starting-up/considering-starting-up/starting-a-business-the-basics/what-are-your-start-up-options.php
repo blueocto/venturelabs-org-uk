@@ -3,6 +3,10 @@
 <head>
 	<title>What are your start-up options? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail01f3.html || /detail?itemId=1087079537&type=RESOURCES -->
+	<meta name="description" lang="en" content="Decide whether you want to start your own business or make another choice such as buying a franchise" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>
@@ -47,17 +51,18 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 
 		<h3>Also on this site</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">choose the right business model and legal structure</a></li>
 			<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">name your business</a></li>
 		</ul>
-		
 
 			
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

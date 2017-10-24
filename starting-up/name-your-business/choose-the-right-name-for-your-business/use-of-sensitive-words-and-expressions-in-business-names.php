@@ -3,6 +3,10 @@
 <head>
 	<title>Use of sensitive words and expressions in business names | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf79c.html || /detail?itemId=1073788945&type=RESOURCES -->
+	<meta name="description" lang="en" content="Rules about using certain words and phrases in your business name and contacting Companies House for further advice" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>
@@ -69,6 +73,8 @@
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/getting-your-business-name-on-the-internet.php">Getting your business name on the internet</a></li>
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -76,7 +82,9 @@
 		<p>0303 1234 500</p>
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
-				
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/government/publications/incorporation-and-names#appA" target="_blank" rel="noopener noreferrer">List of sensitive words from Companies House</a></li>

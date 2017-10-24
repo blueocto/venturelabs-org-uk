@@ -4,6 +4,10 @@
 <head>
 	<title>How to purchase a franchise | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8ca8.html || /detail?itemId=1073791411&type=RESOURCES -->
+	<meta name="description" lang="en" content="Check these dos and don'ts before taking on a franchise" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>
@@ -77,10 +81,12 @@
 				<li><a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a></li>
 				<li><a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php">Choose and work with a solicitor</a></li>
 			</ul>
+
+			
 			
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
+					<img src="/_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
 				</a>
 			</p>
 

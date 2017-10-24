@@ -2,6 +2,12 @@
 <html class="no-js">
 <head>
 	<title>Marketing and sales | Venture Labs</title>
+
+	<!-- ref: detail712a.html || /detail?itemId=1073791232&type=RESOURCES -->
+
+	<meta name="description" lang="en" content="Sectors covering price, customers, your sales channels, distribution methods, promotional strategy and sales plan" />
+	<meta name="keywords" lang="en" content="Business plans;  planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
+
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -27,7 +33,7 @@
 			<li>How will you <strong>reach</strong> your customers? What channels will you use? Which partners will be needed in your distribution channels? See our guide on how to <a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively.php">reach your customers effectively</a>.</li>
 			<li>How will you do your <strong>selling</strong>? Do you have a sales plan? Have you considered which sales method will be the most effective and most appropriate for your market, such as selling by phone, over the internet, face-to-face or through retail outlets? Are your proposed sales methods consistent with your marketing plan? And do you have the right skills to secure the sales you need? See our guide on <a href="/sales-and-marketing/selling/the-sales-process.php">the sales process</a>.</li>
 		</ul>
-		<p>See our videos and e-learning resources to <a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.gov.uk/bdotg/action/hubChassis?itemId=1097101953&amp;type=HUBCHASSIS" title="How business planning can help you develop your sales and marketing strategy" target="_blank" rel="noopener noreferrer">develop your sales and marketing strategy</a>.</p>
+		<p>See our videos and e-learning resources to <a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101953&amp;type=HUBCHASSIS" title="How business planning can help you develop your sales and marketing strategy" target="_blank" rel="noopener noreferrer">develop your sales and marketing strategy</a>.</p>
 		
 		<ul>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/your-markets-and-competitors.php" title="Your markets and competitors">Prev</a></li>
@@ -50,12 +56,16 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/using-the-business-plan-template.php">Using the business plan template</a></li>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/sales-and-marketing/advertising-branding-and-design/choosing-the-right-advertising-media.php">Use our interactive tool to investigate what will be the best advertising media for your business</a></li>
@@ -65,12 +75,14 @@
 				
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.gov.uk/bdotg/action/hubChassis?itemId=1097101953&amp;type=HUBCHASSIS" title="How business planning can help you develop your sales and marketing strategy" target="_blank" rel="noopener noreferrer">Develop your sales and marketing strategy</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101953&amp;type=HUBCHASSIS" title="How business planning can help you develop your sales and marketing strategy" target="_blank" rel="noopener noreferrer">Develop your sales and marketing strategy</a></li>
 			<li><a href="https://www.gov.uk/write-business-plan" title="What you need to include in your business plan and how to create one step-by-step" target="_blank" rel="noopener noreferrer">Create your business plan</a></li>
 			<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php">Create your marketing strategy</a></li>
 			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">Know your customers' needs</a></li>
 			<li><a href="/sales-and-marketing/pricing/price-your-product-or-service.php">Price your product or service</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

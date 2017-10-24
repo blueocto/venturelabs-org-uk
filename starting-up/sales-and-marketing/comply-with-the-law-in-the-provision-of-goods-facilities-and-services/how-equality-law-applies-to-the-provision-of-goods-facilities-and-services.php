@@ -3,6 +3,10 @@
 <head>
 	<title>How equality law applies to the provision of goods, facilities and services | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail0603-2.html || /detail?itemId=1086013642&type=RESOURCES -->
+	<meta name="description" lang="en" content="Protected characteristics and the main types of unlawful conduct" />
+	<meta name="keywords" lang="en" content="Selling legally; buying and selling legislation,retail regulation,selling legislation,buying legislation,retail legislation; selling online; late payment; data protection; customer information; distance selling; WEEE; Consumer affairs; Trading Standards; Sales of Goods Act; Supply of Goods and Services Act; data protection; consumer rights; customer rights; refunds; warranties; returns; cancellation rights; supplier; proof of age standards scheme; PASS; discrimination; equality; goods, facilities and services; Consumer affairs" />
 </head>
 
 <body>
@@ -89,11 +93,11 @@
 		<h3>EHRC Helpline - England</h3>
 		<p>0845 604 6610</p>
 		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<img src="/_img/hr_140px_global.gif" alt="" />
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/odi_growing-your-customer-base-to-include-disabled-people_aug-2012.pdf" target="_blank" rel="noopener noreferrer">Download a guide to growing your customer base to include disabled people from the ODI website (PDF, 1.04M)</a></li>
+			<li><a href="/_files/odi_growing-your-customer-base-to-include-disabled-people_aug-2012.pdf" target="_blank" rel="noopener noreferrer">Download a guide to growing your customer base to include disabled people from the ODI website (PDF, 1.04M)</a></li>
 			<li><a href="https://www.gov.uk/government/policies/equality" target="_blank" rel="noopener noreferrer">Equality Act guidance for businesses that provide goods and services on the Government Equalities Office website</a></li>
 			<li><a href="https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-service-providers" target="_blank" rel="noopener noreferrer">Equality Act guidance for service providers on the Equality and Human Rights Commission website</a></li>
 		</ul>
@@ -106,13 +110,15 @@
 		<p>
 			Developed with:<br />
 			<a href="http://webarchive.nationalarchives.gov.uk/20130403014324/http://oft.gov.uk/" target="_blank" rel="noopener noreferrer" title="Office of Fair Trading - Opens in a new window">
-				<img src="../../../_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
+				<img src="/_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
 			</a>
 			<br />
 			<a href="https://www.businesscompanion.info/" target="_blank" rel="noopener noreferrer" title="Trading Standards - Opens in a new window">
-				<img src="../../../_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
+				<img src="/_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
 			</a>
 		</p>
+
+		
 		
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -4,6 +4,10 @@
 <head>
 	<title>What is franchising? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail1596.html || /detail?itemId=1073791407&type=RESOURCES -->
+	<meta name="description" lang="en" content="Different types of franchises and sales relationships - such as distribution and dealership, agencies and licensing" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>
@@ -32,7 +36,7 @@
 			
 			<h3>Multi-level marketing</h3>
 			<p>Some businesses offer franchises that are really multi-level marketing schemes. This is where self-employed distributors sell goods on a manufacturer's behalf. You get commission on any sales you make, and also on sales made by other distributors you recruit.</p>
-			<p>Be aware that some multi-level marketing schemes may be dishonest or illegal. <a href="../../../_files/dti_the_trading-schemes-guide_june-2005.pdf" title="Guidance on trading schemes from BIS" target="_blank" rel="noopener noreferrer">Download the Trading Schemes Guide from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 66K)</a>.</p>
+			<p>Be aware that some multi-level marketing schemes may be dishonest or illegal. <a href="/_files/dti_the_trading-schemes-guide_june-2005.pdf" title="Guidance on trading schemes from BIS" target="_blank" rel="noopener noreferrer">Download the Trading Schemes Guide from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 66K)</a>.</p>
 			
 			<ul>
 				<li><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php" title="Buy a franchise">Prev</a></li>
@@ -59,7 +63,7 @@
 			<ul>
 				<li><a href="http://www.thebfa.org/about-franchising" title="Find out about licensing a franchise which entitles the franchisee to trade under the trade name of the franchisor" target="_blank" rel="noopener noreferrer">Franchising explained on the British Franchise Association (BFA) website</a></li>
 				<li><a href="http://www.thebfa.org/franchise-seminars" title="Find out about franchise seminars including where and when they are being held" target="_blank" rel="noopener noreferrer">Franchising seminars listed on the BFA website</a></li>
-				<li><a href="../../../_files/dti_the_trading-schemes-guide_june-2005.pdf" title="Guidance on trading schemes from BIS" target="_blank" rel="noopener noreferrer">Download the Trading Schemes Guide from the BIS website (PDF, 66K)</a></li>
+				<li><a href="/_files/dti_the_trading-schemes-guide_june-2005.pdf" title="Guidance on trading schemes from BIS" target="_blank" rel="noopener noreferrer">Download the Trading Schemes Guide from the BIS website (PDF, 66K)</a></li>
 				<li><a href="http://www.theukfranchisedirectory.net/" title="Franchise opportunities in the UK" target="_blank" rel="noopener noreferrer">UK franchise opportunities on the UK Franchise Directory website</a></li>
 			</ul>
 			

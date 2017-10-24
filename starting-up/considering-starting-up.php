@@ -3,6 +3,8 @@
 <head>
 	<title>Considering Starting Up | Starting Up | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer8448.html || /layer?topicId=1073859137 -->
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Rates of VAT | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail5e66.html || /detail?itemId=1081167204&type=RESOURCES -->
+	<meta name="description" lang="en" content="The three rates of VAT, examples of different goods and services charged at different rates and exempt items" />
+	<meta name="keywords" lang="en" content="Introduction to VAT; VAT; vat rates; VAT Group; VAT exemption; exempt from VAT; outside the scope of VAT; input tax; output tax; registration; goods; services; import; export; HMRC; taxable person; standard rate; standard-rated; reduced rate; reduced-rated; zero rate; zero-rated; taxable supplies; taxable turnover; exempt; corporate body; exempt supplies; supply of goods; tax liability; tax point; transfer of a going concern; unincorporated body;" />
 </head>
 
 <body>
@@ -73,7 +77,7 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
 				HM Revenue &amp; Customs
 			</a>
 		</p>
@@ -94,6 +98,8 @@
 			<li><a href="/tax-payroll-and-company-information/vat/vat-rates-thresholds-fuel%20scales-and-exchange-rates/rates-of-vat-on-different-goods-and-services.php">Rates of VAT on different goods and services</a></li>
 			<li><a href="/tax-payroll-and-company-information/vat/charities-and-other-not-for-profit-organisations-and-vat/how-vat-applies-to-fundraising-events.php">How VAT applies to fundraising events</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

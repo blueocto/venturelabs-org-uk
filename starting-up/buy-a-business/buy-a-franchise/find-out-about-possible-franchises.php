@@ -4,6 +4,10 @@
 <head>
 	<title>Find out about possible franchises | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail831c.html || /detail?itemId=1073791409&type=RESOURCES -->
+	<meta name="description" lang="en" content="How and where to find out about franchise opportunities" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>
@@ -73,11 +77,13 @@
 				<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a></li>
 			</ul>
 
+			
+
 			<hr />
 			
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
+					<img src="/_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" />whichfranchise.com
 				</a>
 			</p>
 		

@@ -3,6 +3,10 @@
 <head>
 	<title>Getting paid on time | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailee6b.html || /detail?itemId=1073792520&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information on the law surrounding commercial debts and compensation for late payment" />
+	<meta name="keywords" lang="en" content="Selling legally; buying and selling legislation,retail regulation,selling legislation,buying legislation,retail legislation; selling online; late payment; data protection; customer information; distance selling; WEEE; Consumer affairs; Trading Standards; Sales of Goods Act; Supply of Goods and Services Act; data protection; consumer rights; customer rights; refunds; warranties; returns; cancellation rights; supplier; proof of age standards scheme; PASS; discrimination; equality; goods, facilities and services; Consumer affairs" />
 </head>
 
 <body>
@@ -32,7 +36,7 @@
 		<p>Some firms choose not to charge interest because they are concerned it may alienate important customers. Developing strong credit management procedures can help avoid this conflict of interests.</p>
 		<p>And remember - your purchase invoices may also attract interest if you fail to pay them on time.</p>
 		<p>
-			<p><a href="../../../_files/berr_a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer">Download the user's guide to late payment legislation from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 390K)</a>.</p>
+			<p><a href="/_files/berr_a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer">Download the user's guide to late payment legislation from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 390K)</a>.</p>
 		</p>
 		
 		<ul>
@@ -58,7 +62,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.bankofengland.co.uk/" target="_blank" rel="noopener noreferrer" title="Find out the Bank of England base rate">Current base rate on the Bank of England website</a></li>
-			<li><a href="../../../_files/berr_a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer" title="A User's guide to the late payment legislation">Download late payment legislation guidance from the BIS website (PDF, 390K)</a></li>
+			<li><a href="/_files/berr_a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer" title="A User's guide to the late payment legislation">Download late payment legislation guidance from the BIS website (PDF, 390K)</a></li>
 			<li><a href="/finance-and-grants/debt-recovery/recover-your-debts.php">Use our interactive tool to find out how you can recover unpaid debts</a></li>
 			<li><a href="/finance-and-grants/debt-recovery/calculate-the-interest-due-on-an-unpaid-debt.php">Use our interactive tool to calculate statutory or contractual interest you may be able to charge on an unpaid debt</a></li>
 		</ul>
@@ -73,14 +77,15 @@
 		<p>
 			Developed with:<br />
 			<a href="http://webarchive.nationalarchives.gov.uk/20130403014324/http://oft.gov.uk/" target="_blank" rel="noopener noreferrer" title="Office of Fair Trading - Opens in a new window">
-				<img src="../../../_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
+				<img src="/_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
 			</a>
 			<br />
 			<a href="https://www.businesscompanion.info/" target="_blank" rel="noopener noreferrer" title="Trading Standards - Opens in a new window">
-				<img src="../../../_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
+				<img src="/_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
 			</a>
 		</p>
 
+		
 		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

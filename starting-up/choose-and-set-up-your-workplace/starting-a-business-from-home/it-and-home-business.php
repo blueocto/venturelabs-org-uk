@@ -3,6 +3,10 @@
 <head>
 	<title>IT and home business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8de8.html || /detail?itemId=1083766207&type=RESOURCES -->
+	<meta name="description" lang="en" content="The importance of IT for home business" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -54,13 +58,15 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.enterprisenation.com/" target="_blank" rel="noopener noreferrer">Home working advice on the Enterprise Nation website</a></li>
-			<li><a href="http://www.horsesmouth.co.uk/publisha.content/work/topics.publisha?topic=Starting%20a%20business" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
+			<li><a href="http://www.horsesmouth.co.uk/publisha.content/Work/topics.publisha?topic=Starting+a+business" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
 			<li><a href="/it-and-ecommerce/introduction-to-it/setting-up-a-basic-it-system.php">Use our interactive tool to find out which computer equipment you should buy for your business</a></li>
 			<li><a href="/it-and-ecommerce/create-and-manage-a-website/get-the-right-website-for-your-business.php">Use our interactive tool to investigate what kind of website is best for your business</a></li>
 		</ul>
@@ -69,6 +75,8 @@
 		<ul>
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

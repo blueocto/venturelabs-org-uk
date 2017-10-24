@@ -3,6 +3,10 @@
 <head>
 	<title>Research and develop your business ideas, new products and services | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer7907.html || /layer?topicId=1074302123 -->
+	<meta name="description" lang="en" content="How to develop your idea into a viable business by investing in new products or services to meet customer needs" />
+	<meta name="keywords" lang="en" content="Developing business ideas; business plans; market research; market opportunities; product development; raising finance; raising capital; intellectual property; product testing; start up; new business; innovation; customer research; product design; prototyping; feasability study; business objectives; market testing; new idea; fresh idea; business idea; innovative idea; joint ventures;product testing; Business development" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Research and develop your business ideas, new products and services</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU0060.gif" width="78" height="118" border="0" alt="" />
+		<img src="/_img/SU0060.gif" width="78" height="118" border="0" alt="" />
 		<p>Developing your business idea into a viable product or service is a critical part of building a business. Thorough assessment and market research at an early stage will help you to establish whether there is a market for your product or service.</p>
 		<p>Once you begin trading, new products and services will be very important, and investing in their development is crucial to business growth and profitability. But the development process can be risky and it needs considerable planning and organisation.</p>
 		<p>This guide will help you assess whether your idea can form the foundation for a successful business and put a process in place to monitor and measure its progress.</p>
@@ -46,11 +50,13 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-I-got-my-great-new-product-in-front-of-customers.php">Here's how I got my great new product in front of customers</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 		</ul>
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
+		<img src="/_img/hr_140px_global.gif" alt="" />
 
 		<h3>Actions</h3>
 		<ul>
@@ -62,6 +68,7 @@
 			<li><a href="http://www.productmanager.co.uk/innovation-management.html" target="_blank" rel="noopener noreferrer">Innovation management information on the Innovation Process Management website</a></li>
 			<li><a href="http://www.designcouncil.org.uk/resources/search/design%2520methods/bundle/guide?retain-filters=1" target="_blank" rel="noopener noreferrer">Idea generation and creativity advice on the Design Council website</a></li>
 		</ul>
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

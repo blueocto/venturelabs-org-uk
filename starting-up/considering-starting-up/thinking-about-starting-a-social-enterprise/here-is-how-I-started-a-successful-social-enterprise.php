@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I started a successful social enterprise | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf0a9.html || /detail?itemId=1087441924&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study Ian Glasscock explains how he set up a successful social enterprise to help children with ADHD" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>
@@ -52,13 +56,17 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li>Here's how I started a successful social enterprise</li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/PlayAttention_cs.jpg" width="181" height="121" border="0" alt="Ian Glasscock, Games for Life" />
+					<img src="/_img/PlayAttention_cs.jpg" width="181" height="121" border="0" alt="Ian Glasscock, Games for Life" />
 				</div>
 			</div>
 			<div class="media-object-section">
@@ -76,6 +84,8 @@
 		</div>
 
 		<p><strong><a href="/find-a-case-study.php">Find a case study</a></strong></p>
+
+		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

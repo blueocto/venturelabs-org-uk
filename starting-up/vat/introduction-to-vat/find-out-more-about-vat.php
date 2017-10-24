@@ -3,6 +3,10 @@
 <head>
 	<title>Find out more about VAT | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail5994.html || /detail?itemId=1081174900&type=RESOURCES -->
+	<meta name="description" lang="en" content="A list of useful resources for further information on VAT" />
+	<meta name="keywords" lang="en" content="Introduction to VAT; VAT; vat rates; VAT Group; VAT exemption; exempt from VAT; outside the scope of VAT; input tax; output tax; registration; goods; services; import; export; HMRC; taxable person; standard rate; standard-rated; reduced rate; reduced-rated; zero rate; zero-rated; taxable supplies; taxable turnover; exempt; corporate body; exempt supplies; supply of goods; tax liability; tax point; transfer of a going concern; unincorporated body;" />
 </head>
 
 <body>
@@ -69,7 +73,7 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
 				HM Revenue &amp; Customs
 			</a>
 		</p>
@@ -93,6 +97,8 @@
 			<li><a href="/tax-payroll-and-company-information/vat/international-trade-international-visits-and-vat.php">International trade, international visits and VAT</a></li>
 			<li><a href="/tax-payroll-and-company-information/vat/charities-and-other-not-for-profit-organisations-and-vat.php">Charities and other not-for-profit organisations and VAT</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

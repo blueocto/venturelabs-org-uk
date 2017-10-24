@@ -3,6 +3,10 @@
 <head>
 	<title>The difference between exempt and zero-rated | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail37ab.html || /detail?itemId=1082374522&type=RESOURCES -->
+	<meta name="description" lang="en" content="Different rates of VAT and how to account for VAT-exempt and zero-rated goods" />
+	<meta name="keywords" lang="en" content="Introduction to VAT; VAT; vat rates; VAT Group; VAT exemption; exempt from VAT; outside the scope of VAT; input tax; output tax; registration; goods; services; import; export; HMRC; taxable person; standard rate; standard-rated; reduced rate; reduced-rated; zero rate; zero-rated; taxable supplies; taxable turnover; exempt; corporate body; exempt supplies; supply of goods; tax liability; tax point; transfer of a going concern; unincorporated body;" />
 </head>
 
 <body>
@@ -48,7 +52,7 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
 				HM Revenue &amp; Customs
 			</a>
 		</p>
@@ -60,6 +64,8 @@
 			<li><a href="/tax-payroll-and-company-information/vat/reclaiming-vat-on-your-purchases/exempt-and-partially-exempt-businesses-for-vat-purposes.php">Exempt and partially-exempt businesses for VAT purposes</a></li>
 			<li><a href="/tax-payroll-and-company-information/vat/vat-rates-thresholds-fuel%20scales-and-exchange-rates/rates-of-vat-on-different-goods-and-services.php">Rates of VAT on different goods and services</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

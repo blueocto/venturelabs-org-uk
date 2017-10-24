@@ -3,6 +3,10 @@
 <head>
 	<title>How to complete your VAT Return | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb079.html || /detail?itemId=1081175312&type=RESOURCES -->
+	<meta name="description" lang="en" content="Filling in your VAT Return electronically or on paper and the Flat Rate Scheme" />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>
@@ -64,14 +68,14 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" />
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" />
 				HM Revenue &amp; Customs
 			</a>
 		</p>
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://www.hmrc.gov.uk/demo/organisation/register-and-enrol-VAT/" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/https://www.gov.uk/vat-registration" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
@@ -80,7 +84,9 @@
 			<li><a href="/tax-payroll-and-company-information/vat/how-to-submit-your-vat-return-online.php">How to submit your VAT Return online</a></li>
 			<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/flat-rate-scheme-how-to-complete-your-vat-return-box-by-box.php">Flat Rate Scheme: how to complete your VAT Return box by box</a></li>
 		</ul>
-		 
+
+		
+ 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

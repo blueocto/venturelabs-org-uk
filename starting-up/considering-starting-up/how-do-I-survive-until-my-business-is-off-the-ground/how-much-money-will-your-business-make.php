@@ -3,6 +3,10 @@
 <head>
 	<title>How much money will your business make? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailc8b5.html || /detail?itemId=1074402034&type=RESOURCES -->
+	<meta name="description" lang="en" content="Concentrate on your cashflow to ensure your business stays afloat" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>
@@ -56,15 +60,19 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/cash-flow-projection-worksheet.xls" target="_blank" rel="noopener noreferrer">Download our sample cashflow projection spreadsheet (XLS, 79K)</a></li>
-			<li><a href="../../../_files/cima_improving-cash-flow-using-credit-management_the-outline-case.pdf" target="_blank" rel="noopener noreferrer">Download a practical guide to cashflow management from the Chartered Institute of Management Accountants (PDF, 366K)</a></li>
+			<li><a href="/_files/cash-flow-projection-worksheet.xls" target="_blank" rel="noopener noreferrer">Download our sample cashflow projection spreadsheet (XLS, 79K)</a></li>
+			<li><a href="/_files/cima_improving-cash-flow-using-credit-management_the-outline-case.pdf" target="_blank" rel="noopener noreferrer">Download a practical guide to cashflow management from the Chartered Institute of Management Accountants (PDF, 366K)</a></li>
 			<li><a href="http://www.startupdonut.co.uk/startup/financing-a-business/cash-flow" target="_blank" rel="noopener noreferrer">Cashflow guidance on the Start up Donut website</a></li>
 			<li><a href="http://www.learndirect.com/store/understanding-accounts" target="_blank" rel="noopener noreferrer">Understanding Accounts course on the learndirect business website</a></li>
 		</ul>
@@ -78,7 +86,9 @@
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a></li>
 		</ul>
 
-		
+		 
+
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

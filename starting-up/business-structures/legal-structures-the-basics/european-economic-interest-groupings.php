@@ -4,6 +4,10 @@
 <head>
 	<title>European Economic Interest Groupings | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail561d.html || /detail?itemId=1087521924&type=RESOURCES -->
+	<meta name="description" lang="en" content="When you might consider registering an European Economic Interest Grouping in the UK" />
+	<meta name="keywords" lang="en" content="Business legal structure; start up; new business; legal structure; business structure; sole trader pros cons; partnership pros cons; limited company pros cons; legal framework for business; social enterprise; franchise; form of business; association; business type; company type; companies act; industrial and provident; community trust; community interest company; co-operative; charity; self-employment; self-employed; Self Assessment; designated member; companies house; Business practice and regulation" />
 </head>
 
 <body>
@@ -54,6 +58,8 @@
 			<h3>Companies House Contact Centre</h3>
 			<p>0303 1234 500</p>
 			
+			<img src="/_img/hr_140px_global.gif" alt="" />
+
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="https://www.gov.uk/government/publications/european-economic-interest-groupings-eeigs" target="_blank" rel="noopener noreferrer">EEIG guidance from Companies House</a></li>
@@ -68,6 +74,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 			
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

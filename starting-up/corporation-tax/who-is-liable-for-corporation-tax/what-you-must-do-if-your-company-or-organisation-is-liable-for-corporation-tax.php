@@ -3,6 +3,10 @@
 <head>
 	<title>What you must do if your company or organisation is liable for Corporation Tax | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail01ca.html || /detail?itemId=1082183519&type=RESOURCES -->
+	<meta name="description" lang="en" content="Find out what you need to do to meet Corporation Tax requirements and how to file a Company Tax Return" />
+	<meta name="keywords" lang="en" content="Corporation Tax; Corporation Tax; active; dormant; Corporation Tax deadlines;  Corporation Tax requirements; exemp; charities; voluntary organisations; Company Tax Return; CT41G; New company details; CT41G; Dormant company insert" />
 </head>
 
 <body>
@@ -72,7 +76,7 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" title="HM Revenue &amp; Customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs
 			</a>
 		</p>
 

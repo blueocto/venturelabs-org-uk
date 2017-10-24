@@ -3,6 +3,10 @@
 <head>
 	<title>Customers and data protection | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila750.html || /detail?itemId=1075087948&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information on the requirements that the Data Protection Act places on your business" />
+	<meta name="keywords" lang="en" content="Selling legally; buying and selling legislation,retail regulation,selling legislation,buying legislation,retail legislation; selling online; late payment; data protection; customer information; distance selling; WEEE; Consumer affairs; Trading Standards; Sales of Goods Act; Supply of Goods and Services Act; data protection; consumer rights; customer rights; refunds; warranties; returns; cancellation rights; supplier; proof of age standards scheme; PASS; discrimination; equality; goods, facilities and services; Consumer affairs" />
 </head>
 
 <body>
@@ -56,7 +60,7 @@
 		<h3>ICO Helpline</h3>
 		<p>0303 123 1113</p>
 		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<img src="/_img/hr_140px_global.gif" alt="" />
 		
 		<h3>Actions</h3>
 		<ul>
@@ -73,14 +77,15 @@
 		<p>
 			Developed with:<br />
 			<a href="http://webarchive.nationalarchives.gov.uk/20130403014324/http://oft.gov.uk/" target="_blank" rel="noopener noreferrer" title="Office of Fair Trading - Opens in a new window">
-				<img src="../../../_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
+				<img src="/_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
 			</a>
 			<br />
 			<a href="https://www.businesscompanion.info/" target="_blank" rel="noopener noreferrer" title="Trading Standards - Opens in a new window">
-				<img src="../../../_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
+				<img src="/_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
 			</a>
 		</p>
 
+		
 		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

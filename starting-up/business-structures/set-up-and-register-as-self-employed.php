@@ -3,6 +3,10 @@
 <head>
 	<title>Set up and register as self-employed | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer4ad0.html || /layer?topicId=1073875654 -->
+	<meta name="description" lang="en" content="How to meet your legal and tax responsibilities" />
+	<meta name="keywords" lang="en" content="Registering as self employed; working for myself; self-employment; sole trader regulations; registering as sole trader; setting up a new business; registering a new business; business name; working from home; income tax self-assessment; business rate; business accounts; record keeping; profit and loss; Business practice and regulation" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Set up and register as self-employed</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/TR0780.gif" width="78" height="118" border="0" alt="" />
+		<img src="/_img/TR0780.gif" width="78" height="118" border="0" alt="" />
 		<p>Setting up as a self-employed sole trader is the simplest and quickest way to start a business. There isn't much paperwork to do. There are no registration fees to pay, but you must register with HM Revenue &amp; Customs for tax and National Insurance purposes. Record keeping and accounting is straightforward, and there are the benefits of being your own boss.</p>
 		<p>This guide explains the consequences of, and the legal requirements for, setting up as a sole trader. You will find out how to meet your tax responsibilities by filling in your Self Assessment tax return each year and paying your tax and National Insurance. Finally, our checklist will help you make sure that you have put your business on a proper legal footing.</p>
 		<ul>
@@ -32,6 +36,8 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checking-your-self-employment-status.php">Checking your self-employment status</a></li>
 			<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checklist-setting-up-as-self-employed.php">Checklist: setting up as self-employed</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

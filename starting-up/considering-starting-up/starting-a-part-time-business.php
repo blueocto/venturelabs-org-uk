@@ -3,6 +3,10 @@
 <head>
 	<title>Starting a part-time business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer5919.html || /layer?topicId=1087061606 -->
+	<meta name="description" lang="en" content="Information on starting a part-time business" />
+	<meta name="keywords" lang="en" content="Part-time business; Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Starting a part-time business</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU2100.jpg" width="78" height="118" border="0" alt="" />
+		<img src="/_img/SU2100.jpg" width="78" height="118" border="0" alt="" />
 		<p>Starting a business, although highly exciting, is a big step to take. Sometimes before you take the plunge into full-time business ownership, it might be better and easier to think about doing it on a part-time basis, as a way of ensuring the business idea will work.</p>
 		<p>If you are employed part-time, or have young children and do not want, or are not in a position, to give up the time necessary to run a full-time business, a part-time business may be a good option for you.</p>
 		<p>This guide looks at the practical issues you will face when you run a part-time business. It also tells you where you can find support and useful sources of further information.</p>
@@ -34,12 +38,15 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/help-and-support-for-part-time-businesses.php">Help and support for part-time businesses</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
 		</ul>
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-	
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

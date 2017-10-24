@@ -3,6 +3,10 @@
 <head>
 	<title>Stock security | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3af6.html || /detail?itemId=1073792782&type=RESOURCES -->
+	<meta name="description" lang="en" content="Set up a security policy, prevent employee theft and ensure you comply with health and safety requirements" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>
@@ -61,6 +65,8 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -68,6 +74,8 @@
 		<p>020 8996 9001</p>
 		<h3>BSIA Helpline</h3>
 		<p>0845 389 3889</p>
+
+		<img src="/_img/hr_140px_global.gif" alt="" />
 
 		<h3>Actions</h3>
 		<ul>
@@ -81,7 +89,9 @@
 			<li><a href="/employment-and-skills/staff-documents-and-employment-policies/monitoring-and-security-of-staff.php">Monitoring and security of staff</a></li>
 		</ul>
 
-	
+		
+
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

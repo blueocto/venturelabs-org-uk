@@ -3,6 +3,10 @@
 <head>
 	<title>How to complete Box 8 and Box 9 | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7775.html || /detail?itemId=1082399461&type=RESOURCES -->
+	<meta name="description" lang="en" content="Completing Box 8 and 9 of your VAT Return - goods supplied to and acquired from other EU countries" />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>
@@ -51,20 +55,22 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
 				HM Revenue &amp; Customs
 			</a>
 		</p>
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://www.hmrc.gov.uk/demo/organisation/register-and-enrol-VAT/" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/https://www.gov.uk/vat-registration" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
 		<ul>
 			<li><a href="/tax-payroll-and-company-information/vat/how-to-sign-up-to-use-vat-online-services.php">How to sign up to use VAT online services</a></li>
 		</ul>
+
+		
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

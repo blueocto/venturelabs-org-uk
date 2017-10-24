@@ -4,6 +4,9 @@
 <head>
 	<title>Extra help and support available for your start up | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerfdbd.html || /layer?topicId=1097203554 -->
+	<meta name="description" lang="en" content="How to find out if you are eligible for extra help and support for your new business" />
 </head>
 
 <body>
@@ -16,7 +19,7 @@
 			
 			<h1>Extra help and support available for your start up</h1>
 			<h2>Introduction</h2>
-			<img src="../../_img/EP0410.gif" width="78" height="118" alt="" />
+			<img src="/_img/EP0410.gif" width="78" height="118" alt="" />
 			<p>If you run a start-up business as an entrepreneur, there may be extra help available for you if you are a woman, over 50, disabled, from a minority ethnic group, a young entrepreneur, or if you are on a low income.</p>
 			<p>Much of this help takes the form of mentoring and networking - but you should also be able to access targeted advice, support and even apply for loans and grants.</p>
 			<p>This guide will explain about sources of funding that might be available to you and where to get help, advice and training.</p>
@@ -52,10 +55,12 @@
 
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
-					<img src="../../_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
+					<img src="/_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
 Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Innovation &amp; Skills</del>
 				</a>
 			</p>
+			
+			
 			
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

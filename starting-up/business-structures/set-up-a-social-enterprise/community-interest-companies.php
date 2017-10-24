@@ -4,6 +4,10 @@
 <head>
 	<title>Community Interest Companies | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail77e2.html || /detail?itemId=1077476109&type=RESOURCES -->
+	<meta name="description" lang="en" content="The rules and procedures you must follow to become a community interest company" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -58,7 +62,7 @@
 				<li><a href="https://www.gov.uk/government/publications/incorporation-and-names#ch7" target="_blank" rel="noopener noreferrer">CIC fees information from Companies House </a></li>
 				<li><a href="https://www.gov.uk/government/collections/cic-regulator-forms" target="_blank" rel="noopener noreferrer">CIC formation guidance from Community Interest Companies</a></li>
 				<li><a href="https://www.gov.uk/government/publications/community-interest-companies-business-activities/cic-business-activities-forms-and-step-by-step-guidelines" target="_blank" rel="noopener noreferrer">CIC registration forms from Community Interest Companies</a></li>
-				<li><a href="../../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
+				<li><a href="/_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
 				<li><a href="https://www.ncvo.org.uk/practical-support/information/governance" target="_blank" rel="noopener noreferrer">Good governance and leadership advice from the National Council for Voluntary Organisations</a></li>
 				<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Use our interactive tool to identify the right finance options for your business</a></li>
 				<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your limited company online with Companies House</a></li>
@@ -73,6 +77,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -4,6 +4,10 @@
 <head>
 	<title>Where to look for a business to buy | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila337.html || /detail?itemId=1074411432&type=RESOURCES -->
+	<meta name="description" lang="en" content="Newspapers, trade journals, adverts, magazines, websites and word of mouth will help you find businesses for sale" />
+	<meta name="keywords" lang="en" content="Buying a business; purchasing a business; takeover; take over; going concern; TUPE; transfer agents; due diligence; redundancy; valuation; valuing a business; business transfer agent;  ICE Regulations;  inform and consult employees; Unfair dismissal; business plan;  business assets; intangible assets; buy an existing business; buy a franchise; buy a going concern; businesses for sale; going into business;" />
 </head>
 
 <body>
@@ -59,6 +63,7 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 			</ul>
 
+			
 
 		</div>
 		<!-- // .small-12 large-8 large-push-4 columns -->

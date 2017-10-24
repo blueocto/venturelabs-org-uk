@@ -3,6 +3,10 @@
 <head>
 	<title>Other sources of income | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaileed1.html || /detail?itemId=1074402049&type=RESOURCES -->
+	<meta name="description" lang="en" content="Find other sources of income during the early days of running your business" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>
@@ -50,10 +54,14 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
+
+		<img src="/_img/hr_140px_global.gif" alt="" />
 
 		<h3>Actions</h3>
 		<ul>
@@ -73,6 +81,8 @@
 			<li><a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php">Factoring and invoice discounting: the basics</a></li>
 			<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a></li>
 		</ul>
+
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

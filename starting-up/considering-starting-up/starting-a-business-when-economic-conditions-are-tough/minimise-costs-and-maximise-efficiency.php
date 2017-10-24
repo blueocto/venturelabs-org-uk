@@ -3,6 +3,10 @@
 <head>
 	<title>Minimise costs and maximise efficiency | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb048.html || /detail?itemId=1081905023&type=RESOURCES -->
+	<meta name="description" lang="en" content="Choosing the right suppliers and lenders for your business can help to minimise expenditure and maximise efficiency" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>
@@ -50,11 +54,13 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business.php">Sources and contacts to help you start a business</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 		
 		<h3>Also on this site</h3>
 		<ul>
@@ -63,6 +69,8 @@
 			<li><a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php">Manage your suppliers</a></li>
 			<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php">How to choose and manage a business bank account</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

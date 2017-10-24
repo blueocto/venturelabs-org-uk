@@ -4,6 +4,10 @@
 <head>
 	<title>Community benefit societies | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailbff6.html || /detail?itemId=1077475850&type=RESOURCES -->
+	<meta name="description" lang="en" content="Operation of community benefit societies, registration costs, asset locks, and applying for charitable status" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -37,11 +41,11 @@
 				</li>
 			</ul>
 			
-			<p>BenComs are not to be confused with another form of IPS - co-operatives. Co-operatives operate for the mutual benefit of their members and may or may not be a social enterprise, depending on their activities and how they distribute their profits. Co-operatives cannot be established as charities. <a href="http://www.fsa.gov.uk/Pages/Doing/small_firms/MSR/Societies/index.shtml" target="_blank" rel="noopener noreferrer">Read information on IPS on the FSA website</a>. BenComs and co-operatives are both regulated by the FSA. <a href="../../../_files/fsa_mutual-societies-application-form.pdf" target="_blank" rel="noopener noreferrer">Download information on BenComs and their registration from the FSA website (PDF, 98K)</a>.</p>
+			<p>BenComs are not to be confused with another form of IPS - co-operatives. Co-operatives operate for the mutual benefit of their members and may or may not be a social enterprise, depending on their activities and how they distribute their profits. Co-operatives cannot be established as charities. <a href="http://www.fsa.gov.uk/Pages/Doing/small_firms/MSR/Societies/index.shtml" target="_blank" rel="noopener noreferrer">Read information on IPS on the FSA website</a>. BenComs and co-operatives are both regulated by the FSA. <a href="/_files/fsa_mutual-societies-application-form.pdf" target="_blank" rel="noopener noreferrer">Download information on BenComs and their registration from the FSA website (PDF, 98K)</a>.</p>
 			
 			<h3>BenCom registration and costs</h3>
 			<p>To register as a BenCom, you must demonstrate your social objectives and your reasons for registering as a society, rather than a company.</p>
-			<p>It can cost between &pound;40 and &pound;950 to register a BenCom with the FSA - payable each year. The fee depends on the BenCom's assets and whether it registers under self-written rules or FSA-approved rules. <a href="../../../_files/fsa_mutual-societies-application-fees.pdf" target="_blank" rel="noopener noreferrer">Download information on application fees from the FSA website (PDF, 23K)</a>.</p>
+			<p>It can cost between &pound;40 and &pound;950 to register a BenCom with the FSA - payable each year. The fee depends on the BenCom's assets and whether it registers under self-written rules or FSA-approved rules. <a href="/_files/fsa_mutual-societies-application-fees.pdf" target="_blank" rel="noopener noreferrer">Download information on application fees from the FSA website (PDF, 23K)</a>.</p>
 			<p>You should seek legal advice, particularly if creating your own rules.</p>
 			
 			<h3>Adopting or opting out of the BenCom structure</h3>
@@ -72,9 +76,9 @@
 
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="../../../_files/fsa_mutual-societies-application-form.pdf" target="_blank" rel="noopener noreferrer">Download information on BenComs and their registration from FSA (PDF, 98K)</a></li>
-				<li><a href="../../../_files/fsa_mutual-societies-application-fees.pdf" target="_blank" rel="noopener noreferrer">Download information on application fees from FSA (PDF, 23K)</a></li>
-				<li><a href="../../../_files/fsa_converting-a-company-into-an-ips.doc" target="_blank" rel="noopener noreferrer">Download guidance and an application form for converting a company into an IPS from FSA (DOC, 1.73MB)</a></li>
+				<li><a href="/_files/fsa_mutual-societies-application-form.pdf" target="_blank" rel="noopener noreferrer">Download information on BenComs and their registration from FSA (PDF, 98K)</a></li>
+				<li><a href="/_files/fsa_mutual-societies-application-fees.pdf" target="_blank" rel="noopener noreferrer">Download information on application fees from FSA (PDF, 23K)</a></li>
+				<li><a href="/_files/fsa_converting-a-company-into-an-ips.doc" target="_blank" rel="noopener noreferrer">Download guidance and an application form for converting a company into an IPS from FSA (DOC, 1.73MB)</a></li>
 				<li><a href="https://www.gov.uk/topic/running-charity" target="_blank" rel="noopener noreferrer">Exempt charities guidance from the Charity Commission</a></li>
 				<li><a href="https://www.the-sse.org/about-school-for-social-entrepreneurs/" target="_blank" rel="noopener noreferrer">Social enterprises information from the Social Enterprise Coalition</a></li>
 				<li><a href="https://www.gov.uk/government/collections/cic-regulator-forms" target="_blank" rel="noopener noreferrer">CIC information from Community Interest Companies</a></li>
@@ -91,6 +95,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

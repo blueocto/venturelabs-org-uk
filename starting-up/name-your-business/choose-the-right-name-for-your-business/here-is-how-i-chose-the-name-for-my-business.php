@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I chose the name for my business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile156.html || /detail?itemId=1075340213&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="This case study explains how and why 'Moonpig' was chosen as a business name" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>
@@ -51,13 +55,15 @@
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/getting-your-business-name-on-the-internet.php">Getting your business name on the internet</a></li>
 			<li>Here's how I chose the name for my business</li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/moonpig.01a.jpg" width="181" height="121" border="0" alt="Nick Jenkins, Moonpig Cards" />
+					<img src="/_img/moonpig.01a.jpg" width="181" height="121" border="0" alt="Nick Jenkins, Moonpig Cards" />
 				</div>
 			</div>
 			<div class="media-object-section">

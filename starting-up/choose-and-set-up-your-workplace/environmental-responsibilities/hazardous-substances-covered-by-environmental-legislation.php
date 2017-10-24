@@ -4,6 +4,10 @@
 <head>
 	<title>Hazardous substances covered by environmental legislation | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3813.html || /detail?itemId=1079437899&type=RESOURCES -->
+	<meta name="description" lang="en" content="Comply with laws on solvents, oils, pesticides, other chemicals and animal by-products" />
+	<meta name="keywords" lang="en" content="Environmental responsibilities; environment; responsibilities; hazard; water; waste; chemicals; oils; animal by-products; solvents; noise; pollution; effluent; danger; work practices; working environment; waste; dangerous substances; environmental obligations;  environmental rules; waste management; statutory nuisance; trade effluent; packaging waste; REACH; RoHS; CHIP; Classification Labelling and Packaging of Substances and Mixtures; CLP Regulations; Globally Harmonised Systems" />
 </head>
 
 <body>
@@ -87,15 +91,17 @@
 				<li><a href="/environment-and-efficiency/the-business-case-for-environmental-improvements/benefits-of-improving-your-environmental-performance.php">Benefits of improving your environmental performance</a></li>
 			</ul>
 
+			
+
 			<p>
 				Developed with:
 				<br />
 				<a href="http://webarchive.nationalarchives.gov.uk/20130822084033/http://defra.gov.uk/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/Defra_black_and_white_sml.jpg" width="84" height="65" alt="" /> Department for Environment Food and Rural Affairs
+					<img src="/_img/Defra_black_and_white_sml.jpg" width="84" height="65" alt="" /> Department for Environment Food and Rural Affairs
 				</a>
 				<br />
 				<a href="https://www.gov.uk/government/organisations/environment-agency" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/environment_agency_2006.gif" width="115" height="31" alt="" /> Environment Agency
+					<img src="/_img/environment_agency_2006.gif" width="115" height="31" alt="" /> Environment Agency
 				</a>
 			</p>
 			

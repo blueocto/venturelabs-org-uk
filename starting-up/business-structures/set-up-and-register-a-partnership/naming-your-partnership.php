@@ -4,6 +4,10 @@
 <head>
 	<title>Naming your partnership | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail4a25.html || /detail?itemId=1073789533&type=RESOURCES -->
+	<meta name="description" lang="en" content="Which names are allowed for ordinary and limited partnerships and those you must avoid" />
+	<meta name="keywords" lang="en" content="Registering a partnership; self employed partner rules; deed of partnership; general partner; sleeping partner; general partnership; limited partnership; setting up a partnership; tax return; national insurance contributions; business name; partnership accounts; alternative dispute resolution; ADR; dispute resolution; Partnership Act 1890; withdrawal of partner; withdrawal of capital; Business practice and regulation" />
 </head>
 
 <body>
@@ -44,6 +48,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

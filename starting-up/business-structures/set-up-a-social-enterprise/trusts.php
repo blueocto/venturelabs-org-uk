@@ -4,6 +4,10 @@
 <head>
 	<title>Trusts | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail985a.html || /detail?itemId=1077475743&type=RESOURCES -->
+	<meta name="description" lang="en" content="Trusts, charitable trusts, the trust deed, asset locks and development trusts" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -55,10 +59,12 @@
 
 			<h3>Development Trust Association</h3>
 			<p>0845 458 8336</p>
-						
+			
+			<img src="/_img/hr_140px_global.gif" alt="" />
+			
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="../../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
+				<li><a href="/_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
 				<li><a href="https://www.gov.uk/topic/running-charity/setting-up" target="_blank" rel="noopener noreferrer">Charity registration guidance from the Charity Commission</a></li>
 				<li><a href="https://www.ncvo.org.uk/practical-support/information/governance" target="_blank" rel="noopener noreferrer">Good governance and leadership advice from the National Council for Voluntary Organisations</a></li>
 				<li><a href="http://locality.org.uk/our-members/federation-of-northumberland-development-trusts/" target="_blank" rel="noopener noreferrer">Development trusts guidance from Development Trusts Association</a></li>

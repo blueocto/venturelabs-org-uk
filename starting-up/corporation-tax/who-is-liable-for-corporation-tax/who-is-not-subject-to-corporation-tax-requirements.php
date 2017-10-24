@@ -3,6 +3,10 @@
 <head>
 	<title>Who is not subject to Corporation Tax requirements? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila901.html || /detail?itemId=1082183090&type=RESOURCES -->
+	<meta name="description" lang="en" content="Find out what limited companies and unincorporated organisations do not have to meet Corporation Tax deadlines and requirements" />
+	<meta name="keywords" lang="en" content="Corporation Tax; Corporation Tax; active; dormant; Corporation Tax deadlines;  Corporation Tax requirements; exemp; charities; voluntary organisations; Company Tax Return; CT41G; New company details; CT41G; Dormant company insert" />
 </head>
 
 <body>
@@ -51,7 +55,7 @@
 	   
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" title="HM Revenue &amp; Customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs
 			</a>
 		</p>
 
@@ -59,6 +63,8 @@
 		<ul>
 			<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get started with Corporation Tax</a></li>
 		</ul>
+
+		
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

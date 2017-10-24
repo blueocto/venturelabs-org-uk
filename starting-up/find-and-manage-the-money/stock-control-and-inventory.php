@@ -3,6 +3,10 @@
 <head>
 	<title>Stock control and inventory | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer5793.html || /layer?topicId=1074039371 -->
+	<meta name="description" lang="en" content="Why stock control is important and the different methods of stock control available to you" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Stock control and inventory</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU0580new.gif" width="78" height="118" border="0" alt="" />
+		<img src="/_img/SU0580new.gif" width="78" height="118" border="0" alt="" />
 		<p>Stock control, otherwise known as <strong>inventory control</strong>, is used to show how much stock you have at any one time, and how you keep track of it.</p>
 		<p>It applies to every item you use to produce a product or service, from raw materials to finished goods. It covers stock at every stage of the production process, from purchase and delivery to using and re-ordering the stock.</p>
 		<p>Efficient stock control allows you to have the right amount of stock in the right place at the right time. It ensures that capital is not tied up unnecessarily, and protects production if problems arise with the supply chain.</p>
@@ -42,6 +46,8 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -49,6 +55,8 @@
 			<li><a href="https://www.bsigroup.com/en-GB/iso-9001-quality-management/" target="_blank" rel="noopener noreferrer">Quality management information on the British Standards Institution website</a></li>
 			<li><a href="https://www.cips.org/en-au/training/training-courses1/inventory-management/" target="_blank" rel="noopener noreferrer">Inventory management course on the Chartered Institute of Purchasing and Supply website</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

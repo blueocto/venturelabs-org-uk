@@ -3,6 +3,10 @@
 <head>
 	<title>Record keeping | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailbb9d.html || /detail?itemId=1083766055&type=RESOURCES -->
+	<meta name="description" lang="en" content="Business records you need to keep for your home-based business" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -30,7 +34,7 @@
 		<p>If you are using part of your home for business then you should keep copies of the utility bills so that you can work out the amount spent in relation to your business.</p>
 		<p>If you have an accountant you might want to get their advice on what system suits your business and on how to keep your records up to date.</p>
 		<p>Keeping records is important as penalties were introduced in April 2009 for not taking reasonable care with records and tax returns.</p>
-		<p>For more information about taking reasonable care and the new penalties, <a href="../../../_files/hmrc_take-care-to-avoid-a-penalty.pdf" target="_blank" rel="noopener noreferrer">download guidance on taking care to avoid tax penalties from the HMRC website (PDF, 265K)</a>.</p>
+		<p>For more information about taking reasonable care and the new penalties, <a href="/_files/hmrc_take-care-to-avoid-a-penalty.pdf" target="_blank" rel="noopener noreferrer">download guidance on taking care to avoid tax penalties from the HMRC website (PDF, 265K)</a>.</p>
 		
 		<ul>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/start-up-costs-and-financing-your-home-based-business.php" title="Start-up costs and financing your home-based business">Prev</a></li>
@@ -49,12 +53,14 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/hmrc_take-care-to-avoid-a-penalty.pdf" target="_blank" rel="noopener noreferrer">Download guidance on avoiding penalties from the HMRC website (PDF, 265K)</a></li>
+			<li><a href="/_files/hmrc_take-care-to-avoid-a-penalty.pdf" target="_blank" rel="noopener noreferrer">Download guidance on avoiding penalties from the HMRC website (PDF, 265K)</a></li>
 			<li><a href="https://www.gov.uk/self-employed-records" target="_blank" rel="noopener noreferrer">Record-keeping information on the HMRC website</a></li>
 			<li><a href="/tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Use our interactive tool to assess what records you should be keeping and how well you are keeping them </a></li>
 		</ul>
@@ -64,6 +70,8 @@
 			<li><a href="/tax-payroll-and-company-information/self-assessment/tax-returns-if-youre-self-employed-or-in-a-partnership/record-keeping-self-employed.php">Record keeping (self-employed)</a></li>
 			<li><a href="/tax-payroll-and-company-information/self-assessment/your-tax-return-the-basics/record-keeping-individuals-and-directors.php">Record keeping (individuals and directors)</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

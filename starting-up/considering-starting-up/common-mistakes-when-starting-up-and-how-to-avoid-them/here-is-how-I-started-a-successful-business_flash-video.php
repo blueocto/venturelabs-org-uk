@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I started a successful business (Flash video) | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile63f.html || /detail?itemId=1087157641&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study video, Will King explains how he started a successful business" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>
@@ -53,12 +57,16 @@
 			<li>Here's how I started a successful business (Flash video)</li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/WillKing.jpg" width="181" height="121" border="0" alt="" />
+					<img src="/_img/WillKing.jpg" width="181" height="121" border="0" alt="" />
 				</div>
 			</div>
 			<div class="media-object-section">
@@ -76,6 +84,8 @@
 		</div>
 
 		<p><a href="findContentBankf4d5.html?bank=CASE_STUDIES"  title=""><b>Find a case study</b></a></p>
+
+		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

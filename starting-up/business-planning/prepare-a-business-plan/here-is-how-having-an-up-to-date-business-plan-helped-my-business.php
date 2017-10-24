@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how having an up-to-date business plan helped my business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail68fa.html || /detail?itemId=1075061418&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="Darren Jones wrote a business plan when he launched his care business - our case study explains how it helped" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
 </head>
 
 <body>
@@ -56,8 +60,12 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/using-the-business-plan-template.php">Using the business plan template</a></li>
 			<li>Here's how having an up-to-date business plan helped my business</li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -81,6 +89,8 @@
 
 		<h4>More case studies</h4>
 		<p><a href="/find-a-case-study.php"><b>Find a case study</b></a></p>
+
+		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

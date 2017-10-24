@@ -3,6 +3,10 @@
 <head>
 	<title>Tax and legal issues for start-ups | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf3be.html || /detail?itemId=1087080074&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on your legal requirements when starting a new business" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>
@@ -43,11 +47,15 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your limited company online with Companies House</a></li>
@@ -59,6 +67,8 @@
 			<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">get to grips with business taxes</a></li>
 			<li><a href="https://www.gov.uk/browse/business/intellectual-property" target="_blank" rel="noopener noreferrer">protect your business and premises</a></li>
 		</ul>
+
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -4,6 +4,10 @@
 <head>
 	<title>A start-up intellectual property checklist | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail139a.html || /detail?itemId=1087061163&type=RESOURCES -->
+	<meta name="description" lang="en" content="What you should consider to ensure you have protected the intellectual property of your new business" />
+	<meta name="keywords" lang="en" content="Intellectual property for start-ups; intellectual property; IP; asset; copyright; design; trademarks; patent; brands; inventions; software; songs; books; poems; paintings; photography; creative work; digital; IP audit; startup IP; new IP; starting up" />
 </head>
 
 <body>
@@ -60,6 +64,8 @@
 					<img src="/_img/IPO_LOGO.gif" width="150" height="26"  alt="" /> Intellectual Property Office
 				</a>
 			</p>
+
+			
 
 
 		</div>

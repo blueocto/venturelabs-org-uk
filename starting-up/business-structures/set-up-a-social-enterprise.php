@@ -3,6 +3,10 @@
 <head>
 	<title>Set up a social enterprise | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer4f93.html || /layer?topicId=1077475650 -->
+	<meta name="description" lang="en" content="The various types of social enterprise and how you can set one up, with links to forms and further information" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Set up a social enterprise</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/TR1270.jpg" width="78" height="118" border="0" alt="" />
+		<img src="/_img/TR1270.jpg" width="78" height="118" border="0" alt="" />
 		<p>A social enterprise is a business with primarily social objectives whose surpluses are principally reinvested for that purpose in the business or in the community, rather than being driven by the need to maximise profit for shareholders and owners.</p>
 		<p>Within this definition, social enterprises can take on a variety of legal forms, including:</p>
 		<p>
@@ -52,6 +56,8 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
@@ -60,10 +66,12 @@
 			<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information from the Social Enterprise Coalition</a></li>
 			<li><a href="http://web.archive.org/web/20130523003450/http://setas.co.uk/" target="_blank" rel="noopener noreferrer">Resources for social enterprises from Social Enterprise Training and Support</a></li>
 			<li><a href="http://investessex.co.uk/" target="_blank" rel="noopener noreferrer">Social enterprises guidance from EssexWorks</a></li>
-			<li><a href="../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
+			<li><a href="/_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
 			<li><a href="http://web.archive.org/web/20111108221856/http://www.sel.org.uk/publications.aspx" target="_blank" rel="noopener noreferrer">Social enterprise resource materials from Social Enterprise London</a></li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/whatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 guidance from the Department for Business, Innovation &amp; Skills</a></li>
 		</ul>
+
+		
 
 
 </div><!-- // .small-12 large-8 large-push-4 columns -->

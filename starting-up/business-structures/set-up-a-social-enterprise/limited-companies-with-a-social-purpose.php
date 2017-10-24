@@ -4,6 +4,10 @@
 <head>
 	<title>Limited companies with a social purpose | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf0a7.html || /detail?itemId=1077475767&type=RESOURCES -->
+	<meta name="description" lang="en" content="Companies limited by shares or guarantee, registration and applying for charitable status" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -64,7 +68,7 @@
 
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="../../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 44K)</a></li>
+				<li><a href="/_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 44K)</a></li>
 				<li><a href="https://www.ncvo.org.uk/practical-support/information/governance" target="_blank" rel="noopener noreferrer">Good governance and leadership advice from the National Council for Voluntary Organisations</a></li>
 				<li><a href="https://www.gov.uk/government/publications/incorporation-and-names" target="_blank" rel="noopener noreferrer">Company formation requirements guidance from Companies House</a></li>
 				<li><a href="https://www.the-sse.org/about-school-for-social-entrepreneurs/" target="_blank" rel="noopener noreferrer">Social enterprises information from the Social Enterprise Coalition</a></li>
@@ -82,6 +86,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 			
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

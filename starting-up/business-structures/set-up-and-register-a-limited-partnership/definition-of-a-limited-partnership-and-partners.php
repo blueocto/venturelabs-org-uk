@@ -4,6 +4,10 @@
 <head>
 	<title>Definition of a limited partnership and partners | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailcd36.html || /detail?itemId=1086166566&type=RESOURCES -->
+	<meta name="description" lang="en" content="What a limited partnership is and the differences between limited and general partners" />
+	<meta name="keywords" lang="en" content="Limited Partnerships; limited partnership; general partners; limited partners; Companies House; Limited Partnership Act 1907; registration form LP5; LP; Companies House Regsitrar; form LP6; dissolution" />
 </head>
 
 <body>
@@ -54,7 +58,7 @@
 			<dl>
 				<dt></dt>
 				<dd>
-					<a href="https://www.gov.uk/government/organisations/companies-house" target="_blank" rel="noopener noreferrer"><img src="../../../_img/ch_logo_new_3.jpg" width="130" height="35" border="0" alt="" />Companies House</a>
+					<a href="https://www.gov.uk/government/organisations/companies-house" target="_blank" rel="noopener noreferrer"><img src="/_img/ch_logo_new_3.jpg" width="130" height="35" border="0" alt="" />Companies House</a>
 				</dd>
 			</dl>
 
@@ -68,6 +72,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

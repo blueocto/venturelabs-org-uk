@@ -4,6 +4,10 @@
 <head>
 	<title>The benefits of business mentoring | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer220e.html || /layer?topicId=1084720139 -->
+	<meta name="description" lang="en" content="How a business mentor can offer you guidance and support to help your business succeed, and how to become a mentor" />
+	<meta name="keywords" lang="en" content="Business mentoring benefits; mentoring; business mentoring; benefits of business mentoring; online mentoring; online business networking; peer mentoring; online networking; networking; Shell LiveWIRE; Enterprise Nation; horsesmouth; Freelance Advisor; Solutions for Business; coaching; business mentor; becoming a business mentor; business advice; business support; mentorsme; national mentoring network; financial mentors" />
 </head>
 
 <body>
@@ -16,7 +20,7 @@
 			
 			<h1>The benefits of business mentoring</h1>
 			<h2>Introduction</h2>
-			<img src="../../_img/The_benefits_of_business_mentoring_SU0250.gif" width="94" height="62" alt="" />
+			<img src="/_img/The_benefits_of_business_mentoring_SU0250.gif" width="94" height="62" alt="" />
 			<p>Building a relationship with a mentor can have a positive effect on your business, whether you are just starting up or are already established. A mentor can help you develop important business skills, support you in making important decisions and put you in touch with useful business contacts.</p>
 			<p>If you already have plenty of experience in running a business you could think about becoming a mentor. This can be a rewarding way of sharing your knowledge and experience with others.</p>
 			<p>You can use the national mentoring network - Mentorsme.co.uk - to find business mentors or offer your services to other businesses. Many of the leading mentoring organisations are making their mentors available through this government-backed service.</p>
@@ -49,10 +53,12 @@
 
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
-					<img src="../../_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
+					<img src="/_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
 Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Innovation &amp; Skills</del>
 				</a>
 			</p>
+
+			
 
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

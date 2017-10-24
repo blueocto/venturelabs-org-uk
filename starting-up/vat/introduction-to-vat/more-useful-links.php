@@ -3,6 +3,10 @@
 <head>
 	<title>More Useful Links | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb697.html || /detail?itemId=1082374303&type=RESOURCE -->
+	<meta name="description" lang="en" content="Links to further advice and guidance on VAT" />
+	<meta name="keywords" lang="en" content="Introduction to VAT; VAT; vat rates; VAT Group; VAT exemption; exempt from VAT; outside the scope of VAT; input tax; output tax; registration; goods; services; import; export; HMRC; taxable person; standard rate; standard-rated; reduced rate; reduced-rated; zero rate; zero-rated; taxable supplies; taxable turnover; exempt; corporate body; exempt supplies; supply of goods; tax liability; tax point; transfer of a going concern; unincorporated body;" />
 </head>
 
 <body>
@@ -16,7 +20,7 @@
 
 		<h1>Introduction to VAT</h1>
 		<h2>More Useful Links</h2>
-		<p><a href="../../../_files/hmrc_vat-fs1-what-you-need-to-know-about-vat.pdf" title="Find factsheet TH FS4 'VAT - what you need to know' from the HMRC website" target="_blank" rel="noopener noreferrer">Find factsheet TH FS4 'VAT - what you need to know' on the HM Revenue &amp; Customs (HMRC) website</a></p>
+		<p><a href="/_files/hmrc_vat-fs1-what-you-need-to-know-about-vat.pdf" title="Find factsheet TH FS4 'VAT - what you need to know' from the HMRC website" target="_blank" rel="noopener noreferrer">Find factsheet TH FS4 'VAT - what you need to know' on the HM Revenue &amp; Customs (HMRC) website</a></p>
 		<p><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/when-transactions-take-place-for-vat-purposes.php">When transactions take place for VAT purposes</a></p>
 		<p><a href="#" title="The basics of VAT, when you must charge VAT and when you can reclaim it">Use our interactive e-learning tool to find out more about getting the grips with VAT and your business</a></p>
 		
@@ -42,20 +46,22 @@
 
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
+				<img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" /> 
 				HM Revenue &amp; Customs
 			</a>
 		</p>
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/hmrc_vat-fs1-what-you-need-to-know-about-vat.pdf" title="Find factsheet TH FS4 'VAT - what you need to know' from the HMRC website" target="_blank" rel="noopener noreferrer">TH FS4 'VAT - what you need to know' from HMRC</a></li>
+			<li><a href="/_files/hmrc_vat-fs1-what-you-need-to-know-about-vat.pdf" title="Find factsheet TH FS4 'VAT - what you need to know' from the HMRC website" target="_blank" rel="noopener noreferrer">TH FS4 'VAT - what you need to know' from HMRC</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
 		<ul>
 			<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/when-transactions-take-place-for-vat-purposes.php">When transactions take place for VAT purposes</a></li>
 		</ul>
+
+		
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

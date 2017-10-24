@@ -3,6 +3,10 @@
 <head>
 	<title>Displaying and disclosing your business, company or limited liability partnership name | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3a6c.html || /detail?itemId=1073788946&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information you must disclose about your business name and registration details" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>
@@ -78,6 +82,7 @@
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/getting-your-business-name-on-the-internet.php">Getting your business name on the internet</a></li>
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
 		</ul>
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -85,6 +90,8 @@
 		<p>0303 1234 500</p>
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
+
+		<img src="/_img/hr_140px_global.gif" alt="" />
 		
 		<h3>Actions</h3>
 		<ul>
@@ -97,6 +104,8 @@
 			<li><a href="/it-and-ecommerce/e-commerce/e-commerce-and-the-law.php">E-commerce and the law</a></li>
 			<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -4,6 +4,10 @@
 <head>
 	<title>Buying a franchise | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3c15.html || /detail?itemId=1073789614&type=RESOURCES -->
+	<meta name="description" lang="en" content="What you need to consider before starting your new business as a franchise" />
+	<meta name="keywords" lang="en" content="Business legal structure; start up; new business; legal structure; business structure; sole trader pros cons; partnership pros cons; limited company pros cons; legal framework for business; social enterprise; franchise; form of business; association; business type; company type; companies act; industrial and provident; community trust; community interest company; co-operative; charity; self-employment; self-employed; Self Assessment; designated member; companies house; Business practice and regulation" />
 </head>
 
 <body>
@@ -48,7 +52,9 @@
 
 			<h3>BFA Enquiry Line</h3>
 			<p>01235 820 470</p>
-						
+			
+			<img src="/_img/hr_140px_global.gif" alt="" />
+			
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="http://www.thebfa.org/" target="_blank" rel="noopener noreferrer">Franchising information from the British Franchise Association</a></li>
@@ -66,6 +72,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 			
 
 		</div>

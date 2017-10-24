@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how being a social enterprise works for our business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail56b5.html || /detail?itemId=1079875272&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study Tim Woolliscroft explains how being a social enterprise has benefited the Swamp Circus" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>
@@ -55,13 +59,17 @@
 			<li>Here's how being a social enterprise works for our business</li>
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/socialenterpriseCS.jpg" width="181" height="121" border="0" alt="Tim Woolliscroft, Swamp Circus Trust" />
+					<img src="/_img/socialenterpriseCS.jpg" width="181" height="121" border="0" alt="Tim Woolliscroft, Swamp Circus Trust" />
 				</div>
 			</div>
 			<div class="media-object-section">
@@ -79,6 +87,8 @@
 		</div>
 
 		<p><strong><a href="/find-a-case-study.php" title="">Find a case study</a></strong></p>
+
+		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

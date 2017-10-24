@@ -3,6 +3,10 @@
 <head>
 	<title>Benefits of an effective IT supplier relationship | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile2d6.html || /detail?itemId=1073792231&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to build a successful relationship with your IT supplier and the benefits it can deliver" />
+	<meta name="keywords" lang="en" content="Choosing an IT supplier; ICT; information technology; finding internet expertise; applications technology support; bespoke software; customised software; best available technology; ISP; Internet service provider; ASP; application service provider; outsource; broadband; dial-up; system maintenance; IT support; computer support; service level agreement; SLA; cloud computing; Information technology" />
 </head>
 
 <body>
@@ -68,11 +72,13 @@
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163008/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101793&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Create your first website</a></li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163009/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Get started with e-commerce</a></li>
 		</ul>
+
+		
 		
 		<p>
 			Developed with:<br />
 			<a href="https://www.nb2bc.co.uk/" title="The National B2B Centre - Opens in a new window" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
+				<img src="/_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
 			</a>
 		</p>
 

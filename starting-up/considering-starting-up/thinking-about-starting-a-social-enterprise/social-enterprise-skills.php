@@ -3,6 +3,10 @@
 <head>
 	<title>Social enterprise skills | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaild2c5.html || /detail?itemId=1087385845&type=RESOURCES -->
+	<meta name="description" lang="en" content="The qualities and skills you will need to run a successful social enterprise" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>
@@ -49,12 +53,16 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78927/building-stronger-civil-society.pdf" target="_blank" rel="noopener noreferrer">Download 'Big Society' strategy information from the Cabinet Office website (PDF, 182K)</a></li>
@@ -69,7 +77,9 @@
 			<li><a href="https://www.gov.uk/set-up-business" title="Case studies and tutorials to help you understand the legal dos and don'ts of naming your business" target="_blank" rel="noopener noreferrer">Name your business</a></li>
 		</ul>
 
-	
+		
+
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

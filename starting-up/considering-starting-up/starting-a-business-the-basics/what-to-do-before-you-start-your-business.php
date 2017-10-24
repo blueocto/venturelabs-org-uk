@@ -3,6 +3,10 @@
 <head>
 	<title>What to do before you start your business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailfe6a.html || /detail?itemId=1087079223&type=RESOURCES -->
+	<meta name="description" lang="en" content="Where to find guidance on starting a business" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>
@@ -43,10 +47,12 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 
 		<h3>Also on this site</h3>
 		<ul>
@@ -55,7 +61,6 @@
 			<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">think about the money</a></li>
 			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">understand the different business types</a></li>
 		</ul>
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

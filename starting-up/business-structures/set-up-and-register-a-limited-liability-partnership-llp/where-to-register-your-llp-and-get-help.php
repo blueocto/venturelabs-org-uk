@@ -4,6 +4,10 @@
 <head>
 	<title>Where to register your LLP and get help | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail914d.html || /detail?itemId=1073789604&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to register your limited liability partnership, how much it costs and what professional advice you might need" />
+	<meta name="keywords" lang="en" content="Limited liability partnership registration; two or more people; limited liability partnership; companies house partnership; llp; partnership agreement; incorporation; social enterprise; designated members; deed of partnership; partnership tax; llp2; business names; llp1; llp3; llp4; Business practice and regulation" />
 </head>
 
 <body>
@@ -83,6 +87,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -4,6 +4,10 @@
 <head>
 	<title>The business benefits of good environmental and sustainable practices | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8573.html || /detail?itemId=1079437613&type=RESOURCES -->
+	<meta name="description" lang="en" content="How doing more than just complying with environmental legislation can boost your business" />
+	<meta name="keywords" lang="en" content="Environmental responsibilities;  environment; responsibilities; hazard; water; waste; chemicals; oils; animal by-products; solvents; noise; pollution; effluent; danger; work practices; working environment; waste; dangerous substances; environmental obligations;  environmental rules; waste management; statutory nuisance; trade effluent; packaging waste; REACH; RoHS; CHIP; Classification Labelling and Packaging of Substances and Mixtures; CLP Regulations; Globally Harmonised Systems" />
 </head>
 
 <body>
@@ -76,15 +80,17 @@
 				<li><a href="/your-business-sector/farming/farm-business-planning/business-innovation-for-agriculture.php">Business innovation for agriculture</a></li>
 			</ul>
 
+			
+
 			<p>
 				Developed with:
 				<br />
 				<a href="http://webarchive.nationalarchives.gov.uk/20130822084033/http://defra.gov.uk/" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/Defra_black_and_white_sml.jpg" width="84" height="65" alt="" /> Department for Environment Food and Rural Affairs
+					<img src="/_img/Defra_black_and_white_sml.jpg" width="84" height="65" alt="" /> Department for Environment Food and Rural Affairs
 				</a>
 				<br />
 				<a href="https://www.gov.uk/government/organisations/environment-agency" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/environment_agency_2006.gif" width="115" height="31" alt="" /> Environment Agency
+					<img src="/_img/environment_agency_2006.gif" width="115" height="31" alt="" /> Environment Agency
 				</a>
 			</p>
 		</div>

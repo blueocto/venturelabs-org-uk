@@ -3,6 +3,10 @@
 <head>
 	<title>Prepare a business plan | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer5019.html || /layer?topicId=1073869162 -->
+	<meta name="description" lang="en" content="The essential role that creating and using a business plan plays in starting a successful new business" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a business plan; prepare a business plan; business; Business practice and regulation; Small businesses" />
 </head>
 
 <body>
@@ -44,11 +48,15 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.horsesmouth.co.uk/publisha.content/spotlight/taxonomy.publisha" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
@@ -56,7 +64,9 @@
 			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 
-	
+		
+
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

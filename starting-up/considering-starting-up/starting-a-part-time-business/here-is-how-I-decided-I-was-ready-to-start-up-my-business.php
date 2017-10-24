@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I decided I was ready to start up my business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail4c57.html || /detail?itemId=1075407433&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="This case study explains how the Ales By Mail business was developed and how it got off the ground" />
+	<meta name="keywords" lang="en" content="Part-time business;  Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>
@@ -49,12 +53,16 @@
 			<li>Here's how I decided I was ready to start up my business</li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/PaulKruzycki.jpg" width="181" height="121" border="0" alt="Paul Kruzycki, Ales By Mail Ltd" />
+					<img src="/_img/PaulKruzycki.jpg" width="181" height="121" border="0" alt="Paul Kruzycki, Ales By Mail Ltd" />
 				</div>
 			</div>
 			<div class="media-object-section">
@@ -81,6 +89,9 @@
 		<p><a href="/find-a-case-study.php"><b>Find a case study</b></a></p>
 
 		
+
+
+
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>

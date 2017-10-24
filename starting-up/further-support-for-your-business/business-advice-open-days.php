@@ -4,6 +4,10 @@
 <head>
 	<title>Business Advice Open Days | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer3c95.html || /layer?topicId=1081810647 -->
+	<meta name="description" lang="en" content="The advice and benefits of Business Advice Open Days, and how you can attend" />
+	<meta name="keywords" lang="en" content="Business Advice Open Days; Business advice open day; business advice; open day programme; HMRC open day; start up advice; attending open days; starting your own business; business liaison team; tax advice; employment advice; upcoming events; business support roadshow; open day organisations; booking an open day; business seminar; business advice feedback; help for businesses; Tax help; new to business; " />
 </head>
 
 <body>
@@ -16,7 +20,7 @@
 
 			<h1>Business Advice Open Days</h1>
 			<h2>Introduction</h2>
-			<img src="../../_img/advice.gif" width="94" height="62" alt="" />
+			<img src="/_img/advice.gif" width="94" height="62" alt="" />
 			<p>If you are thinking of starting a new business or want to expand an existing business, you can get valuable help at a Business Advice Open Day. They offer face-to-face advice and information on taxes, business ideas, accounts and employing staff from start-up, through growth and expansion, to dealing with difficult times.</p>
 			<p>Help is available on understanding and complying with the relevant legislation, as well as enhancing your business through funding, marketing and new technology.</p>
 			<p>This guide gives business owners, and those starting up a new business, more information on how a Business Advice Open Day could help you.</p>
@@ -46,9 +50,11 @@
 
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-					<img src="../../_img/HMRC_logo.gif" width="134" height="35"  alt="" /> HM Revenue &amp; Customs
+					<img src="/_img/HMRC_logo.gif" width="134" height="35"  alt="" /> HM Revenue &amp; Customs
 				</a>
 			</p>
+			
+			
 
 		
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

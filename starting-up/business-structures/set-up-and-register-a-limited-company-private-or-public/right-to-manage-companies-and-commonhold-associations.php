@@ -4,6 +4,10 @@
 <head>
 	<title>Right to manage companies and commonhold associations | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail9693.html || /detail?itemId=1085065543&type=RESOURCES -->
+	<meta name="description" lang="en" content="Rules for incorporating companies which manage properties" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>
@@ -19,11 +23,11 @@
 			<p>RTM companies were introduced under the Commonhold and Leasehold Reform Act 2002. This means that leaseholders can transfer the landlord's management functions relating to, for example, repairs and maintenance, to an RTM company registered by them.</p>
 			<p>The company must be limited by guarantee and its memorandum and articles must comply with the RTM Companies (Model Articles) (England) Regulations 2009.</p>
 			<p>To incorporate an RTM you need to complete application form IN01 to register a company. You can <a href="https://www.gov.uk/government/publications/register-a-private-or-public-company-in01" target="_blank" rel="noopener noreferrer">download form IN01 from the Companies House website (PDF, 1.03MB)</a>.</p>
-			<p>You may choose any name available so long as it ends with 'RTM Company Limited' or the Welsh equivalent, and it complies with rules on company names. You can <a href="../../../_files/clg_right-to-manage-rtm-companies-under-the-commonhold-and-leasehold-reform-act-2002.pdf" target="_blank" rel="noopener noreferrer">download RTM companies information from the Communities and Local Government website (PDF, 81K)</a>.</p>
+			<p>You may choose any name available so long as it ends with 'RTM Company Limited' or the Welsh equivalent, and it complies with rules on company names. You can <a href="/_files/clg_right-to-manage-rtm-companies-under-the-commonhold-and-leasehold-reform-act-2002.pdf" target="_blank" rel="noopener noreferrer">download RTM companies information from the Communities and Local Government website (PDF, 81K)</a>.</p>
 			<p>RTM companies do not exist in Scotland or Northern Ireland.</p>
 			
 			<h3>Commonhold associations</h3>
-			<p>Commonhold associations were introduced under the Commonhold and Leasehold Reform Act 2002. Commonhold is a form of land ownership available in England and Wales. The company must be limited by guarantee and its memorandum and articles must comply with the Commonhold (Amendment) Regulations 2009. You can <a href="../../../_files/dca_commonhold-non-statutory-guidance-on-the-commonhold-regulations-2004.pdf" target="_blank" rel="noopener noreferrer">download Commonhold Regulations information from the Department for Constitutional Affairs (DCA) website (PDF, 214K)</a>.</p>
+			<p>Commonhold associations were introduced under the Commonhold and Leasehold Reform Act 2002. Commonhold is a form of land ownership available in England and Wales. The company must be limited by guarantee and its memorandum and articles must comply with the Commonhold (Amendment) Regulations 2009. You can <a href="/_files/dca_commonhold-non-statutory-guidance-on-the-commonhold-regulations-2004.pdf" target="_blank" rel="noopener noreferrer">download Commonhold Regulations information from the Department for Constitutional Affairs (DCA) website (PDF, 214K)</a>.</p>
 			<p>Commonhold associations:</p>
 			<ul>
 				<li>are an alternative to long leasehold ownership of flats and other interdependent properties</li>
@@ -55,9 +59,9 @@
 
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="../../../_files/clg_right-to-manage-rtm-companies-under-the-commonhold-and-leasehold-reform-act-2002.pdf"target="_blank" rel="noopener noreferrer">Download RTM companies information from the Communities and Local Government website (PDF, 81K)</a></li>
+				<li><a href="/_files/clg_right-to-manage-rtm-companies-under-the-commonhold-and-leasehold-reform-act-2002.pdf"target="_blank" rel="noopener noreferrer">Download RTM companies information from the Communities and Local Government website (PDF, 81K)</a></li>
 				<li><a href="https://www.gov.uk/government/publications/register-a-private-or-public-company-in01" target="_blank" rel="noopener noreferrer">Download form IN01 from Companies House (PDF, 1.03MB)</a></li>
-				<li><a href="../../../_files/dca_commonhold-non-statutory- guidance-on-the-commonhold-regulations-2004.pdf"target="_blank" rel="noopener noreferrer">Download commonhold association incorporation advice from the DCA (PDF, 214K)</a></li>
+				<li><a href="/_files/dca_commonhold-non-statutory- guidance-on-the-commonhold-regulations-2004.pdf"target="_blank" rel="noopener noreferrer">Download commonhold association incorporation advice from the DCA (PDF, 214K)</a></li>
 			</ul>
 						
 			<h3>Also on this site</h3>
@@ -67,6 +71,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

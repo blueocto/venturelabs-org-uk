@@ -3,6 +3,10 @@
 <head>
 	<title>Open source and proprietary software | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail2575.html || /detail?itemId=1073791277&type=RESOURCES -->
+	<meta name="description" lang="en" content="The implications of using open source and proprietary software in your business" />
+	<meta name="keywords" lang="en" content="Computer software; software buying; choosing software; upgrade software; bespoke software; system software; application software; operating system; microsoft windows; packaged software; download software; off the shelf; open source; proprietary software; software licence; shrink wrap; per user; site licence; cloud computing; software piracy; pirate software; software copyright; install software; software installation; activate software; software activation; upgrade software; software support; software help; information technology; it support; Information technology" />
 </head>
 
 <body>
@@ -84,9 +88,11 @@
 		<p>
 			Developed with:<br />
 			<a href="https://www.nb2bc.co.uk/" title="The National B2B Centre - Opens in a new window" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
+				<img src="/_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
 			</a>
 		</p>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

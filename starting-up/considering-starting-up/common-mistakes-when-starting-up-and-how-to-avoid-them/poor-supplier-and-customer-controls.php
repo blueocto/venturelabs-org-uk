@@ -3,6 +3,10 @@
 <head>
 	<title>Poor supplier and customer controls | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb226.html || /detail?itemId=1075219940&type=RESOURCES -->
+	<meta name="description" lang="en" content="Avoid cashflow problems related to starting up such as poor supplier contracts or customer credit arrangements" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>
@@ -53,10 +57,12 @@
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/here-is-how-I-started-a-successful-business_flash-video.php">Here's how I started a successful business (Flash video)</a></li>
 		</ul>
 
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
+		<!-- <p>0845 600 9 006</p> -->
 
 		<h3>Also on this site</h3>
 		<ul>
@@ -64,6 +70,8 @@
 			<li><a href="/grow-your-business/growth-through-strategic-sourcing/negotiate-the-right-deal-with-suppliers.php">Negotiate the right deal with suppliers</a></li>
 			<li><a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">Ensuring customers pay you on time</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I started a business during an economic downturn (Flash video) | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailca3d.html || /detail?itemId=1081930005&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study Siggi Hesbacher talks about how he started a business during an economic downturn" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>
@@ -51,10 +55,10 @@
 
 		<ul>
 			<li>
-				<a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.gov.uk/bdotg/action/openpopup?itemId=1081930044&amp;type=ONEOFFPAGE" target="_blank" rel="noopener noreferrer">Read transcript</a>
+				<a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/openpopup?itemId=1081930044&amp;type=ONEOFFPAGE" target="_blank" rel="noopener noreferrer">Read transcript</a>
 			</li>
 			<li>
-				<a title="Play the audio only version of this video" href="../../../_files/start_up_in_economic_downturn.mp3" target="_blank" rel="noopener noreferrer">Listen to audio only (MP3, 9MB)</a>
+				<a title="Play the audio only version of this video" href="/_files/start_up_in_economic_downturn.mp3" target="_blank" rel="noopener noreferrer">Listen to audio only (MP3, 9MB)</a>
 			</li>
 			<li>
 				<a href="/video-and-e-learning-help.php">Help</a>
@@ -77,12 +81,16 @@
 			<li>Here's how I started a business during an economic downturn (Flash video)</li>
 		</ul>
 		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/siggi.jpg" width="181" height="121" border="0" alt="" />
+					<img src="/_img/siggi.jpg" width="181" height="121" border="0" alt="" />
 				</div>
 			</div>
 			<div class="media-object-section">
@@ -100,6 +108,8 @@
 		</div>
 		
 		<p><strong><a href="/find-a-case-study.php" title="">Find a case study</a></strong></p>
+
+		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

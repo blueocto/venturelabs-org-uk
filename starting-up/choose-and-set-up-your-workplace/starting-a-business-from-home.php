@@ -3,6 +3,10 @@
 <head>
 	<title>Starting a business from home | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer04ff.html || /layer?topicId=1083764940 -->
+	<meta name="description" lang="en" content="Decide whether starting a business from home is right for you" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>
@@ -17,7 +21,7 @@
 
 		<h1>Starting a business from home </h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU0743.gif" width="94" height="62" border="0" alt="" />
+		<img src="/_img/SU0743.gif" width="94" height="62" border="0" alt="" />
 		<p>If you are thinking of starting your own business you should consider the possibility of working from home.</p>
 		<p>Home-based businesses are a popular option for many types of smaller business. Generally the costs will be lower, you can avoid travel expenses and you have the freedom and flexibility to work the hours you choose in an environment that you create yourself.</p>
 		<p>Advances in technology mean that many kinds of business can be run from a home base.</p>
@@ -39,6 +43,8 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

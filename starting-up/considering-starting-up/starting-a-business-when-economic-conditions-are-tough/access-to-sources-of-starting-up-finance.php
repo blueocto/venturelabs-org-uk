@@ -3,6 +3,10 @@
 <head>
 	<title>Access to sources of starting-up finance | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6794.html || /detail?itemId=1081904044&type=RESOURCES -->
+	<meta name="description" lang="en" content="Finding funding for starting your business" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>
@@ -60,15 +64,19 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business.php">Sources and contacts to help you start a business</a></li>
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
-				
+		
+		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
-		<!-- <p>0845 000 0000</p> -->
-				
+		<!-- <p>0845 600 9 006</p> -->
+		
+		<img src="/_img/hr_140px_global.gif" alt="" />
+		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Enterprise Finance Guarantee information on the BIS website </a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120419053132/http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Enterprise Finance Guarantee information on the BIS website </a></li>
 			<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Use our interactive tool to identify the right finance options for your business</a></li>
 		</ul>
 		
@@ -84,6 +92,8 @@
 			<li><a href="/finance-and-grants/finance-options/grants-and-government-support/grants-the-basics.php">Grants: the basics</a></li>
 			<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a></li>
 		</ul>
+
+		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

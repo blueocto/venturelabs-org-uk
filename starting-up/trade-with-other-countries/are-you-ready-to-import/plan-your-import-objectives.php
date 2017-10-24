@@ -57,6 +57,8 @@
 			<li><a href="/international-trade/importing-and-exporting-basics/managing-risks-of-importing-and-exporting/manage-the-risks-of-importing.php">Manage the risks of importing</a></li>
 			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/entering-overseas-markets.php">Entering overseas markets</a></li>
 		</ul>
+
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

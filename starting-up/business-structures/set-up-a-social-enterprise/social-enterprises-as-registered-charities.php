@@ -4,6 +4,10 @@
 <head>
 	<title>Social enterprises as registered charities | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail29bf.html || /detail?itemId=1077475873&type=RESOURCES -->
+	<meta name="description" lang="en" content="Charitable purposes, features of charities, governing documents and registration" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>
@@ -34,7 +38,7 @@
 			
 			<ul>
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php" title="Community benefit societies">Prev</a></li>
-				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-interest-companies.php" title="Community Interest Companies">Next</a></li>
+				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php" title="Community Interest Companies">Next</a></li>
 			</ul>
 			
 			<h3>Subjects covered in this guide</h3>
@@ -45,7 +49,7 @@
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/limited-companies-with-a-social-purpose.php">Limited companies with a social purpose</a></li>
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php">Community benefit societies</a></li>
 				<li>Social enterprises as registered charities</li>
-				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-interest-companies.php">Community Interest Companies</a></li>
+				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Community Interest Companies</a></li>
 				<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/charitable-incorporated-organisations.php">Charitable incorporated organisations</a></li>
 				<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			</ul>
@@ -54,7 +58,9 @@
 
 			<h3>Charity Commission Contact Centre General Enquiry Line</h3>
 			<p>0845 3000 218</p>
-						
+			
+			<img src="/_img/hr_140px_global.gif" alt="" />
+			
 			<h3>Actions</h3>
 			<ul>
 				<li><a href="https://www.gov.uk/topic/running-charity/setting-up" target="_blank" rel="noopener noreferrer">Charity registration documents from the Charity Commission</a></li>
@@ -73,6 +79,8 @@
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Name your business </a></li>
 			</ul>
+
+			
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

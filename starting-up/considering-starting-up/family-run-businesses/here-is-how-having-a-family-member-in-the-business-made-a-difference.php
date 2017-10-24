@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how having a family member in the business made a difference | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail30a1.html || /detail?itemId=1075070236&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="Vicky Trumper is the fifth generation to join the family business - our case study explains the benefits" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>
@@ -49,13 +53,17 @@
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/succession-planning-in-family-businesses.php">Succession planning in family businesses</a></li>
 			<li>Here's how having a family member in the business made a difference</li>
 		</ul>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
+
+		<img src="/_img/hr_325px_global.gif" alt="" />
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
-					<img src="../../../_img/CS0039.jpg" width="181" height="121" border="0" alt="Peter Henman/Vicki Trumper, Neville Funeral Services" />
+					<img src="/_img/CS0039.jpg" width="181" height="121" border="0" alt="Peter Henman/Vicki Trumper, Neville Funeral Services" />
 				</div>
 			</div>
 			<div class="media-object-section">
@@ -80,6 +88,8 @@
 		</ul>
 		
 		<p><strong><a href="/find-a-case-study.php">Find a case study</a></strong></p>
+
+		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
