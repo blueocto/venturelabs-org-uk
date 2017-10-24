@@ -28,7 +28,7 @@
 		</ul>
 		<p>For further information, see our guides on <a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">market research and market reports</a> and how to <a href="/sales-and-marketing/marketing/understand-your-competitors.php">understand your competitors</a>.</p>
 		<p>It is important to know your competitors' strengths and weaknesses as compared to your own - and it is good practice to do a competitor analysis of each one. Remember that the market is not static - your customers' needs and your competitors can change. So, as well as showing the competitor analyses you have undertaken, you should also demonstrate that you have considered and drawn up contingency plans to cover alternative scenarios.</p>
-		<p><a href="../../../_files/how-to-get-to-grips-with-your-competitors.pdf" target="_blank" rel="noopener noreferrer">Download a guide on getting to grips with your competitors from the Chartered Institute of Marketing website (PDF, 159K)</a>.</p>
+		<p><a href="/_files/how-to-get-to-grips-with-your-competitors.pdf" target="_blank" rel="noopener noreferrer">Download a guide on getting to grips with your competitors from the Chartered Institute of Marketing website (PDF, 159K)</a>.</p>
 		
 		<ul>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/your-business-its-products-and-services.php" title="Your business, its products and services">Prev</a></li>
@@ -59,9 +59,9 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/how-to-get-to-grips-with-your-competitors.pdf" target="_blank" rel="noopener noreferrer">Download competitor information gathering advice from the Chartered Institute of Marketing website (PDF, 159K)</a></li>
-			<li><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
-			<li><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
+			<li><a href="/_files/how-to-get-to-grips-with-your-competitors.pdf" target="_blank" rel="noopener noreferrer">Download competitor information gathering advice from the Chartered Institute of Marketing website (PDF, 159K)</a></li>
+			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
+			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
