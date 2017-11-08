@@ -24,7 +24,7 @@
 		<img src="/_img/SU1000.gif" width="78" height="118" border="0" alt="" />
 		<p>It can be a number of months before a new business is profitable and generating a cash surplus. You may need alternative sources of income during this period, if only to cover your outgoings. If your business does make a profit, you may want to re-invest it to help your business develop.</p>
 		<p>This guide gives advice on how to keep your business afloat in the early days. It will help you work out your profits and financial needs, reduce your spending, re-invest your money and find further funds.</p>
-		<p>Careful planning and the right advice can make this transitional phase much easier to manage. A Venture Labs adviser or a financial adviser can help you address these issues further.</p>
+		<p>Careful planning and the right advice can make this transitional phase much easier to manage. A <!-- Venture Labs adviser or a --> financial adviser can help you address these issues further.</p>
 		<div>
 			<ul>
 				<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/forecast-your-personal-financial-needs.php" title="Forecast your personal financial needs">Next</a></li>

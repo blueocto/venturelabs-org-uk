@@ -11,7 +11,7 @@
 						<li><a href="https://www.gov.uk/help/privacy-policy" target="_blank">Privacy Policy</a></li>
 						<li><a href="https://www.gov.uk/help/accessibility" target="_blank">Accessibility</a></li>
 						<li><a href="https://www.gov.uk/help/cookies" target="_blank">Cookies</a></li>
-						<li><a href="/about-business-link.php">About us</a></li>
+						<li><a href="/about-venture-labs.php">About us</a></li>
 					</ul>
 
 					<ul class="menu">
