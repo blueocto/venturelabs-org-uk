@@ -20,7 +20,7 @@
 		<p>To get an idea of how GOV.UK will work, you can use and give feedback on a trial, or 'beta', version of the website now at <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">www.gov.uk</a>.</p>
 		<p>Most people will not need to take any action &ndash; if you have bookmarked pages these will redirect automatically to an appropriate page on GOV.UK. If you are a registered user of businesslink.gov.uk, or use certain services such as Contracts Finder, you will receive information by email about the action you need to take.</p>
 		<p>If you have questions about GOV.UK please refer to <a href="http://www.direct.gov.uk/businesslink-faq" title="About GOV.UK" target="_blank" rel="noopener noreferrer">www.direct.gov.uk/businesslink-faq</a> </p>
-		<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
+		<p></p>
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

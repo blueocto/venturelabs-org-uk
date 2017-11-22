@@ -23,7 +23,7 @@
 		<p>The campaign will also highlight top tools available from BusinessLink, StartUp Britain and a wide range of partners.</p>
 		<p>'Business in You' runs nationwide for the duration of the Olympic year 2012 which is a unique moment for the UK on the global stage. Each month will focus on a different theme will spotlight key business support products.</p>
 		<p><a href="#">Go to Business in You to find out about more about the campaign, read the case studies, or register for email alerts about the campaign</a>.</p>
-		<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
+		<p></p>
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

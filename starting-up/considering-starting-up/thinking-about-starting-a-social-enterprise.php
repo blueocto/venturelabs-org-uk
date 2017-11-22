@@ -45,7 +45,7 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
-		<img src="/_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
