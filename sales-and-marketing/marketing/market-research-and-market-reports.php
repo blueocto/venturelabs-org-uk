@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Market research and market reports | Business Link</title>
+	<title>Market research and market reports | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: layer8373.html || /layer?topicId=1073901910 -->
@@ -53,9 +53,6 @@
 				<img src="/_img/cim_logo.gif" width="140" height="32" alt="" /> The Chartered Institute of Marketing
 			</a>
 		</p>
-	
-		<img src="/_img/px_salesandmarketing.gif" alt="" width="181" height="5" />
-
 		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
