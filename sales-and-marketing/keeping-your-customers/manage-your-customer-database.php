@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Manage your customer database | Business Link</title>
+	<title>Manage your customer database | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: x_x.html || /layer?topicId=1073906150 -->
@@ -53,8 +53,6 @@
 				<img src="/_img/cim_logo.gif" width="105" height="35" alt="" /> The Chartered Institute of Marketing
 			</a>
 		</p>
-
-		<img src="/_img/px_salesandmarketing.gif" alt="" width="181" height="5" />
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
