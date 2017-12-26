@@ -5,20 +5,21 @@
 			<a href="/finance-and-grants.php" title="Finance and grants">Introduction</a>
 		</li>
 		<li>
-			<a href="">Finance options</a>
+			<a href="/finance-and-grants/finance-options.php">Finance options</a>
 			<ul>
+				<li><a href="/finance-and-grants/finance-options.php" title="Finance options">Introduction</a></li>
 				<li>
-					<a href="">Choose the right finance options</a>
+					<a href="/finance-and-grants/finance-options/choose-the-right-finance-options.php">Choose the right finance options</a>
 					<ul>
 						<li>
-							<a href="">Choose the right finance when starting up</a>
+							<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up.php">Choose the right finance when starting up</a>
 							<ul>
-								<li><a href="" title="Choose the right finance when starting up">Introduction</a></li>
-								<li>Work out your financial requirements when starting up</li>
-								<li>Finance options for new businesses</li>
-								<li>Use your own money to set up your business</li>
-								<li>Other sources of finance</li>
-								<li>Here's how I found the right sort of finance for my new business</li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up.php" title="Choose the right finance when starting up">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/work-out-your-financial-requirements-when-starting-up.php">Work out your financial requirements when starting up</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/finance-options-for-new-businesses.php">Finance options for new businesses</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/use-your-own-money-to-set-up-your-business.php">Use your own money to set up your business</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/other-sources-of-finance.php">Other sources of finance</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/here-is-how-i-found-the-right-sort-of-finance-for-my-new-business.phpS">Here's how I found the right sort of finance for my new business</a></li>
 							</ul>
 						</li>
 						<li>
@@ -43,8 +44,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Borrowing</a>
+					<a href="/finance-and-grants/finance-options/borrowing.php">Borrowing</a>
 					<ul>
+						<li><a href="/finance-and-grants/finance-options/borrowing.php" title="Borrowing">Introduction</a></li>
 						<li>
 							<a href="">Non-bank finance</a>
 							<ul>
@@ -144,8 +146,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Shares and equity finance</a>
+					<a href="/finance-and-grants/finance-options/shares-and-equity-finance.php">Shares and equity finance</a>
 					<ul>
+						<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance.php" title="Shares and equity finance">Introduction</a></li>
 						<li>
 							<a href="">Equity finance</a>
 							<ul>
@@ -246,9 +249,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Grants and government support</a>
+					<a href="/finance-and-grants/finance-options/grants-and-government-support.php">Grants and government support</a>
 					<ul>
-						<li><a href="" title="Grants and government support">Introduction</a></li>
+						<li><a href="/finance-and-grants/finance-options/grants-and-government-support.php" title="Grants and government support">Introduction</a></li>
 						<li>
 							<a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html">Grants: the basics</a>
 							<ul>
@@ -351,8 +354,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Capital allowances</a>
+					<a href="/finance-and-grants/finance-options/capital-allowances.php">Capital allowances</a>
 					<ul>
+						<li><a href="/finance-and-grants/finance-options/capital-allowances.php" title="Capital allowances">Introduction</a></li>
 						<li>
 							<a href="">Capital allowances: the basics</a>
 							<ul>
@@ -401,22 +405,24 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Prepare to raise finance</a>
+			<a href="/finance-and-grants/prepare-to-raise-finance.php">Prepare to raise finance</a>
 			<ul>
+				<li><a href="/finance-and-grants/prepare-to-raise-finance.php" title="Prepare to raise finance">Introduction</a></li>
 				<li>
-					<a href="">How to attract investment</a>
+					<a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment.php">How to attract investment</a>
 					<ul>
+						<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment.php" title="How to attract investment">Introduction</a></li>
 						<li>
-							<a href="">Use your business plan to get funding</a>
+							<a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a>
 							<ul>
-								<li><a href="" title="Use your business plan to get funding">Introduction</a></li>
-								<li>The essential elements of a business plan</li>
-								<li>Tailor your business plan to the target audience</li>
-								<li>Demonstrate your commitment to the business</li>
-								<li>Getting the best from your business plan - key considerations</li>
-								<li>Identify finance options for your business (Flash video)</li>
-								<li>Preparing to attract investment (Flash video)</li>
-								<li>Pitching to potential investors (Flash video)</li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php" title="Use your business plan to get funding">Introduction</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/the-essential-elements-of-a-business-plan.php">The essential elements of a business plan</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/tailor-your-business-plan-to-the-target-audience.php">Tailor your business plan to the target audience</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/demonstrate-your-commitment-to-the-business.php">Demonstrate your commitment to the business</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/getting-the-best-from-your-business-plan-key-considerations.php">Getting the best from your business plan - key considerations</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/identify-finance-options-for-your-business_flash-video.php">Identify finance options for your business (Flash video)</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/preparing-to-attract-investment_flash-video.php">Preparing to attract investment (Flash video)</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/pitching-to-potential-investors_flash-video.php">Pitching to potential investors (Flash video)</a></li>
 							</ul>
 						</li>
 						<li>
@@ -456,8 +462,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Manage your cashflow</a>
+					<a href="/finance-and-grants/manage-your-cashflow.php">Manage your cashflow</a>
 					<ul>
+						<li><a href="/finance-and-grants/manage-your-cashflow.php" title="Manage your cashflow">Introduction</a></li>
 						<li>
 							<a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">Cashflow management: the basics</a>
 							<ul>
@@ -474,9 +481,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Decide whether to lease or buy assets</a>
+							<a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a>
 							<ul>
-								<li><a href="" title="Decide whether to lease or buy assets">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php" title="Decide whether to lease or buy assets">Introduction</a></li>
 								<li>How to acquire assets for your business</li>
 								<li>Types of leasing</li>
 								<li>Leasing or renting business equipment</li>
@@ -486,9 +493,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Identify potential cashflow problems</a>
+							<a href="/finance-and-grants/manage-your-cashflow/identify-potential-cashflow-problems.php">Identify potential cashflow problems</a>
 							<ul>
-								<li><a href="" title="Identify potential cashflow problems">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/identify-potential-cashflow-problems.php" title="Identify potential cashflow problems">Introduction</a></li>
 								<li>Keep business forecasts up to date</li>
 								<li>How changing market conditions can affect your business</li>
 								<li>Working with banks and other lenders</li>
@@ -496,9 +503,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Invoicing and payment terms</a>
+							<a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php">Invoicing and payment terms</a>
 							<ul>
-								<li><a href="" title="Invoicing and payment terms">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</a></li>
 								<li>Information that invoices must contain</li>
 								<li>Setting terms and conditions</li>
 								<li>Setting suitable payment terms for your customers</li>
@@ -507,9 +514,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Factoring and invoice discounting: the basics</a>
+							<a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php">Factoring and invoice discounting: the basics</a>
 							<ul>
-								<li><a href="" title="Factoring and invoice discounting: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php" title="Factoring and invoice discounting: the basics">Introduction</a></li>
 								<li>How factoring works</li>
 								<li>Advantages and disadvantages of factoring</li>
 								<li>What makes a business suitable for factoring?</li>
@@ -523,37 +530,38 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Getting paid on time / Credit checking your customers and setting credit limits</a>
+							<a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php">Credit checking your customers and setting credit limits</a>
 							<ul>
-								<li><a href="" title="Credit checking your customers and setting credit limits">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php" title="Credit checking your customers and setting credit limits">Introduction</a></li>
 								<li><a href="">Credit checking potential customers</a></li>
 								<li><a href="">Credit checking new customers</a></li>
 								<li><a href="">Setting levels of credit</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Assess and improve your business cashflow</a>
+							<a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php">Assess and improve your business cashflow</a>
 							<ul>
-								<li><a href="" title="Assess and improve your business cashflow">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php" title="Assess and improve your business cashflow">Introduction</a></li>
 								<li><a href="">Assess and improve your business cashflow</a></li>
 							</ul>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Improve your cashflow and business performance</a>
+					<a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php">Improve your cashflow and business performance</a>
 					<ul>
+						<li><a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php" title="Improve your cashflow and business performance">Introduction</a></li>
 						<li>
-							<a href="">Assess your business' performance</a>
+							<a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php">Assess your business' performance</a>
 							<ul>
-								<li><a href="" title="Assess your business' performance">Introduction</a></li>
+								<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php" title="Assess your business' performance">Introduction</a></li>
 								<li>Assess your business' performance</li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Assess and improve your business cashflow</a>
+							<a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php">Assess and improve your business cashflow</a>
 							<ul>
-								<li><a href="" title="Assess and improve your business cashflow">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php" title="Assess and improve your business cashflow">Introduction</a></li>
 								<li>Assess and improve your business cashflow</li>
 							</ul>
 						</li>
@@ -588,9 +596,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">How to turn your business around</a>
+							<a href="/finance-and-grants/improve-your-cashflow-and-business-performance/how-to-turn-your-business-around.php">How to turn your business around</a>
 							<ul>
-								<li><a href="" title="How to turn your business around">Introduction</a></li>
+								<li><a href="/finance-and-grants/improve-your-cashflow-and-business-performance/how-to-turn-your-business-around.php" title="How to turn your business around">Introduction</a></li>
 								<li>How to assess your business and plan for improvement</li>
 								<li>How to improve your cashflow</li>
 								<li>How to respond to changes in the market</li>
@@ -603,8 +611,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Expert financial advice</a>
+					<a href="/finance-and-grants/prepare-to-raise-finance/expert-financial-advice.php">Expert financial advice</a>
 					<ul>
+						<li><a href="/finance-and-grants/prepare-to-raise-finance/expert-financial-advice.php" title="Expert financial advice">Introduction</a></li>
 						<li>
 							<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
 							<ul>
@@ -674,9 +683,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Balance sheets: the basics</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php">Balance sheets: the basics</a>
 					<ul>
-						<li><a href="" title="Balance sheets: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php" title="Balance sheets: the basics">Introduction</a></li>
 						<li>Balance sheet reporting - who, when and where?</li>
 						<li>Contents of the balance sheet</li>
 						<li>Interpreting balance sheet figures</li>
@@ -688,9 +697,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Set up a basic record-keeping system</a>
+					<a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php">Set up a basic record-keeping system</a>
 					<ul>
-						<li><a href="" title="Set up a basic record-keeping system">Introduction</a></li>
+						<li><a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php" title="Set up a basic record-keeping system">Introduction</a></li>
 						<li>What should my system include?</li>
 						<li>The cash sales and purchases/expenses books</li>
 						<li>The sales ledger</li>
@@ -702,9 +711,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Investment appraisal techniques</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/investment-appraisal-techniques.php">Investment appraisal techniques</a>
 					<ul>
-						<li><a href="" title="Investment appraisal techniques">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/investment-appraisal-techniques.php" title="Investment appraisal techniques">Introduction</a></li>
 						<li>Financial aspects of investment appraisal</li>
 						<li>Strategic issues for investment appraisal</li>
 						<li>Accounting rate of return</li>
@@ -731,9 +740,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Advice for seasonal businesses</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/advice-for-seasonal-businesses.php">Advice for seasonal businesses</a>
 					<ul>
-						<li><a href="" title="Advice for seasonal businesses">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/advice-for-seasonal-businesses.php" title="Advice for seasonal businesses">Introduction</a></li>
 						<li>Plan your cashflow</li>
 						<li>How seasonal businesses can manage cashflow</li>
 						<li>Find the best financing deals</li>
@@ -745,16 +754,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Assess your business' performance</a>
+					<a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php">Assess your business' performance</a>
 					<ul>
-						<li><a href="" title="Assess your business' performance">Introduction</a></li>
+						<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php" title="Assess your business' performance">Introduction</a></li>
 						<li>Assess your business' performance</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Pension planning for the self-employed</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/pension-planning-for-the-self-employed.php">Pension planning for the self-employed</a>
 					<ul>
-						<li><a href="" title="Pension planning for the self-employed">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/pension-planning-for-the-self-employed.php" title="Pension planning for the self-employed">Introduction</a></li>
 						<li>Assessing your pension needs</li>
 						<li>How a personal pension works</li>
 						<li>When to cash in your personal pension</li>
@@ -767,9 +776,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Consider your exit strategy when starting up</a>
+					<a href="/buy-or-sell-a-business/considering-selling-a-business/consider-your-exit-strategy-when-starting-up.php">Consider your exit strategy when starting up</a>
 					<ul>
-						<li><a href="" title="Consider your exit strategy when starting up">Introduction</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/consider-your-exit-strategy-when-starting-up.php" title="Consider your exit strategy when starting up">Introduction</a></li>
 						<li>Why you need an exit strategy</li>
 						<li>What do you want from your business?</li>
 						<li>Decisions that could affect your eventual exit</li>
@@ -797,12 +806,13 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Manage your cashflow</a>
+			<a href="/finance-and-grants/manage-your-cashflow.php">Manage your cashflow</a>
 			<ul>
+				<li><a href="/finance-and-grants/manage-your-cashflow.php" title="Manage your cashflow">Introduction</a></li>
 				<li>
-					<a href="">Cashflow management: the basics</a>
+					<a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">Cashflow management: the basics</a>
 					<ul>
-						<li><a href="" title="Cashflow management: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php" title="Cashflow management: the basics">Introduction</a></li>
 						<li>What is cash?</li>
 						<li>Cash inflows and cash outflows</li>
 						<li>The principles of cashflow forecasting</li>
@@ -887,8 +897,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Improve your cashflow and business performance</a>
+			<a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php">Improve your cashflow and business performance</a>
 			<ul>
+				<li><a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php" title="Improve your cashflow and business performance">Introduction</a></li>
 				<li>
 					<a href="">Assess your business' performance</a>
 					<ul>
@@ -949,27 +960,28 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Managing a business when economic conditions are tough</a>
+			<a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough.php">Managing a business when economic conditions are tough</a>
 			<ul>
-				<li><a href="" title="Managing a business when economic conditions are tough">Introduction</a></li>
-				<li>Analyse the health of your business</li>
-				<li>Minimise cost and maximise efficiency</li>
-				<li>Keep your cashflow healthy</li>
-				<li>Limit the risks your business faces</li>
-				<li>Develop an effective survival strategy</li>
-				<li>Access sources of business support</li>
-				<li>Checklist - key tasks when economic conditions are tough</li>
-				<li>Here's how my business survived adverse trading conditions</li>
-				<li>Here's how I grew my business during a recession</li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough.php" title="Managing a business when economic conditions are tough">Introduction</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/analyse-the-health-of-your-business.php">Analyse the health of your business</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/minimise-cost-and-maximise-efficiency.php">Minimise cost and maximise efficiency</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/keep-your-cashflow-healthy.php">Keep your cashflow healthy</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/limit-the-risks-your-business-faces.php">Limit the risks your business faces</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/develop-an-effective-survival-strategy.php">Develop an effective survival strategy</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/access-sources-of-business-support.php">Access sources of business support</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/checklist-key-tasks-when-economic-conditions-are-tough.php">Checklist - key tasks when economic conditions are tough</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/here-is-how-my-business-survived-adverse-trading-conditions.php">Here's how my business survived adverse trading conditions</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/here-is-how-i-grew-my-business-during-a-recession.php">Here's how I grew my business during a recession</a></li>
 			</ul>
 		</li>
 		<li>
-			<a href="">Managing suppliers and payments</a>
+			<a href="/finance-and-grants/managing-suppliers-and-payments.php">Managing suppliers and payments</a>
 			<ul>
+				<li><a href="/finance-and-grants/managing-suppliers-and-payments.php" title="Managing suppliers and payments">Introduction</li>
 				<li>
-					<a href="">Manage your suppliers</a>
+					<a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php">Manage your suppliers</a>
 					<ul>
-						<li><a href="" title="Manage your suppliers">Introduction</li>
+						<li><a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php" title="Manage your suppliers">Introduction</li>
 						<li>Getting quality service from your suppliers</li>
 						<li>Building good relationships with suppliers</li>
 						<li>Paying your suppliers on time</li>
@@ -981,9 +993,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Invoicing and payment terms</a>
+					<a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php">Invoicing and payment terms</a>
 					<ul>
-						<li><a href="" title="Invoicing and payment terms">Introduction</li>
+						<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</li>
 						<li>Information that invoices must contain</li>
 						<li>Setting terms and conditions</li>
 						<li>Setting suitable payment terms for your customers</li>
@@ -992,9 +1004,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Getting paid when selling overseas</a>
+					<a href="/international-trade/importing-and-exporting-basics/getting-paid-when-trading-internationally/getting-paid-when-selling-overseas.php">Getting paid when selling overseas</a>
 					<ul>
-						<li><a href="" title="Getting paid when selling overseas">Introduction</a></li>
+						<li><a href="/international-trade/importing-and-exporting-basics/getting-paid-when-trading-internationally/getting-paid-when-selling-overseas.php" title="Getting paid when selling overseas">Introduction</a></li>
 						<li>Research overseas customers&#39; and markets&#39; creditworthiness</li>
 						<li>Payment terms for overseas customers</li>
 						<li>Receiving payments from overseas customers</li>
@@ -1004,9 +1016,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Getting paid on time</a>
+					<a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php">Getting paid on time</a>
 					<ul>
-						<li><a href="" title="Getting paid on time">Introduction</a></li>
+						<li><a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php" title="Getting paid on time">Introduction</a></li>
 						<li>Getting your terms and conditions right</li>
 						<li>Credit checking potential customers</li>
 						<li>Credit checking new customers</li>
@@ -1016,9 +1028,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Factoring and invoice discounting: the basics</a>
+					<a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php">Factoring and invoice discounting: the basics</a>
 					<ul>
-						<li><a href="" title="Factoring and invoice discounting: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php" title="Factoring and invoice discounting: the basics">Introduction</a></li>
 						<li>How factoring works</li>
 						<li>Advantages and disadvantages of factoring</li>
 						<li>What makes a business suitable for factoring?</li>
@@ -1032,6 +1044,12 @@
 					</ul>
 				</li>
 				<li>
+					<a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">Ensuring customers pay you on time</a>
+					<ul>
+						<li><a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php" title="Ensuring customers pay you on time">Introduction</li>
+					</ul>
+				</li>
+				<!-- <li>
 					<a href="">Managing late payment</a>
 					<ul>
 						<li><a href="" title="Managing late payment">Introduction</a></li>
@@ -1041,16 +1059,17 @@
 						<li>Taking non-court action to collect debts</li>
 						<li>Taking court action to collect debts</li>
 					</ul>
-				</li>
+				</li> -->
 			</ul>
 		</li>
 		<li>
-			<a href="">Debt recovery</a>
+			<a href="/finance-and-grants/debt-recovery.php">Debt recovery</a>
 			<ul>
+				<li><a href="/finance-and-grants/debt-recovery.php" title="Debt recovery">Introduction</li>
 				<li>
-					<a href="">Managing late payment / Ensuring customers pay you on time</a>
+					<a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">Ensuring customers pay you on time</a>
 					<ul>
-						<li><a href="" title="Managing late payment">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php" title="Ensuring customers pay you on time">Introduction</a></li>
 						<li>When does a payment become late?</li>
 						<li>Charging interest on late payments</li>
 						<li>Charging debt recovery costs on late payments</li>
@@ -1059,16 +1078,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover your debts</a>
+					<a href="/finance-and-grants/debt-recovery/recover-your-debts.php">Recover your debts</a>
 					<ul>
-						<li><a href="" title="Recover your debts">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-your-debts.php" title="Recover your debts">Introduction</a></li>
 						<li>How can I get customers to pay what they owe me?</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Dissolved company assets: the basics</a>
+					<a href="/finance-and-grants/debt-recovery/dissolved-company-assets-the-basics.php">Dissolved company assets: the basics</a>
 					<ul>
-						<li><a href="" title="Dissolved company assets: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/dissolved-company-assets-the-basics.php" title="Dissolved company assets: the basics">Introduction</a></li>
 						<li>Bona vacantia assets</li>
 						<li>Assets of a dissolved company</li>
 						<li>Discretionary payments for dissolved companies</li>
@@ -1077,16 +1096,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Calculate the interest due on an unpaid debt</a>
+					<a href="/finance-and-grants/debt-recovery/calculate-the-interest-due-on-an-unpaid-debt.php">Calculate the interest due on an unpaid debt</a>
 					<ul>
-						<li><a href="" title="Calculate the interest due on an unpaid debt">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/calculate-the-interest-due-on-an-unpaid-debt.php" title="Calculate the interest due on an unpaid debt">Introduction</a></li>
 						<li>How much interest should I charge?</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Formal requests for payment: statutory demands</a>
+					<a href="/finance-and-grants/debt-recovery/formal-requests-for-payment-statutory-demands.php">Formal requests for payment: statutory demands</a>
 					<ul>
-						<li><a href="" title="Formal requests for payment: statutory demands">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/formal-requests-for-payment-statutory-demands.php" title="Formal requests for payment: statutory demands">Introduction</a></li>
 						<li>What is a statutory demand?</li>
 						<li>Serving a statutory demand</li>
 						<li>Information a statutory demand should contain</li>
@@ -1095,9 +1114,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Get help and advice about your debt problems</a>
+					<a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php">Get help and advice about your debt problems</a>
 					<ul>
-						<li><a href="" title="Get help and advice about your debt problems">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php" title="Get help and advice about your debt problems">Introduction</a></li>
 						<li>Preparing to seek help if you find yourself in debt</li>
 						<li>Debt advisory bodies</li>
 						<li>Debt advice from accountants or solicitors</li>
@@ -1109,9 +1128,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover debt through court</a>
+					<a href="/finance-and-grants/debt-recovery/recover-debt-through-court.php">Recover debt through court</a>
 					<ul>
-						<li><a href="" title="Recover debt through court">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-debt-through-court.php" title="Recover debt through court">Introduction</a></li>
 						<li>Deciding whether to make a claim</li>
 						<li>Choosing the right legal route</li>
 						<li>Using solicitors and debt recovery agents</li>
@@ -1126,9 +1145,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover your debt through court: Money Claim Online</a>
+					<a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-money-claim-online.php">Recover your debt through court: Money Claim Online</a>
 					<ul>
-						<li><a href="" title="Recover your debt through court: Money Claim Online">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-money-claim-online.php" title="Recover your debt through court: Money Claim Online">Introduction</a></li>
 						<li>Information to consider before making a Money Claim Online claim</li>
 						<li>Alternative dispute resolution (ADR)</li>
 						<li>Who can and cannot use Money Claim Online</li>
@@ -1137,9 +1156,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover your debt through court: Possession Claim Online</a>
+					<a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-possession-claim-online.php">Recover your debt through court: Possession Claim Online</a>
 					<ul>
-						<li><a href="" title="Recover your debt through court: Possession Claim Online">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-possession-claim-online.php" title="Recover your debt through court: Possession Claim Online">Introduction</a></li>
 						<li>Information to consider before making a Possession Claim Online claim</li>
 						<li>Who can and cannot use Possession Claim Online?</li>
 						<li>Is Possession Claim Online secure?</li>
@@ -1148,9 +1167,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Owed money from a bankrupt or a company in liquidation</a>
+					<a href="/finance-and-grants/debt-recovery/owed-money-from-a-bankrupt-or-a-company-in-liquidation.php">Owed money from a bankrupt or a company in liquidation</a>
 					<ul>
-						<li><a href="" title="Owed money from a bankrupt or a company in liquidation">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/owed-money-from-a-bankrupt-or-a-company-in-liquidation.php" title="Owed money from a bankrupt or a company in liquidation">Introduction</a></li>
 						<li>Who deals with bankruptcy and company liquidation claims?</li>
 						<li>Ensuring you are registered as a creditor</li>
 						<li>Making a claim and the order of repayment</li>
@@ -1160,9 +1179,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Make someone who owes you money bankrupt</a>
+					<a href="/finance-and-grants/debt-recovery/make-someone-who-owes-you-money-bankrupt.php">Make someone who owes you money bankrupt</a>
 					<ul>
-						<li><a href="" title="Make someone who owes you money bankrupt">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/make-someone-who-owes-you-money-bankrupt.php" title="Make someone who owes you money bankrupt">Introduction</a></li>
 						<li>The bankruptcy order process</li>
 						<li>Courts that deal with bankruptcy petitions</li>
 						<li>Presenting a bankruptcy petition</li>
@@ -1170,9 +1189,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">How to wind up a company that owes you money</a>
+					<a href="/finance-and-grants/debt-recovery/how-to-wind-up-a-company-that-owes-you-money.php">How to wind up a company that owes you money</a>
 					<ul>
-						<li><a href="" title="How to wind up a company that owes you money">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/how-to-wind-up-a-company-that-owes-you-money.php" title="How to wind up a company that owes you money">Introduction</a></li>
 						<li>What is compulsory winding up?</li>
 						<li>How do I wind up a company?</li>
 						<li>Completing the winding-up petition</li>
@@ -1184,9 +1203,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Avoid insolvency</a>
+					<a href="/finance-and-grants/debt-recovery/avoid-insolvency.php">Avoid insolvency</a>
 					<ul>
-						<li><a href="" title="Avoid insolvency">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/avoid-insolvency.php" title="Avoid insolvency">Introduction</a></li>
 						<li>Improve cashflow</li>
 						<li>Negotiate with creditors</li>
 						<li>Reduce overheads</li>
@@ -1198,12 +1217,13 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Business banking</a>
+			<a href="/finance-and-grants/business-banking.php">Business banking</a>
 			<ul>
+				<li><a href="/finance-and-grants/business-banking.php" title="Business banking">Introduction</a></li>
 				<li>
-					<a href="">How to choose and manage a business bank account</a>
+					<a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php">How to choose and manage a business bank account</a>
 					<ul>
-						<li><a href="" title="How to choose and manage a business bank account">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php" title="How to choose and manage a business bank account">Introduction</a></li>
 						<li>Choosing a business bank account</li>
 						<li>Open a business bank account</li>
 						<li>Manage a business account</li>
@@ -1213,9 +1233,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Debit and credit cards for your business</a>
+					<a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php">Debit and credit cards for your business</a>
 					<ul>
-						<li><a href="" title="Debit and credit cards for your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php" title="Debit and credit cards for your business">Introduction</a></li>
 						<li>Types of card available</li>
 						<li>Business benefits of debit and credit cards</li>
 						<li>Drawbacks of debit and credit cards</li>
@@ -1224,9 +1244,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Using payment cards to buy and sell goods or services</a>
+					<a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php">Using payment cards to buy and sell goods or services</a>
 					<ul>
-						<li><a href="" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
 						<li>Types of payment cards available</li>
 						<li>Pros and cons of using payment cards for purchases</li>
 						<li>Choosing a payment card provider</li>
@@ -1241,9 +1261,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Accepting online payments</a>
+					<a href="/finance-and-grants/business-banking/accepting-online-payments.php">Accepting online payments</a>
 					<ul>
-						<li><a href="" title="Accepting online payments">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments.php" title="Accepting online payments">Introduction</a></li>
 						<li>Online payment jargon</li>
 						<li>Payment Card Industry Data Security Standard compliance</li>
 						<li>Selecting the best online payment option</li>
@@ -1256,9 +1276,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Foreign currency and exchange risks</a>
+					<a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php">Foreign currency and exchange risks</a>
 					<ul>
-						<li><a href="" title="Foreign currency and exchange risks">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php" title="Foreign currency and exchange risks">Introduction</a></li>
 						<li>Foreign currency issues when importing or exporting</li>
 						<li>Identify foreign exchange risks</li>
 						<li>Forward foreign exchange contracts</li>
@@ -1268,9 +1288,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Understanding European banking services</a>
+					<a href="/finance-and-grants/business-banking/understanding-european-banking-services.php">Understanding European banking services</a>
 					<ul>
-						<li><a href="" title="Understanding European banking services">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services.php" title="Understanding European banking services">Introduction</a></li>
 						<li>Business banking services offered by European banks</li>
 						<li>What you will need to set up your business account in Europe</li>
 						<li>Accessibility of European banks</li>
@@ -1283,22 +1303,22 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insurance</a>
+			<a href="/finance-and-grants/insurance.php">Insurance</a>
 			<ul>
 				<li>
-					<a href="" title="Insurance">Introduction</a>
+					<a href="/finance-and-grants/insurance.php" title="Insurance">Introduction</a>
 				</li>
 				<li>
-					<a href="">Get the right insurance for your business</a>
+					<a href="/finance-and-grants/insurance/get-the-right-insurance-for-your-business.php">Get the right insurance for your business</a>
 					<ul>
-						<li><a href="" title="Get the right insurance for your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/get-the-right-insurance-for-your-business.php" title="Get the right insurance for your business">Introduction</a></li>
 						<li>What insurance does my business need?</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Insure your business and assets - general insurances</a>
+					<a href="/finance-and-grants/insurance/insure-your-business-and-assets-general-insurances.php">Insure your business and assets - general insurances</a>
 					<ul>
-						<li><a href="" title="Insure your business and assets - general insurances">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/insure-your-business-and-assets-general-insurances.php" title="Insure your business and assets - general insurances">Introduction</a></li>
 						<li>Insuring your business premises</li>
 						<li>Contents insurance</li>
 						<li>Specialist insurance</li>
@@ -1310,9 +1330,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Insure your business - people, life and health</a>
+					<a href="/finance-and-grants/insurance/insure-your-business-people-life-and-health.php">Insure your business - people, life and health</a>
 					<ul>
-						<li><a href="" title="Insure your business - people, life and health">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/insure-your-business-people-life-and-health.php" title="Insure your business - people, life and health">Introduction</a></li>
 						<li>Identifying risks and insuring against them</li>
 						<li>Basic types of life and health insurance</li>
 						<li>Protecting the business - loss of a key person</li>
@@ -1322,9 +1342,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Liability insurance</a>
+					<a href="/finance-and-grants/insurance/liability-insurance.php">Liability insurance</a>
 					<ul>
-						<li><a href="" title="Liability insurance">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/liability-insurance.php" title="Liability insurance">Introduction</a></li>
 						<li>How liability insurance works</li>
 						<li>Employers' liability insurance</li>
 						<li>Public liability insurance</li>
@@ -1338,9 +1358,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Insurance for international trade</a>
+					<a href="/international-trade/importing-and-exporting-basics/managing-risks-of-importing-and-exporting/insurance-for-international-trade.php">Insurance for international trade</a>
 					<ul>
-						<li><a href="" title="Insurance for international trade">Introduction</a></li>
+						<li><a href="/international-trade/importing-and-exporting-basics/managing-risks-of-importing-and-exporting/insurance-for-international-trade.php" title="Insurance for international trade">Introduction</a></li>
 						<li>Weighing up import and export risks</li>
 						<li>Insuring goods in transit</li>
 						<li>Product liability insurance</li>
@@ -1351,9 +1371,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Choose an insurance adviser and present your risk</a>
+					<a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php">Choose an insurance adviser and present your risk</a>
 					<ul>
-						<li><a href="" title="Choose an insurance adviser and present your risk">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php" title="Choose an insurance adviser and present your risk">Introduction</a></li>
 						<li>Who to consult and how insurance works</li>
 						<li>Minimise your risks and your costs</li>
 						<li>Presenting your risk details</li>
@@ -1366,12 +1386,13 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Expert financial advice</a>
+			<a href="/finance-and-grants/expert-financial-advice.php">Expert financial advice</a>
 			<ul>
+				<li><a href="/finance-and-grants/expert-financial-advice.php" title="Expert financial advice">Introduction</a></li>
 				<li>
-					<a href="">Choose and work with an accountant</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
 					<ul>
-						<li><a href="" title="Choose and work with an accountant">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php" title="Choose and work with an accountant">Introduction</a></li>
 						<li>How an accountant can help your business</li>
 						<li>Choosing an accountant</li>
 						<li>Checklist: ten things to ask your prospective accountant</li>
@@ -1380,18 +1401,18 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Get help and advice about your debt problems</a>
+					<a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php">Get help and advice about your debt problems</a>
 					<ul>
-						<li><a href="" title="Get help and advice about your debt problems">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php" title="Get help and advice about your debt problems">Introduction</a></li>
 						<li>When and how to seek debt help</li>
 						<li>Where to find advice on debt</li>
 						<li>Where to find advice on insolvency</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Choose an insurance adviser and present your risk</a>
+					<a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php">Choose an insurance adviser and present your risk</a>
 					<ul>
-						<li><a href="" title="Choose an insurance adviser and present your risk">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php" title="Choose an insurance adviser and present your risk">Introduction</a></li>
 						<li>Who to consult and how insurance works</li>
 						<li>Minimise your risks and your costs</li>
 						<li>Presenting your risk details</li>
@@ -1402,9 +1423,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Choose and work with a solicitor</a>
+					<a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php">Choose and work with a solicitor</a>
 					<ul>
-						<li><a href="" title="Choose and work with a solicitor">Introduction</a></li>
+						<li><a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php" title="Choose and work with a solicitor">Introduction</a></li>
 						<li>When will I need legal advice?</li>
 						<li>Find a solicitor</li>
 						<li>Choose a solicitor</li>
@@ -1416,15 +1437,15 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Introduction to insolvency</a>
+			<a href="/finance-and-grants/introduction-to-insolvency.php">Introduction to insolvency</a>
 			<ul>
 				<li>
-					<a href="" title="Introduction to insolvency">Introduction</a>
+					<a href="/finance-and-grants/introduction-to-insolvency.php" title="Introduction to insolvency">Introduction</a>
 				</li>
 				<li>
-					<a href="">Avoid insolvency</a>
+					<a href="/finance-and-grants/debt-recovery/avoid-insolvency.php">Avoid insolvency</a>
 					<ul>
-						<li><a href="" title="Avoid insolvency">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/avoid-insolvency.php" title="Avoid insolvency">Introduction</a></li>
 						<li>Improve cashflow</li>
 						<li>Negotiate with creditors</li>
 						<li>Reduce overheads</li>
@@ -1434,9 +1455,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Insolvency: the basics</a>
+					<a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php">Insolvency: the basics</a>
 					<ul>
-						<li><a href="" title="Insolvency: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php" title="Insolvency: the basics">Introduction</a></li>
 						<li>Avoiding bankruptcy and winding up</li>
 						<li>Insolvency of limited companies</li>
 						<li>Insolvency of partnerships</li>
@@ -1449,15 +1470,15 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insolvency information for limited companies</a>
+			<a href="/finance-and-grants/insolvency-information-for-limited-companies.php">Insolvency information for limited companies</a>
 			<ul>
 				<li>
-					<a href="" title="Insolvency information for limited companies">Introduction</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies.php" title="Insolvency information for limited companies">Introduction</a>
 				</li>
 				<li>
-					<a href="">Liquidation and alternatives for companies and limited liability partnerships</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/liquidation-and-alternatives-for-companies-and-limited-liability-partnerships.php">Liquidation and alternatives for companies and limited liability partnerships</a>
 					<ul>
-						<li><a href="" title="Liquidation and alternatives for companies and limited liability partnerships">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/liquidation-and-alternatives-for-companies-and-limited-liability-partnerships.php" title="Liquidation and alternatives for companies and limited liability partnerships">Introduction</a></li>
 						<li>Understanding liquidation</li>
 						<li>Alternatives to liquidation</li>
 						<li>Members' and creditors' voluntary liquidation</li>
@@ -1467,9 +1488,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Compulsory liquidation for companies and limited liability partnerships: the process</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/compulsory-liquidation-for-companies-and-limited-liability-partnerships-the-process.php">Compulsory liquidation for companies and limited liability partnerships: the process</a>
 					<ul>
-						<li><a href="" title="Compulsory liquidation for companies and limited liability partnerships: the process">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/compulsory-liquidation-for-companies-and-limited-liability-partnerships-the-process.php" title="Compulsory liquidation for companies and limited liability partnerships: the process">Introduction</a></li>
 						<li>Compulsory liquidations</li>
 						<li>The winding-up procedure</li>
 						<li>Winding-up orders</li>
@@ -1483,9 +1504,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Director disqualification</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php">Director disqualification</a>
 					<ul>
-						<li><a href="" title="Director disqualification">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php" title="Director disqualification">Introduction</a></li>
 						<li>Disqualification of unfit directors of insolvent companies</li>
 						<li>Disqualification proceedings</li>
 						<li>The effects of disqualification</li>
@@ -1494,18 +1515,18 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Reuse of a company name after liquidation</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/reuse-of-a-company-name-after-liquidation.php">Reuse of a company name after liquidation</a>
 					<ul>
-						<li><a href="" title="Reuse of a company name after liquidation">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/reuse-of-a-company-name-after-liquidation.php" title="Reuse of a company name after liquidation">Introduction</a></li>
 						<li>Prohibited names and restrictions</li>
 						<li>Penalties for breaching rules on the use of prohibited names</li>
 						<li>Exceptions to the restrictions on the reuse of a prohibited name</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Being interviewed by the official receiver</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/being-interviewed-by-the-official-receiver.php">Being interviewed by the official receiver</a>
 					<ul>
-						<li><a href="" title="Being interviewed by the official receiver">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/being-interviewed-by-the-official-receiver.php" title="Being interviewed by the official receiver">Introduction</a></li>
 						<li>Background to your meeting with the official receiver</li>
 						<li>What you should do before the interview</li>
 						<li>What happens at the office or telephone interview</li>
@@ -1516,23 +1537,23 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insolvency information for partnerships</a>
+			<a href="/finance-and-grants/insolvency-information-for-partnerships.php">Insolvency information for partnerships</a>
 			<ul>
 				<li>
-					<a href="" title="Insolvency information for partnerships">Introduction</a>
+					<a href="/finance-and-grants/insolvency-information-for-partnerships.php" title="Insolvency information for partnerships">Introduction</a>
 				</li>
 				<li>
-					<a href="">Liquidation and alternatives for partnerships</a>
+					<a href="/finance-and-grants/insolvency-information-for-partnerships/liquidation-and-alternatives-for-partnerships.php">Liquidation and alternatives for partnerships</a>
 					<ul>
-						<li><a href="" title="Liquidation and alternatives for partnerships">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-partnerships/liquidation-and-alternatives-for-partnerships.php" title="Liquidation and alternatives for partnerships">Introduction</a></li>
 						<li>What a partnership is, and how to wind up a partnership that owes money</li>
 						<li>How to wind up your own partnership</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Director disqualification</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php">Director disqualification</a>
 					<ul>
-						<li><a href="" title="Director disqualification">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php" title="Director disqualification">Introduction</a></li>
 						<li>Disqualification of unfit directors of insolvent companies</li>
 						<li>Disqualification proceedings</li>
 						<li>The effects of disqualification</li>
@@ -1543,15 +1564,15 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insolvency information for sole traders and individuals</a>
+			<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals.php">Insolvency information for sole traders and individuals</a>
 			<ul>
 				<li>
-					<a href="" title="Insolvency information for sole traders and individuals">Introduction</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals.php" title="Insolvency information for sole traders and individuals">Introduction</a>
 				</li>
 				<li>
-					<a href="">Alternatives to bankruptcy</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/alternatives-to-bankruptcy.php">Alternatives to bankruptcy</a>
 					<ul>
-						<li><a href="" title="Alternatives to bankruptcy">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/alternatives-to-bankruptcy.php" title="Alternatives to bankruptcy">Introduction</a></li>
 						<li>
 							<a href="">Insolvency options for individuals</a>
 							<ul>
@@ -1588,9 +1609,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">The bankruptcy process</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/the-bankruptcy-process.php">The bankruptcy process</a>
 					<ul>
-						<li><a href="" title="The bankruptcy process">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/the-bankruptcy-process.php" title="The bankruptcy process">Introduction</a></li>
 						<li>
 							<a href="">Bankruptcy: the basics</a>
 							<ul>
@@ -1672,9 +1693,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">How bankruptcy affects you and your business</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business.php">How bankruptcy affects you and your business</a>
 					<ul>
-						<li><a href="" title="How bankruptcy affects you and your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business.php" title="How bankruptcy affects you and your business">Introduction</a></li>
 						<li>
 							<a href="">The effects of bankruptcy</a>
 							<ul>
@@ -1748,7 +1769,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Individual Insolvency Register</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/individual-insolvency-register.php">Individual Insolvency Register</a>
 					<ul>
 						<li><a href="" title="Individual Insolvency Register">Introduction</a></li>
 						<li>The Individual Insolvency Register</li>
@@ -1760,36 +1781,37 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Complain against an insolvency practitioner or The Insolvency Service</a>
+			<a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service.php">Complain against an insolvency practitioner or The Insolvency Service</a>
 			<ul>
-				<li><a href="" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
-				<li>Complaints against The Insolvency Service</li>
-				<li>Dealing with unresolved Insolvency Service complaints after the initial response</li>
-				<li>Taking your case to the Ombudsman</li>
-				<li>How The Insolvency Service responds to complaints</li>
-				<li>How to complain about an insolvency practitioner</li>
-				<li>What to consider before making a complaint</li>
-				<li>How to make a complaint about an authorised insolvency practitioner</li>
-				<li>Directory of authorised professional bodies</li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service.php" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/complaints-against-the-insolvency-service.php">Complaints against The Insolvency Service</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/dealing-with-unresolved-insolvency-service-complaints-after-the-initial-response.php">Dealing with unresolved Insolvency Service complaints after the initial response</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/taking-your-case-to-the-ombudsman.php">Taking your case to the Ombudsman</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/how-the-insolvency-service-responds-to-complaints.php">How The Insolvency Service responds to complaints</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/how-to-complain-about-an-insolvency-practitioner.php">How to complain about an insolvency practitioner</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/what-to-consider-before-making-a-complaint.php">What to consider before making a complaint</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/how-to-make-a-complaint-about-an-authorised-insolvency-practitioner.php">How to make a complaint about an authorised insolvency practitioner</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/directory-of-authorised-professional-bodies.php">Directory of authorised professional bodies</a></li>
 			</ul>
 		</li>
 		<li>
-			<a href="">How to complain against a company or limited liability partnership</a>
+			<a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php">How to complain against a company or limited liability partnership</a>
 			<ul>
-				<li><a href="" title="How to complain against a company or limited liability partnership">Introduction</a></li>
-				<li>What a company investigation involves</li>
-				<li>How to complain to Corporate Complaints</li>
-				<li>Investigations by Company Investigations</li>
-				<li>Possible outcomes after an investigation by Company Investigations</li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php" title="How to complain against a company or limited liability partnership">Introduction</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/what-a-company-investigation-involves.php">What a company investigation involves</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/how-to-complain-to-corporate-complaints.php">How to complain to Corporate Complaints</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/investigations-by-company-investigations.php">Investigations by Company Investigations</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/possible-outcomes-after-an-investigation-by-company-investigations.php">Possible outcomes after an investigation by Company Investigations</a></li>
 			</ul>
 		</li>
 		<li>
-			<a href="">Recover assets</a>
+			<a href="/finance-and-grants/recover-assets.php">Recover assets</a>
 			<ul>
+				<li><a href="/finance-and-grants/recover-assets.php" title="Recover assets">Introduction</a></li>
 				<li>
-					<a href="">Dissolved company assets: the basics</a>
+					<a href="/finance-and-grants/debt-recovery/dissolved-company-assets-the-basics.php">Dissolved company assets: the basics</a>
 					<ul>
-						<li><a href="" title="Dissolved company assets: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/dissolved-company-assets-the-basics.php" title="Dissolved company assets: the basics">Introduction</a></li>
 						<li>Bona vacantia assets</li>
 						<li>Assets of a dissolved company</li>
 						<li>Discretionary payments for dissolved companies</li>
@@ -1798,9 +1820,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">What happens to assets owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/what-happens-to-assets-owned-by-a-dissolved-company.php">What happens to assets owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="What happens to assets owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/what-happens-to-assets-owned-by-a-dissolved-company.php" title="What happens to assets owned by a dissolved company">Introduction</a></li>
 						<li>What a dissolved company is and how its assets are dealt with</li>
 						<li>The role of the Treasury Solicitor in dealing with bona vacantia</li>
 						<li>What happens to bank accounts of dissolved companies</li>
@@ -1812,9 +1834,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Discretionary grants for dissolved companies that can be restored</a>
+					<a href="/finance-and-grants/recover-assets/discretionary-grants-for-dissolved-companies-that-can-be-restored.php">Discretionary grants for dissolved companies that can be restored</a>
 					<ul>
-						<li><a href="" title="Discretionary grants for dissolved companies that can be restored">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/discretionary-grants-for-dissolved-companies-that-can-be-restored.php" title="Discretionary grants for dissolved companies that can be restored">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in the discretionary grant process for dissolved companies that can be restored</li>
 						<li>Applying for a discretionary grant where a dissolved company can be restored</li>
 						<li>How the Treasury Solicitor determines who receives discretionary grants</li>
@@ -1825,9 +1847,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Discretionary grants for dissolved companies that cannot be restored</a>
+					<a href="/finance-and-grants/recover-assets/discretionary-grants-for-dissolved-companies-that-cannot-be-restored.php">Discretionary grants for dissolved companies that cannot be restored</a>
 					<ul>
-						<li><a href="" title="Discretionary grants for dissolved companies that cannot be restored">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/discretionary-grants-for-dissolved-companies-that-cannot-be-restored.php" title="Discretionary grants for dissolved companies that cannot be restored">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in the discretionary grant process for dissolved companies that cannot be restored</li>
 						<li>Applying for a discretionary grant where a dissolved company cannot be restored</li>
 						<li>How the Treasury Solicitor determines who receives discretionary grants</li>
@@ -1838,9 +1860,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Shares owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/shares-owned-by-a-dissolved-company.php">Shares owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Shares owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/shares-owned-by-a-dissolved-company.php" title="Shares owned by a dissolved company">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in the sale of shares vested in the Crown as 'ownerless property'</li>
 						<li>Dealing with the Treasury Solicitor for selling shares owned by a dissolved company</li>
 						<li>Treasury Solicitor's legal costs when selling shares</li>
@@ -1849,9 +1871,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Vacant land and buildings owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/vacant-land-and-buildings-owned-by-a-dissolved-company.php">Vacant land and buildings owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Vacant land and buildings owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/vacant-land-and-buildings-owned-by-a-dissolved-company.php" title="Vacant land and buildings owned by a dissolved company">Introduction</a></li>
 						<li>Role of Treasury Solicitor's department in the sale of 'ownerless' land and buildings</li>
 						<li>Conditions of sale for 'ownerless' land and buildings</li>
 						<li>Other people's rights over 'ownerless' land or buildings</li>
@@ -1862,9 +1884,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Residential freehold property owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/residential-freehold-property-owned-by-a-dissolved-company.php">Residential freehold property owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Residential freehold property owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/residential-freehold-property-owned-by-a-dissolved-company.php" title="Residential freehold property owned by a dissolved company">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in the sale of residential freehold property subject to leases</li>
 						<li>Conditions of sale for ownerless freehold property subject to leases</li>
 						<li>Applying to buy a residential freehold property, subject to leases owned by a dissolved company</li>
@@ -1874,9 +1896,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Headleases of property owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/headleases-of-property-owned-by-a-dissolved-company.php">Headleases of property owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Headleases of property owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/headleases-of-property-owned-by-a-dissolved-company.php" title="Headleases of property owned by a dissolved company">Introduction</a></li>
 						<li>Role of Treasury Solicitor's department in the sale of headleases of property subject to under-leases</li>
 						<li>Conditions of sale for the headlease of property vested in the Crown</li>
 						<li>Applying to buy a headlease for a property owned by a dissolved company</li>
@@ -1886,9 +1908,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Disclaiming property vested in the Crown as bona vacantia</a>
+					<a href="/finance-and-grants/recover-assets/disclaiming-property-vested-in-the-crown-as-bona-vacantia.php">Disclaiming property vested in the Crown as bona vacantia</a>
 					<ul>
-						<li><a href="" title="Disclaiming property vested in the Crown as bona vacantia">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/disclaiming-property-vested-in-the-crown-as-bona-vacantia.php" title="Disclaiming property vested in the Crown as bona vacantia">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in disclaiming property</li>
 						<li>Treasury Solicitor's powers to deal with dissolved company property</li>
 						<li>Properties that the Treasury Solicitor can disclaim</li>
@@ -1896,9 +1918,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Mortgages and charges owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/mortgages-and-charges-owned-by-a-dissolved-company.php">Mortgages and charges owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Mortgages and charges owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/mortgages-and-charges-owned-by-a-dissolved-company.php" title="Mortgages and charges owned by a dissolved company">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in dealing with mortgages and charges of a dissolved company</li>
 						<li>How bona vacantia affects mortgages</li>
 						<li>How bona vacantia affects charging orders</li>
@@ -1907,9 +1929,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Intellectual property and rights owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/intellectual-property-and-rights-owned-by-a-dissolved-company.php">Intellectual property and rights owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Intellectual property and rights owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/intellectual-property-and-rights-owned-by-a-dissolved-company.php" title="Intellectual property and rights owned by a dissolved company">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in dealing with ownerless intellectual property and rights</li>
 						<li>How the Treasury Solicitor deals with intellectual property and rights of a dissolved company</li>
 						<li>The legal costs of purchasing intellectual property and rights from the Treasury Solicitor</li>
@@ -1917,9 +1939,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Trade marks owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/trade-marks-owned-by-a-dissolved-company.php">Trade marks owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Trade marks owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/trade-marks-owned-by-a-dissolved-company.php" title="Trade marks owned by a dissolved company">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in the sale of trade marks</li>
 						<li>How the Treasury Solicitor deals with a dissolved company's trade mark</li>
 						<li>The Treasury Solicitor's legal costs for dealing with ownerless trade marks</li>
@@ -1928,36 +1950,36 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Repaying funds to restored companies</a>
+					<a href="/finance-and-grants/recover-assets/repaying-funds-to-restored-companies.php">Repaying funds to restored companies</a>
 					<ul>
-						<li><a href="" title="Repaying funds to restored companies">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/repaying-funds-to-restored-companies.php" title="Repaying funds to restored companies">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in company restoration</li>
 						<li>Applying for the repayment of assets to a restored company</li>
 						<li>How the Treasury Solicitor repays a restored company's assets</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Adverse possession of land and buildings where the Title is not registered</a>
+					<a href="/finance-and-grants/recover-assets/adverse-possession-of-land-and-buildings-where-the-title-is-not-registered.php">Adverse possession of land and buildings where the Title is not registered</a>
 					<ul>
-						<li><a href="" title="Adverse possession of land and buildings where the Title is not registered">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/adverse-possession-of-land-and-buildings-where-the-title-is-not-registered.php" title="Adverse possession of land and buildings where the Title is not registered">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in adverse possession of land and buildings where the title is unregistered</li>
 						<li>How adverse possession works</li>
 						<Li>How to become a registered owner if you have adverse possession of a property</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Adverse possession of land and buildings where the Title is registered</a>
+					<a href="/finance-and-grants/recover-assets/adverse-possession-of-land-and-buildings-where-the-title-is-registered.php">Adverse possession of land and buildings where the Title is registered</a>
 					<ul>
-						<li><a href="" title="Adverse possession of land and buildings where the Title is registered">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/adverse-possession-of-land-and-buildings-where-the-title-is-registered.php" title="Adverse possession of land and buildings where the Title is registered">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in adverse possession of land and buildings where the title is registered</li>
 						<li>How adverse possession works and applying for ownership</li>
 						<li>How to apply to be the registered owner of property in adverse possession</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia</a>
+					<a href="/finance-and-grants/recover-assets/sale-by-a-mortgagee-of-land-and-buildings-vested-in-the-crown-as-bona-vacantia.php">Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia</a>
 					<ul>
-						<li><a href="" title="Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/sale-by-a-mortgagee-of-land-and-buildings-vested-in-the-crown-as-bona-vacantia.php" title="Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia">Introduction</a></li>
 						<li>Role of the Treasury Solicitor in property vested in the Crown as bona vacantia</li>
 						<li>How a sale by a mortgagee works</li>
 						<li>How to sell bona vacantia property as a mortgagee</li>
@@ -1965,9 +1987,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">How to calculate purchase prices and legal costs for bona vacantia assets</a>
+					<a href="/finance-and-grants/recover-assets/how-to-calculate-purchase-prices-and-legal-costs-for-bona-vacantia-assets.php">How to calculate purchase prices and legal costs for bona vacantia assets</a>
 					<ul>
-						<li><a href="" title="How to calculate purchase prices and legal costs for bona vacantia assets">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/how-to-calculate-purchase-prices-and-legal-costs-for-bona-vacantia-assets.php" title="How to calculate purchase prices and legal costs for bona vacantia assets">Introduction</a></li>
 						<li>Sale of ownerless residential freehold land and buildings to the occupying tenants</li>
 						<li>Sale of ownerless residential head leasehold land and buildings to the occupying tenants</li>
 						<li>Sale of ownerless vacant and commercial land, buildings and other leasehold property</li>
@@ -1977,18 +1999,18 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Guidelines to financial institutions about cash balances owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/guidelines-to-financial-institutions-about-cash-balances-owned-by-a-dissolved-company.php">Guidelines to financial institutions about cash balances owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Guidelines to financial institutions about cash balances owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/guidelines-to-financial-institutions-about-cash-balances-owned-by-a-dissolved-company.php" title="Guidelines to financial institutions about cash balances owned by a dissolved company">Introduction</a></li>
 						<li>Discretionary payments from cash balances</li>
 						<Li>What you should consider when referring a credit balance to the Treasury Solicitor</Li>
 						<li>What to send the Treasury Solicitor when dealing with dissolved companies' cash balances</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">The distribution of a dissolved company's share capital</a>
+					<a href="/finance-and-grants/recover-assets/the-distribution-of-a-dissolved-companys-share-capital.php">The distribution of a dissolved company's share capital</a>
 					<ul>
-						<li><a href="" title="The distribution of a dissolved company's share capital">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/the-distribution-of-a-dissolved-companys-share-capital.php" title="The distribution of a dissolved company's share capital">Introduction</a></li>
 						<li>The effects of dissolution on a company's assets</li>
 						<li>Dissolved company shares and maintaining share capital</li>
 						<li>The distribution of share capital for dissolved companies</li>
@@ -1996,9 +2018,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Copyright owned by a dissolved company</a>
+					<a href="/finance-and-grants/recover-assets/copyright-owned-by-a-dissolved-company.php">Copyright owned by a dissolved company</a>
 					<ul>
-						<li><a href="" title="Copyright owned by a dissolved company">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/copyright-owned-by-a-dissolved-company.php" title="Copyright owned by a dissolved company">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in the sale of copyright of dissolved companies</li>
 						<li>When the Treasury Solicitor can sell a copyright</li>
 						<li>Buying ownerless copyright from the Treasury Solicitor</li>
@@ -2006,9 +2028,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Treasury Solicitor consent for administrative restoration</a>
+					<a href="/finance-and-grants/recover-assets/treasury-solicitor-consent-for-administrative-restoration.php">Treasury Solicitor consent for administrative restoration</a>
 					<ul>
-						<li><a href="" title="Treasury Solicitor consent for administrative restoration">Introduction</a></li>
+						<li><a href="/finance-and-grants/recover-assets/treasury-solicitor-consent-for-administrative-restoration.php" title="Treasury Solicitor consent for administrative restoration">Introduction</a></li>
 						<li>The role of the Treasury Solicitor in administrative restoration of a company</li>
 						<li>Preconditions for applying for an administrative restoration waiver letter</li>
 						<li>How to apply for a waiver letter to restore a dissolved company</li>

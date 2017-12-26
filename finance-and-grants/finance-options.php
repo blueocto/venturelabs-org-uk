@@ -30,6 +30,13 @@
 		<p>Assess what tax allowances your business can claim on certain purchases or investments</p>
 		
 		<h3>Spotlight</h3>
+		
+		<!-- <p><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk"   title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window" >See finance advice videos on Business Link's You Tube channel</a></p> -->
+		
+		<!-- <p>Watch guidance on understanding, seeking and securing finance</p>
+		<a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">
+			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
+		</a> -->
 
 		<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">
 			<img src="/_img/binocs.jpg" width="76" height="76" alt="This interactive tool provides you with a personalised list of the most suitable finance options for your business" />
