@@ -5,12 +5,12 @@
 
 				<footer>
 					<ul class="menu">
-						<li><a href="https://www.gov.uk/help" target="_blank">Help &amp; Support</a></li>
-						<li><a href="http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/" target="_blank">&copy; Crown Copyright</a></li>
-						<li><a href="https://www.gov.uk/help/terms-conditions" target="_blank">Terms &amp; Conditions</a></li>
-						<li><a href="https://www.gov.uk/help/privacy-policy" target="_blank">Privacy Policy</a></li>
-						<li><a href="https://www.gov.uk/help/accessibility" target="_blank">Accessibility</a></li>
-						<li><a href="https://www.gov.uk/help/cookies" target="_blank">Cookies</a></li>
+						<li><a href="https://www.gov.uk/help" target="_blank" rel="noopener noreferrer">Help &amp; Support</a></li>
+						<li><a href="http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/" target="_blank" rel="noopener noreferrer">&copy; Crown Copyright</a></li>
+						<li><a href="https://www.gov.uk/help/terms-conditions" target="_blank" rel="noopener noreferrer">Terms &amp; Conditions</a></li>
+						<li><a href="https://www.gov.uk/help/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+						<li><a href="https://www.gov.uk/help/accessibility" target="_blank" rel="noopener noreferrer">Accessibility</a></li>
+						<li><a href="https://www.gov.uk/help/cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li>
 						<li><a href="/about-venture-labs.php">About us</a></li>
 					</ul>
 
@@ -20,7 +20,7 @@
 						<li><a href="/directories.php">Directories</a></li>
 					</ul>
 
-					<p><small><a href="http://www.blueocto.co.uk" title="Web Design and Development Newcastle" target="_blank" rel="noopener noreferrer">Reincarnated and maintained by Blueocto Ltd</a> &nbsp;|&nbsp; Please bear with me, this website is in <span class="alert label">ALPHA</span></small></p>
+					<p><small><a href="https://www.blueocto.co.uk" title="Web Design and Development Newcastle" target="_blank" rel="noopener noreferrer">Reincarnated and maintained by Blueocto Ltd</a> &nbsp;|&nbsp; Please bear with me, this website is in <span class="alert label">ALPHA</span></small></p>
 				</footer>
 
 			</div><!-- // .small-12 .columns -->
