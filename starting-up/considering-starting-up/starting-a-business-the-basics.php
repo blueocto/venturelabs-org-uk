@@ -47,7 +47,6 @@
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

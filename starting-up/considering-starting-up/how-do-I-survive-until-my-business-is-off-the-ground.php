@@ -41,8 +41,6 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
 
-		
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
@@ -54,8 +52,6 @@
 		<ul>
 			<li><a href="https://www.unbiased.co.uk/" target="_blank" rel="noopener noreferrer">Financial adviser database on the Independent Financial Adviser Promotion website</a></li>
 		</ul>
-
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

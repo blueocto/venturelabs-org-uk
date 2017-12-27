@@ -42,8 +42,6 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/prepare-a-financial-plan.php">Prepare a financial plan</a></li>
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
-		
-		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -66,8 +64,6 @@
 			<li><a href="https://www.gov.uk/avoid-business-cashflow-problems" title="Understand whether you can meet your financial commitments and how to cope when things don't go to plan" target="_blank" rel="noopener noreferrer">Meet your financial commitments</a></li>
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php" title="The importance of managing a budget as part of your business planning and how to create one">Business budgeting</a></li>
 		</ul>
-
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

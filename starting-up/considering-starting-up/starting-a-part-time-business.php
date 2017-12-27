@@ -29,6 +29,7 @@
 		<ul>
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/what-to-consider-when-starting-your-part-time-business.php" title="What to consider when starting your part-time business">Next</a></li>
 		</ul>
+		
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
@@ -39,13 +40,10 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
 		</ul>
 		
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
-		
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

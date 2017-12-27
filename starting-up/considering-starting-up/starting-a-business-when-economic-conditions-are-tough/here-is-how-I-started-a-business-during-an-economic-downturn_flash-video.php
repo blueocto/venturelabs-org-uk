@@ -81,11 +81,7 @@
 			<li>Here's how I started a business during an economic downturn (Flash video)</li>
 		</ul>
 		
-		
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -107,9 +103,7 @@
 			</div>
 		</div>
 		
-		<p><strong><a href="/find-a-case-study.php" title="">Find a case study</a></strong></p>
-
-		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
+		<p><strong><a href="/find-a-case-study.php">Find a case study</a></strong></p>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

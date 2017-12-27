@@ -57,8 +57,6 @@
 			<li>Find support</li>
 		</ul>
 
-		
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Prince's Trust Helpline</h3>
@@ -78,8 +76,6 @@
 			<li><a href="/sales-and-marketing/online-marketing/online-business-networking-and-social-networking.php">Online business networking and social networking</a></li>
 			<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php">Extra help and support available for your start up</a></li>
 		</ul>
-
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

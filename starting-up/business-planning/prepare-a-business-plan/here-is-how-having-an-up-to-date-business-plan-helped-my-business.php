@@ -60,12 +60,8 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/using-the-business-plan-template.php">Using the business plan template</a></li>
 			<li>Here's how having an up-to-date business plan helped my business</li>
 		</ul>
-		
-		
-		
+				
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -89,8 +85,6 @@
 
 		<h4>More case studies</h4>
 		<p><a href="/find-a-case-study.php"><b>Find a case study</b></a></p>
-
-		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

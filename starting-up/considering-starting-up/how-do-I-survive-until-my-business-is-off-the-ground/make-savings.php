@@ -45,8 +45,6 @@
 			<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 		</ul>
 
-		
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
@@ -66,8 +64,6 @@
 			<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a></li>
 			<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/tax-advantages-for-those-starting-up-in-business.php" title="The tax allowances and reliefs available to new businesses">Tax advantages for those starting up in business</a></li>
 		</ul>
-
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

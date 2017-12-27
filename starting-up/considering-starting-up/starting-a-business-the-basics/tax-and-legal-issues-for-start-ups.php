@@ -47,8 +47,6 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 
-		
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
@@ -67,8 +65,6 @@
 			<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">get to grips with business taxes</a></li>
 			<li><a href="https://www.gov.uk/browse/business/intellectual-property" target="_blank" rel="noopener noreferrer">protect your business and premises</a></li>
 		</ul>
-
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5"  />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

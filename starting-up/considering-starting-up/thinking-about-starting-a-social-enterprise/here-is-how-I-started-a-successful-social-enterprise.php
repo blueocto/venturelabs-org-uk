@@ -57,11 +57,7 @@
 			<li>Here's how I started a successful social enterprise</li>
 		</ul>
 
-		
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -84,8 +80,6 @@
 		</div>
 
 		<p><strong><a href="/find-a-case-study.php">Find a case study</a></strong></p>
-
-		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

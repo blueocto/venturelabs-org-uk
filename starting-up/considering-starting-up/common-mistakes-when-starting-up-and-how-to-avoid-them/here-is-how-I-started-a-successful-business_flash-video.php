@@ -35,7 +35,7 @@
 				<a href="#">Read transcript</a>
 			</li>
 			<li>
-				<a title="Play the audio only version of this video" href="../../../_flash/king-of-shaves.mp3">Listen to audio only (mp3, 3.5MB)</a>
+				<a title="Play the audio only version of this video" href="/_flash/king-of-shaves.mp3">Listen to audio only (mp3, 3.5MB)</a>
 			</li>
 			<li><a href="/video-and-e-learning-help.php">Help</a></li>
 		</ul>
@@ -57,11 +57,7 @@
 			<li>Here's how I started a successful business (Flash video)</li>
 		</ul>
 
-		
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -83,9 +79,7 @@
 			</div>
 		</div>
 
-		<p><a href="findContentBankf4d5.html?bank=CASE_STUDIES"  title=""><b>Find a case study</b></a></p>
-
-		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
+		<p><a href="/find-a-case-study.php">Find a case study</a></p>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

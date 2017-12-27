@@ -56,8 +56,6 @@
 			<li><a href="#">Download guidance on IP from the Intellectual Property Office website (PDF, 1.01MB)</a></li>
 			<li><a href="http://www.lawdonut.co.uk/business/blog/2013/04/how-protect-your-intellectual-property" target="_blank" rel="noopener noreferrer">Intellectual property disputes guidance on the Law Donut website</a></li>
 		</ul>
-
-		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 		
  
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

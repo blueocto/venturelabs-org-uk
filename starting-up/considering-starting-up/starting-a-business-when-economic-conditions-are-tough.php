@@ -42,15 +42,10 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
 		
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
-		<img src="/_img/hr_140px_global.gif" alt="" />
-		<br />
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

@@ -43,8 +43,6 @@
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/here-is-how-having-a-family-member-in-the-business-made-a-difference.php">Here's how having a family member in the business made a difference</a></li>
 		</ul>
 		
-		
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
@@ -63,8 +61,6 @@
 			<img src="/_img/logo_ifb.gif" width="130" height="35" border="0" alt="" />
 			<br/>Institute for Family Business
 		</a>
-
-		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -80,8 +80,6 @@
 			<li><a href="/employment-and-skills/redundancy-restructures-and-change/change-an-employees-terms-of-employment.php">Change an employee's terms of employment</a></li>
 			<li><a href="/employment-and-skills/working-time/flexible-working-the-law-and-best-practice.php">Flexible working - the law and best practice</a></li>
 		</ul>
-		
-		<img src="/_img/px_employingpeople.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

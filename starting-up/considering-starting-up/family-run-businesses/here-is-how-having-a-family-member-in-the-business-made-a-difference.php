@@ -53,12 +53,8 @@
 			<li><a href="/starting-up/considering-starting-up/family-run-businesses/succession-planning-in-family-businesses.php">Succession planning in family businesses</a></li>
 			<li>Here's how having a family member in the business made a difference</li>
 		</ul>
-
-		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-
-		
 
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
@@ -88,8 +84,6 @@
 		</ul>
 		
 		<p><strong><a href="/find-a-case-study.php">Find a case study</a></strong></p>
-
-		<img src="/_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

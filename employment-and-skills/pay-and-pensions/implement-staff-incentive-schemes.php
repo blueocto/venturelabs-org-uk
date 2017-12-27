@@ -53,8 +53,6 @@
 			<li><a href="https://www.gov.uk/understanding-your-pay/performancerelated-pay" target="_blank" rel="noopener noreferrer">Performance-related pay guidance on the Directgov website</a></li>
 		</ul>
 
-		<img src="/_img/px_employingpeople.gif" alt="" width="181" height="5" />
-
  
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
