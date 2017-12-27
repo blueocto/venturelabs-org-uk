@@ -2,7 +2,7 @@
 <html class="no-js">
 
 <head>
-	<title>Insolvency information for sole traders and individuals | Business Link</title>
+	<title>Insolvency information for sole traders and individuals | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 	<!-- ref: layer8f0a.html || /layer?topicId=1084600731 -->
 </head>
@@ -27,12 +27,12 @@
 		<p>How to search for details of insolvent individuals, including bankrupts</p>
 
 		<h3>Spotlight</h3>
-		<!-- <h4><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">See finance advice videos on Business Link's You Tube channel</a></h4> -->
+		<!-- <h4><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Venture Labs on the Venture Labs YouTube channel - Opens in a new window">See finance advice videos on Venture Labs's You Tube channel</a></h4> -->
 		
 		<!-- <p>Watch guidance on understanding, seeking and securing finance</p> -->
 		
-		<!-- <a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">
-			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
+		<!-- <a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Venture Labs on the Venture Labs YouTube channel - Opens in a new window">
+			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Venture Labs on the Venture Labs YouTube channel" />
 		</a> -->
 
 		<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">

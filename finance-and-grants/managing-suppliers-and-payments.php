@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-    <title>Managing suppliers and payments | Business Link </title>
+    <title>Managing suppliers and payments | Venture Labs </title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: x_x.html || /layer?topicId=1084705485 -->

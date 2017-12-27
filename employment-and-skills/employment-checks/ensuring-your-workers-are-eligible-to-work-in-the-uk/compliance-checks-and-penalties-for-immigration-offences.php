@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Compliance checks and penalties for immigration offences | Business Link</title>
+	<title>Compliance checks and penalties for immigration offences | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

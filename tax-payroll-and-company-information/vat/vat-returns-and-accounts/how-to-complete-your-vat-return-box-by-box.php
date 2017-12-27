@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>How to complete your VAT Return box by box | Business Link</title>
+	<title>How to complete your VAT Return box by box | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

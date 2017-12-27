@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Prepare to raise finance | Business Link</title>
+	<title>Prepare to raise finance | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: x_x.html || /layer?topicId=1087443365 -->

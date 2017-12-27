@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Managing a business when economic conditions are tough | Business Link</title>
+	<title>Managing a business when economic conditions are tough | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: x_x.html || /layer?topicId=1081861678 -->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-    <title>Introduction to insolvency | Business Link </title>
+    <title>Introduction to insolvency | Venture Labs </title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: x_x.html || /layer?topicId=1087443613 -->

@@ -31,11 +31,11 @@
 		
 		<h3>Spotlight</h3>
 		
-		<!-- <p><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk"   title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window" >See finance advice videos on Business Link's You Tube channel</a></p> -->
+		<!-- <p><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk"   title="Video guidance from Venture Labs on the Venture Labs YouTube channel - Opens in a new window" >See finance advice videos on Venture Labs's You Tube channel</a></p> -->
 		
 		<!-- <p>Watch guidance on understanding, seeking and securing finance</p>
-		<a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">
-			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
+		<a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Venture Labs on the Venture Labs YouTube channel - Opens in a new window">
+			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Venture Labs on the Venture Labs YouTube channel" />
 		</a> -->
 
 		<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">

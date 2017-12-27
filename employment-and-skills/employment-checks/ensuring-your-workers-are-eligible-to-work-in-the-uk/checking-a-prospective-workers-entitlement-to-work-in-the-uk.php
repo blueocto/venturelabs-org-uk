@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Checking a prospective worker's entitlement to work in the UK | Business Link</title>
+	<title>Checking a prospective worker's entitlement to work in the UK | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
