@@ -27,7 +27,7 @@
 		<p><strong>How can I find out more?</strong></p>
 		<p>The consultation period runs until 22 June 2012, <a href="#">you can download the full consultation proposal Simpler Income Tax for the Simplest Small Businesses<span> - Opens in a new window</span></a> (PDF, 140K)</p>
 		<p>In particular Chapter 2 'Small Businesses - what the proposals mean for you' summarises the proposals for those running small businesses. <a href="_files/simpler-income-tax-for-the-simplest-small-businesses.pdf" target="_blank">You can download the shorter version of the consultation<span> - Opens in a new window</span></a>.</p>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

@@ -59,7 +59,7 @@
 			<h3>Charity Commission Contact Centre General Enquiry Line</h3>
 			<p>0845 3000 218</p>
 			
-			<img src="/_img/hr_140px_global.gif" alt="" />
+	
 			
 			<h3>Actions</h3>
 			<ul>

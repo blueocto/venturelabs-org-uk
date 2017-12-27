@@ -32,7 +32,7 @@
 			<li>Plus there's lots of advice on what to look for in a good mentor.</li>
 			<li>If you would like to be a mentor and share your wealth of experience with a less experienced business person, the mentoring portal can help you find an organisation to help.</li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

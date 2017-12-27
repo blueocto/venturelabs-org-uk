@@ -130,7 +130,7 @@
 			Typical content: [CS]v4|0-0|4DFF6598[CE]<br />
 			Expires: In five years</p>
 		
-		<img src="/_img/hr_325px_global.gif" alt="" align="middle" />
+		<hr />
 		
 		<ul>
 			<li><a href="#">Print page now</a></li>

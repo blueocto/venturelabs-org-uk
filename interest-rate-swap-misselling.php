@@ -24,7 +24,7 @@
 		<p>If you have bought a &quot;swap&quot; or &quot;cap and collar&quot; in the last 12 years your bank will write to you, setting out next steps. If you have a &quot;cap&quot; you can ask your bank to review your case.</p>
 		<p><strong>Where can I find out more information?</strong></p>
 		<p><a href="http://www.fsa.gov.uk/library/other_publications/interest-rate-swaps" target="_blank">For more information please visit the FSA's website. <span> - Opens in a new window</span></a> </p>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now - Opens in a new window</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

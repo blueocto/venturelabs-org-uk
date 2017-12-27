@@ -68,8 +68,6 @@
 			<a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://improve.businesslink.gov.uk/resources/business-finance-finder">Rural Development Programme for England</a>
 		</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		
 		<img src="../../_img/bssp_logo_one_off.jpg" width="181" height="121" border="0" alt="" />

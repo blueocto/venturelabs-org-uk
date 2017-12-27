@@ -30,8 +30,6 @@
 		</ul>
 		<p>Find further environmental guidance, tools and case studies in the <a href="/environment-and-efficiency.php">environment &amp; efficiency</a> area of our website.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<img src="../../_img/act_on_copenhagen_181.jpg" width="181" height="121" border="0" alt="Act on Co2penhagen" />

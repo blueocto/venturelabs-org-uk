@@ -70,7 +70,7 @@
 		<h3>Keep a note</h3>
 		<p>You can download a guide to using online ADI services. It also includes space for you to make a note of your user ID and a reminder of your password.</p>
 		<p><a href="https://www.gov.uk/government/publications/adi-online-services-user-guide/adi-online-services-user-guide" title="A guide to the ADI services available" target="_blank">Download the ADI services guide from the DFT website (PDF, 76K) - Opens in a new window</a>.</p>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now - Opens in a new window</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

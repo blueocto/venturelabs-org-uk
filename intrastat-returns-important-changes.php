@@ -26,7 +26,7 @@
 		<h3>Where can I get more information?</h3>
 		<p>You can <a href="https://www.uktradeinfo.com/Intrastat/Pages/Intrastat.aspx" title="How to get started with making Intrastat declarations online" target="_blank" rel="noopener noreferrer">find out more about making Intrastat declarations on the uktradeinfo website.</a></p>
 		<p>You can also contact the HMRC Customer Service Helpdesk on <a href="mailto:Intrastatonline@hmrc.gsi.gov.uk"><u>Intrastatonline@hmrc.gsi.gov.uk</u></a> quoting <strong>'Intrastat 2012'</strong> or telephone 01702 367248.</p>
-		<p><img src="/_img/hr_325px_global.gif" alt="" align="middle" /></p>			
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

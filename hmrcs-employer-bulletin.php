@@ -37,7 +37,7 @@
 		<p>Customers who use screen reading software should find that the Employer Bulletin is fully compatible with most software packages.</p>
 		<p>If you need a version in large print or Braille please contact the Employer Orderline.</p>
 		<p><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact" title="Find contact details for HMRC Employer Orderline on the HMRC website" target="_blank">Find contact details for the Employer Orderline on the HMRC website - Opens in a new window</a></p>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now - Opens in a new window</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

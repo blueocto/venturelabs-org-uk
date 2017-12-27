@@ -26,7 +26,7 @@
 			<li>Your local Chamber of Commerce is there to be a strong local voice for business, and influences the decisions made by your local authority that affect you. Think about joining - you can find more out from <a href="http://www.britishchambers.org.uk/" title="Contact details for your local chamber, which can help your business' international growth" target="_blank">British Chambers of Commerce - Opens in a new window</a>.</li>
 			<li>Business Improvement Districts (BIDs) can make a real difference to your local trading environment. Local businesses and the local authority can work together, pooling resources, to make immediate changes that make the area work better for you. Many BIDs were started because local traders decided they needed one.  Find out about BIDs, how they work and what they can do on the <a href="https://www.atcm.org/" target="_blank">UK bids website - Opens in a new window</a> or the <a href="http://www.britishbids.info/AboutBIDs/WhatisaBID.aspx" target="bgExternalonlinebusinesslinkgovuk"   >British Bids website - Opens in a new window</a>.</li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now - Opens in a new window</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

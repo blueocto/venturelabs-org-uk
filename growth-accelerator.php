@@ -38,7 +38,7 @@
 			<li>Determined to double within three years</li>
 		</ul>
 		<p>It's not about size or sector, it's about senior management ambition. Visit <a href="http://www.ga.businessgrowthservice.greatbusiness.gov.uk/" target="_blank">www.growthaccelerator.com - Opens in a new window</a> to find out more.</p>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

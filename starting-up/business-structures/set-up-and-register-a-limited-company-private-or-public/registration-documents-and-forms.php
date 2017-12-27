@@ -78,7 +78,7 @@
 			<h3>TSO Customer Services</h3>
 			<p>0870 600 5522</p>
 			
-			<img src="/_img/hr_140px_global.gif" alt="" />
+	
 			
 			<h3>Actions</h3>
 			<ul>

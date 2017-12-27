@@ -35,7 +35,7 @@
 			<li><a href="enabling-the-transition-to-a-green-economy-opportunities-for-businesses.html" title="The opportunities that a green economy will offer businesses">Enabling the Transition to a Green Economy - opportunities for businesses</a></li>
 			<li><a href="enabling-the-transition-to-a-green-economy-challenges-for-businesses.html" title="The challenges facing businesses as a result of climate change and other environmental policies">Enabling the Transition to a Green Economy - challenges for businesses</a></li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

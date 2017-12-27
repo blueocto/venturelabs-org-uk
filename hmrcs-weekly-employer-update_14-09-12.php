@@ -41,8 +41,6 @@
 		<p>This may lead to an underpayment of PAYE as an individual's personal allowance for the year is worked out on the basis of 52 weekly, 26 fortnightly and 13 four-weekly paydays.</p>
 		<p>Employees who have been notified by HMRC that they have underpaid and query this with their employer should be advised to read the notes enclosed with the calculation. Alternatively, <a href="https://www.gov.uk/tax-overpayments-and-underpayments" target="_blank" rel="noopener noreferrer">find information on checking your P800 tax calculation on the HMRC website</a>.
 		</p>
-		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

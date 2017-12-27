@@ -30,7 +30,7 @@
 			<li><a href="https://www.gov.uk/government/publications/independent-review-of-the-criminal-records-regime-government-response" target="_blank">Read the government's formal response to the criminal records review - Opens in a new window</a></li>
 			<li><a href="https://www.gov.uk/government/organisations/disclosure-and-barring-service/about" title="Information on the future of the Vetting and Barring Scheme" target="_blank">Find out about the Vetting and Barring Scheme review - Opens in a new window</a></li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
+
 		<ul>
 			<li><a href="#">Print page now - Opens in a new window</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

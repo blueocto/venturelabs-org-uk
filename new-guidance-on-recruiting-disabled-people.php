@@ -26,7 +26,7 @@
 			<li>Recruiting and employing disabled people</li>
 			<li><a href="premises-and-property/access-and-facilities/access-and-facilities-for-disabled-people.php" title="Information on what changes you can make to ensure your business is accessible to disabled people">Access and facilities for disabled people</a></li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

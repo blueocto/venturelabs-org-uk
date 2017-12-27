@@ -34,7 +34,7 @@
 		</ul>
 		<p></p>
 		<p><a href="assess-your-business-performance.html" title="Use our interactive tool to assess how well your business is currently performing">Use our interactive tool to assess how well your business is performing</a>.</p>
-		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

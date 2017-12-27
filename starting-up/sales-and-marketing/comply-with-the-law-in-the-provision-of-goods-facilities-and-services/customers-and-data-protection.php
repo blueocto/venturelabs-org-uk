@@ -60,7 +60,7 @@
 		<h3>ICO Helpline</h3>
 		<p>0303 123 1113</p>
 		
-		<img src="/_img/hr_140px_global.gif" alt="" />
+
 		
 		<h3>Actions</h3>
 		<ul>

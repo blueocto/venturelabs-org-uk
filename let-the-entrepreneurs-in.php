@@ -33,7 +33,7 @@
 			<li>Tender evaluation - 24th July to 30th August.</li>
 			<li>Appointments from August</li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

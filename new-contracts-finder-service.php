@@ -27,7 +27,7 @@
 			<li><a href="sales-and-marketing/pricing/price-lists-estimates-quotations-and-tenders.php" title="Find out how to draw up price lists, estimates and quotations and prices for tenders">Price lists, estimates, quotations and tenders</a> </li>
 			<li><a href="grow-your-business/suppliers-overview-of-tendering-for-contracts/tendering-for-public-sector-contracts-in-europe.php" title="The process of tendering for procurement contracts in the European Union">Tendering for public sector contracts in Europe</a> </li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

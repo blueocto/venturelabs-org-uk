@@ -44,7 +44,7 @@
 		<p>0303 1234 500
 		</p>
 		
-		<img src="/_img/hr_140px_global.gif" alt="" />
+
 		
 		<h3>Actions</h3>
 		<ul>

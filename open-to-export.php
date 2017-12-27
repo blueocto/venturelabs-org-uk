@@ -32,7 +32,7 @@
 			</strong>It's free to access and by just by visiting <a href="http://opentoexport.com/" target="_blank">Open to Export<span> - Opens in a new window</span></a>you will be able to see what exporting events are coming up, what overseas opportunities exist and gain access to a whole wealth of content posted by the community.</p>
 		<p>To ask a question, simply register as a user and you could have direct access to those with the experience to help. Our ratings system, means that you can provide feedback on the quality of the responses you receive.</p>
 		<p>For more information visit<a href="http://opentoexport.com/" target="_blank">OpentoExport.com<span> - Opens in a new window</span></a> </p>
-		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

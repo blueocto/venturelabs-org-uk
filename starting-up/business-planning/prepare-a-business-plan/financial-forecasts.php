@@ -73,14 +73,10 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
 		
-		
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
-		
-		<img src="/_img/hr_140px_global.gif" alt="" />
 		
 		<h3>Actions</h3>
 		<ul>
@@ -96,8 +92,6 @@
 			<li><a href="/sales-and-marketing/selling/forecast-and-plan-your-sales.php">Forecast and plan your sales</a></li>
 			<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

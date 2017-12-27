@@ -25,7 +25,7 @@
 			<li>Publishing HM Treasury's improved implementation of the EU Third Money Laundering Directive, which will ensure that the UK is a hostile environment for money launderers and terrorist financing while reducing the burden of regulation on legitimate businesses.</li>
 			<li>Changing the Home Office's vetting and barring scheme. This will consist of scaling back criminal records disclosure and barring arrangements by making criminal record checks more portable and reducing the need for repeat checks.</li>
 		</ul>
-		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

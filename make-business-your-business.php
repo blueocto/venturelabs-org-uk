@@ -30,7 +30,7 @@
 			<li>New tools like a Finance Finder, The Home Business Guide, 'taking on an employee' guidance, and an incubation search tool.</li>
 		</ul>
 		<p>Visit the <a href="https://www.gov.uk/government/organisations/department-for-business-innovation-skills" target="_blank">BIS website<span> - Opens in a new window</span></a> or search online for 'Business in You' to see the report, the guide, the home business guide and more details on StartUp Loans.</p>
-		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
+
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>

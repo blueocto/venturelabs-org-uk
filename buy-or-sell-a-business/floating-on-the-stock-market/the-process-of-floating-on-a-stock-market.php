@@ -44,8 +44,6 @@
 			<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/appoint-your-advisers.php">Appoint your advisers</a></li>
 			<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/here-is-how-we-prepared-our-business-for-flotation.php">Here's how we prepared our business for flotation</a></li>
 		</ul>
-
-		<img src="../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

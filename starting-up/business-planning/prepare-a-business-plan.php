@@ -55,16 +55,12 @@
 		<!-- <h3>Venture Labs Helpline</h3> -->
 		<!-- <p>0845 600 9 006</p> -->
 		
-		<img src="/_img/hr_140px_global.gif" alt="" />
-		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.horsesmouth.co.uk/publisha.content/spotlight/taxonomy.publisha" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
 			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
 			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
-
-		
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
