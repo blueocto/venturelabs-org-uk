@@ -12,10 +12,10 @@ var gulp  = require('gulp'),
 	uglify = require('gulp-uglify'),
 	concat = require('gulp-concat'),
 	rename = require('gulp-rename'),
-	plumber = require('gulp-plumber'), 
-	// bower = require('gulp-bower'),
-	babel = require('gulp-babel'),
-	browserSync = require('browser-sync').create();
+	plumber = require('gulp-plumber'),
+	babel = require('gulp-babel'), 
+	connect = require('gulp-connect-php'), 
+	browserSync = require('browser-sync');
 
 
 // Added gulp-imagemin
@@ -39,7 +39,7 @@ gulp.task('styles', function() {
 		.pipe(sourcemaps.init()) // Start Sourcemaps
 		.pipe(sass())
 		.pipe(autoprefixer({
-			browsers: ['last 2 versions'],
+			browsers: ['last 2 versions', 'ie >= 9', 'and_chr >= 2.3'],
 			cascade: false
 		}))
 		.pipe(gulp.dest('./assets/css/'))
@@ -48,15 +48,13 @@ gulp.task('styles', function() {
 		.pipe(sourcemaps.write('.')) // Creates sourcemaps for minified styles
 		.pipe(gulp.dest('./assets/css/'))
 });
-
 	
+
 // JSHint, concat, and minify JavaScript
 gulp.task('site-js', function() {
   return gulp.src([	
-
-		// Grab your custom scripts
-		'./_assets/js/scripts/*.js'
-
+	// Grab your custom scripts
+	'./_assets/js/scripts/*.js'
   ])
 	.pipe(plumber())
 	.pipe(sourcemaps.init())
@@ -94,14 +92,14 @@ gulp.task('foundation-js', function() {
 		'./_vendor/foundation-sites/js/foundation.responsiveMenu.js',
 		'./_vendor/foundation-sites/js/foundation.responsiveToggle.js',
 		'./_vendor/foundation-sites/js/foundation.reveal.js',
-		// './_vendor/foundation-sites/js/foundation.slider.js',
+		'./_vendor/foundation-sites/js/foundation.slider.js',
 		// './_vendor/foundation-sites/js/foundation.sticky.js',
 		// './_vendor/foundation-sites/js/foundation.tabs.js',
 		// './_vendor/foundation-sites/js/foundation.toggler.js',
 		// './_vendor/foundation-sites/js/foundation.tooltip.js',
   ])
 	.pipe(babel({
-		presets: ['es2015'],
+		presets: ['env'],
 		compact: true
 	}))
 	.pipe(sourcemaps.init())
@@ -114,33 +112,17 @@ gulp.task('foundation-js', function() {
 }); 
 
 
-// Update Foundation with Bower and save to /vendor
-// gulp.task('bower', function() {
-//   return bower({ cmd: 'update'})
-// 	.pipe(gulp.dest('_vendor/'))
-// });  
+gulp.task('connect-sync', function() {
+  connect.server({}, function (){
+    browserSync({
+      proxy: '127.0.0.1:8000'
+    });
+  });
 
-
-// Browser-Sync watch files and inject changes
-gulp.task('browsersync', function() {
-	// Watch files
-	var files = [
-		'./_assets/css/*.css', 
-		'./_assets/js/*.js',
-		'**/*.php',
-		'_assets/images/*.{png,jpg,gif,svg,webp}',
-	];
-
-	browserSync.init(files, {
-		// Replace with URL of your local site
-		proxy: "http://alpha.venturelabs.org.uk.dev/",
-	});
-	
-	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
-	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
-
+  gulp.watch('**/*.php').on('change', function () {
+    browserSync.reload();
+  });
 });
-gulp.task('sync', ['browsersync']);
 
 
 // Watch files for changes (without Browser-Sync)
