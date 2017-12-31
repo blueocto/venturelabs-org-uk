@@ -1238,11 +1238,11 @@
 					<a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php">Debit and credit cards for your business</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php" title="Debit and credit cards for your business">Introduction</a></li>
-						<li>Types of card available</li>
-						<li>Business benefits of debit and credit cards</li>
-						<li>Drawbacks of debit and credit cards</li>
-						<li>Choosing a card provider</li>
-						<li>Risks of financing a business with a personal credit card</li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/types-of-card-available.php">Types of card available</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/business-benefits-of-debit-and-credit-cards.php">Business benefits of debit and credit cards</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/drawbacks-of-debit-and-credit-cards.php">Drawbacks of debit and credit cards</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/choosing-a-card-provider.php">Choosing a card provider</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/risks-of-financing-a-business-with-a-personal-credit-card.php">Risks of financing a business with a personal credit card</a></li>
 					</ul>
 				</li>
 				<li>
@@ -1266,15 +1266,15 @@
 					<a href="/finance-and-grants/business-banking/accepting-online-payments.php">Accepting online payments</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/accepting-online-payments.php" title="Accepting online payments">Introduction</a></li>
-						<li>Online payment jargon</li>
-						<li>Payment Card Industry Data Security Standard compliance</li>
-						<li>Selecting the best online payment option</li>
-						<li>Setting up an internet merchant account</li>
-						<li>Find a bank to process your online payments</li>
-						<li>Checklist: applying for an internet merchant account</li>
-						<li>Using a payment-processing company</li>
-						<li>Selling through an online shopping mall</li>
-						<li>Here's how I set up an online payment system for my website</li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/online-payment-jargon.php">Online payment jargon</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/payment-card-industry-data-security-standard-compliance.php">Payment Card Industry Data Security Standard compliance</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/selecting-the-best-online-payment-option.php">Selecting the best online payment option</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/setting-up-an-internet-merchant-account.php">Setting up an internet merchant account</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/find-a-bank-to-process-your-online-payments.php">Find a bank to process your online payments</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/checklist-applying-for-an-internet-merchant-account.php">Checklist: applying for an internet merchant account</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/using-a-payment-processing-company.php">Using a payment-processing company</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/selling-through-an-online-shopping-mall.php">Selling through an online shopping mall</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments/here-is-how-i-set-up-an-online-payment-system-for-my-website.php">Here's how I set up an online payment system for my website</a></li>
 					</ul>
 				</li>
 				<li>
