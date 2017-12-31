@@ -23,16 +23,16 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Identify the right finance options for your business</a>
+							<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Identify the right finance options for your business</a>
 							<ul>
-								<li><a href="" title="Identify the right finance options for your business">Introduction</a></li>
-								<li>Which types of finance are right for my business?</li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php" title="Identify the right finance options for your business">Introduction</a></li>
+								<li><a href="http://webarchive.nationalarchives.gov.uk/20120824032600/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1083154049&r.l1=1073858790&r.l2=1084705429&r.l3=1087443481&r.l4=1074441426&type=BLTTOOL" target="_blank" rel="noopener noreferrer">Which types of finance are right for my business?</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Decide whether to lease or buy assets</a>
+							<a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a>
 							<ul>
-								<li><a href="" title="Decide whether to lease or buy assets">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php" title="Decide whether to lease or buy assets">Introduction</a></li>
 								<li>How to acquire assets for your business</li>
 								<li>Types of leasing</li>
 								<li>Leasing or renting business equipment</li>
@@ -48,9 +48,9 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/borrowing.php" title="Borrowing">Introduction</a></li>
 						<li>
-							<a href="">Non-bank finance</a>
+							<a href="/finance-and-grants/finance-options/borrowing/non-bank-finance.php">Non-bank finance</a>
 							<ul>
-								<li><a href="" title="Non-bank finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/non-bank-finance.php" title="Non-bank finance">Introduction</a></li>
 								<li>Types of non-bank financial support</li>
 								<li>Social and community lenders</li>
 								<li>Non-bank funding for short and long-term use</li>
@@ -59,9 +59,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Raise long-term funding through debt capital markets</a>
+							<a href="/finance-and-grants/finance-options/borrowing/raise-long-term-funding-through-debt-capital-markets.php">Raise long-term funding through debt capital markets</a>
 							<ul>
-								<li><a href="" title="Raise long-term funding through debt capital markets">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/raise-long-term-funding-through-debt-capital-markets.php" title="Raise long-term funding through debt capital markets">Introduction</a></li>
 								<li>How bond finance works</li>
 								<li>Raising finance by issuing corporate bonds</li>
 								<li>Raising finance through private placements</li>
@@ -69,16 +69,16 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Government guaranteed lending schemes</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php">Government guaranteed lending schemes</a>
 							<ul>
-								<li><a href="" title="Government guaranteed lending schemes">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php" title="Government guaranteed lending schemes">Introduction</a></li>
 								<li>Assess your eligibility for government guaranteed lending schemes</li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Financing from friends and family</a>
+							<a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php">Financing from friends and family</a>
 							<ul>
-								<li><a href="" title="Financing from friends and family">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php" title="Financing from friends and family">Introduction</a></li>
 								<li>Loan or investment?</li>
 								<li>Benefits and pitfalls of friends and family finance</li>
 								<li>Setting up a loan or investment with friends or family</li>
@@ -87,9 +87,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Factoring and invoice discounting: the basics</a>
+							<a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php">Factoring and invoice discounting: the basics</a>
 							<ul>
-								<li><a href="" title="Factoring and invoice discounting: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php" title="Factoring and invoice discounting: the basics">Introduction</a></li>
 								<li>How factoring works</li>
 								<li>Advantages and disadvantages of factoring</li>
 								<li>What makes a business suitable for factoring?</li>
@@ -103,9 +103,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Commercial mortgages and lenders</a>
+							<a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php">Commercial mortgages and lenders</a>
 							<ul>
-								<li><a href="" title="Commercial mortgages and lenders">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php" title="Commercial mortgages and lenders">Introduction</a></li>
 								<li>An overview of the commercial mortgage</li>
 								<li>Pros and cons of buying business premises</li>
 								<li>What lenders need to know</li>
@@ -117,9 +117,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Acquire assets and borrow money tax efficiently</a>
+							<a href="/finance-and-grants/finance-options/borrowing/acquire-assets-and-borrow-money-tax-efficiently.php">Acquire assets and borrow money tax efficiently</a>
 							<ul>
-								<li><a href="" title="Acquire assets and borrow money tax efficiently">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/acquire-assets-and-borrow-money-tax-efficiently.php" title="Acquire assets and borrow money tax efficiently">Introduction</a></li>
 								<li>Tax relief for buying or leasing assets</li>
 								<li>Calculating tax relief when acquiring an asset</li>
 								<li>Borrow money for capital investment from pension schemes</li>
@@ -127,9 +127,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Bank finance</a>
+							<a href="/finance-and-grants/finance-options/borrowing/bank-finance.php">Bank finance</a>
 							<ul>
-								<li><a href="" title="Bank finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance.php" title="Bank finance">Introduction</a></li>
 								<li>Types of bank finance for businesses</li>
 								<li>Loans</li>
 								<li>Overdrafts</li>
@@ -150,9 +150,9 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance.php" title="Shares and equity finance">Introduction</a></li>
 						<li>
-							<a href="">Equity finance</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a>
 							<ul>
-								<li><a href="" title="Equity finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php" title="Equity finance">Introduction</a></li>
 								<li>What is equity finance and is it right for your business?</li>
 								<li>Sources of equity finance</li>
 								<li>The equity gap</li>
@@ -162,9 +162,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Venture capital</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/venture-capital.php">Venture capital</a>
 							<ul>
-								<li><a href="" title="Equity finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/venture-capital.php" title="Venture capital">Introduction</a></li>
 								<li>What is private equity and venture capital?</li>
 								<li>Is private equity right for your business?</li>
 								<li>Finding and approaching venture capital investors</li>
@@ -174,9 +174,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Business angels</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/business-angels.php">Business angels</a>
 							<ul>
-								<li><a href="" title="Business angels">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/business-angels.php" title="Business angels">Introduction</a></li>
 								<li>Business angels and how they operate</li>
 								<li>Advantages and disadvantages of business angel funding</li>
 								<li>Securing business angel investment</li>
@@ -185,9 +185,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Secure equity investment</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/secure-equity-investment.php">Secure equity investment</a>
 							<ul>
-								<li><a href="" title="Secure equity investment">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/secure-equity-investment.php" title="Secure equity investment">Introduction</a></li>
 								<li>Is private equity investment what your business needs?</li>
 								<li>Finding the right private equity investor</li>
 								<li>Value your business accurately</li>
@@ -196,9 +196,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Shares and shareholders</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/shares-and-shareholders.php">Shares and shareholders</a>
 							<ul>
-								<li><a href="" title="Shares and shareholders">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/shares-and-shareholders.php" title="Shares and shareholders">Introduction</a></li>
 								<li>What are shares and why are they issued?</li>
 								<li>How are shares issued?</li>
 								<li>Types of shares</li>
@@ -209,20 +209,21 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Floating on the stock market</a>
+							<a href="/buy-or-sell-a-business/floating-on-the-stock-market.php">Floating on the stock market</a>
 							<ul>
-								<li><a href="" title="Floating on the stock market">Introduction</a></li>
-								<li>Is your business suitable to be a public company?</li>
-								<li>Advantages and disadvantages of stock market flotation</li>
-								<li>The process of floating on a stock market</li>
-								<li>Appoint your advisers</li>
-								<li>Here's how we prepared our business for flotation</li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/is-your-business-suitable-to-be-a-public-company.php">Is your business suitable to be a public company?</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/advantages-and-disadvantages-of-stock-market-flotation.php">Advantages and disadvantages of stock market flotation</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/the-process-of-floating-on-a-stock-market.php">The process of floating on a stock market</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/appoint-your-advisers.php">Appoint your advisers</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/here-is-how-we-prepared-our-business-for-flotation.php">Here's how we prepared our business for flotation</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">London Stock Exchange Main Market</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-main-market.php">London Stock Exchange Main Market</a>
 							<ul>
-								<li><a href="" title="London Stock Exchange Main Market">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-main-market.php" title="London Stock Exchange Main Market">Introduction</a></li>
 								<li>What is the London Stock Exchange Main Market?</li>
 								<li>Is joining the London Stock Exchange Main Market right for your business?</li>
 								<li>Advantages of joining the London Stock Exchange Main Market</li>
@@ -234,9 +235,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Alternative Investment Market</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-aim.php">Alternative Investment Market</a>
 							<ul>
-								<li><a href="" title="Alternative Investment Market">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-aim.php" title="Alternative Investment Market">Introduction</a></li>
 								<li>What is the Alternative Investment Market?</li>
 								<li>Is joining the Alternative Investment Market right for your business?</li>
 								<li>Advantages of joining the Alternative Investment Market</li>
@@ -253,9 +254,9 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/grants-and-government-support.php" title="Grants and government support">Introduction</a></li>
 						<li>
-							<a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html">Grants: the basics</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/grants-the-basics.php">Grants: the basics</a>
 							<ul>
-								<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html" title="Grants: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/grants-the-basics.php" title="Grants: the basics">Introduction</a></li>
 								<li>Government grants and support</li>
 								<li>What kind of grants are available?</li>
 								<li>Grant eligibility</li>
@@ -267,9 +268,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Government support for businesses</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-support-for-businesses.php">Government support for businesses</a>
 							<ul>
-								<li><a href="" title="Government support for businesses">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-support-for-businesses.php" title="Government support for businesses">Introduction</a></li>
 								<li>Business advice, information and guidance</li>
 								<li>Financial support for businesses</li>
 								<li>Coaching and networks</li>
@@ -282,22 +283,22 @@
 							</ul>
 						</li>
 						<li>
-							<a href="http://webarchive.nationalarchives.gov.uk/20111206084001/http://www.improve.businesslink.gov.uk//%2Fresources/business-support-finder">Business support finder</a>
+							<a href="https://www.gov.uk/business-finance-support" target="_blank" rel="noopener noreferrer">Business support finder</a>
 							<ul>
-								<li><a href="http://webarchive.nationalarchives.gov.uk/20111206084001/http://www.improve.businesslink.gov.uk//%2Fresources/business-support-finder" title="Business support finder">Introduction</a></li>
+								<li><a href="https://www.gov.uk/business-finance-support" title="Business support finder" target="_blank" rel="noopener noreferrer">Introduction</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Government guaranteed lending schemes</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php">Government guaranteed lending schemes</a>
 							<ul>
-								<li><a href="" title="Government guaranteed lending schemes">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php" title="Government guaranteed lending schemes">Introduction</a></li>
 								<li><a href="">Assess your eligibility for government guaranteed lending schemes</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Innovation, research and development grants</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php">Innovation, research and development grants</a>
 							<ul>
-								<li><a href="" title="Innovation, research and development grants">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php" title="Innovation, research and development grants">Introduction</a></li>
 								<li>Government funding and other support</li>
 								<li>Grant for Research and Development</li>
 								<li>Collaborative research and development</li>
@@ -308,9 +309,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Support networks and facilities for innovation and R&amp;D</a>
+							<a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php">Support networks and facilities for innovation and R&amp;D</a>
 							<ul>
-								<li><a href="" title="Support networks and facilities for innovation and R&amp;D">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php" title="Support networks and facilities for innovation and R&amp;D">Introduction</a></li>
 								<li>Knowledge Transfer Support</li>
 								<li>Virtual support networks</li>
 								<li>The Enterprise Europe Network</li>
@@ -323,9 +324,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Find support for inventors</a>
+							<a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php">Find support for inventors</a>
 							<ul>
-								<li><a href="" title="Find support for inventors">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php" title="Find support for inventors">Introduction</a></li>
 								<li>Help in establishing your invention's originality</li>
 								<li>Help to ensure products are safe</li>
 								<li>Get legal help on intellectual property</li>
@@ -338,9 +339,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Work with UK universities and colleges</a>
+							<a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php">Work with UK universities and colleges</a>
 							<ul>
-								<li><a href="" title="Work with UK universities and colleges">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php" title="Work with UK universities and colleges">Introduction</a></li>
 								<li>Delivering innovation through collaboration and networking</li>
 								<li>Research councils and government help</li>
 								<li>Knowledge Transfer Partnerships</li>
@@ -358,44 +359,45 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/capital-allowances.php" title="Capital allowances">Introduction</a></li>
 						<li>
-							<a href="">Capital allowances: the basics</a>
+							<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php">Capital allowances: the basics</a>
 							<ul>
-								<li><a href="" title="Capital allowances: the basics">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php" title="Capital allowances: the basics">Introduction</a></li>
 								<li><a href="">What you can claim capital allowances for</a></li>
 								<li><a href="">Research and development allowances</a></li>
 								<li><a href="">Claiming capital allowances</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Research and Development (R&amp;D) Relief for Corporation Tax</a>
+							<a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php">Research and Development (R&amp;D) Relief for Corporation Tax</a>
 							<ul>
-								<li><a href="" title="Research and Development (R&amp;D) Relief for Corporation Tax">Introduction</a></li>
-								<li>R&amp;D Relief schemes</li>
-								<li>The Small and Medium-sized Enterprise Scheme</li>
-								<li>The Large Company Scheme</li>
-								<li>Which R&amp;D projects might qualify for Relief?</li>
-								<li>Which costs qualify for R&amp;D Relief?</li>
-								<li>How much R&amp;D Relief SMEs can claim</li>
-								<li>How and when to claim R&amp;D Relief</li>
-								<li>Capital allowances and R&amp;D Relief</li>
-								<li>Record keeping for R&amp;D Relief</li>
-								<li>Answers to your R&amp;D Relief questions</li>
-								<li>R&amp;D Consultative Committee</li>
-								<li>Voluntary advance assurance pilot</li>
+								<li><a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php" title="Research and Development (R&amp;D) Relief for Corporation Tax">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/r-and-d-relief-schemes.php">R&amp;D Relief schemes</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/the-small-and-medium-sized-enterprise-scheme.php">The Small and Medium-sized Enterprise Scheme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/the-large-company-scheme.php">The Large Company Scheme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/which-r-and-d-projects-might-qualify-for-relief.php">Which R&amp;D projects might qualify for Relief?</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/which-costs-qualify-for-r-and-d-relief.php">Which costs qualify for R&amp;D Relief?</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/how-much-r-and-d-relief-sme-can-claim.php">How much R&amp;D Relief SMEs can claim</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/how-and-when-to-claim-r-and-d-relief.php">How and when to claim R&amp;D Relief</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/capital-allowances-and-r-and-d-relief.php">Capital allowances and R&amp;D Relief</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/record-keeping-for-r-and-d-relief.php">Record keeping for R&amp;D Relief</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/answers-to-your-r-and-d-elief-questions.php">Answers to your R&amp;D Relief questions</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/r-and-d-consultative-committee.php">R&amp;D Consultative Committee</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/voluntary-advance-assurance-pilot.php">Voluntary advance assurance pilot</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Tax advantages for those starting up in business</a>
+							<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/tax-advantages-for-those-starting-up-in-business.php">Tax advantages for those starting up in business</a>
 							<ul>
-								<li><a href="" title="Tax advantages for those starting up in business">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/tax-advantages-for-those-starting-up-in-business.php" title="Tax advantages for those starting up in business">Introduction</a></li>
 								<li><a href="">Details of tax advantages for new businesses</a></li>
 								<li><a href="">Here's how the tax authorities helped me start my business</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">First-year allowances: the basics</a>
+							<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php">First-year allowances: the basics</a>
 							<ul>
-								<li><a href="" title="First-year allowances: the basics">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php" title="First-year allowances: the basics">Introduction</a></li>
 								<li><a href="">What you can claim first-year allowances for</a></li>
 								<li><a href="">First-year allowances: non-qualifying items</a></li>
 							</ul>
