@@ -33,12 +33,12 @@
 							<a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a>
 							<ul>
 								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php" title="Decide whether to lease or buy assets">Introduction</a></li>
-								<li>How to acquire assets for your business</li>
-								<li>Types of leasing</li>
-								<li>Leasing or renting business equipment</li>
-								<li>Buying equipment outright</li>
-								<li>Understanding depreciation of assets</li>
-								<li>Choosing a leasing company</li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/how-to-acquire-assets-for-your-business.php">How to acquire assets for your business</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/types-of-leasing.php">Types of leasing</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/leasing-or-renting-business-equipment.php" title="Leasing or renting business equipment">Leasing or renting business equipment</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/buying-equipment-outright.php" title="Buying equipment outright">Buying equipment outright</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/understanding-depreciation-of-assets.php">Understanding depreciation of assets</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/choosing-a-leasing-company.php">Choosing a leasing company</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -72,18 +72,18 @@
 							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php">Government guaranteed lending schemes</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php" title="Government guaranteed lending schemes">Introduction</a></li>
-								<li>Assess your eligibility for government guaranteed lending schemes</li>
+								<li><a href="http://webarchive.nationalarchives.gov.uk/20120824032737/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1081800344&r.l1=1073858790&r.l2=1084705429&r.l3=1073866776&r.l4=1081834708&type=BLTTOOL" target="_blank" rel="noopener noreferrer">Assess your eligibility for government guaranteed lending schemes</a></li>
 							</ul>
 						</li>
 						<li>
 							<a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php">Financing from friends and family</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php" title="Financing from friends and family">Introduction</a></li>
-								<li>Loan or investment?</li>
-								<li>Benefits and pitfalls of friends and family finance</li>
-								<li>Setting up a loan or investment with friends or family</li>
-								<li>Legal agreements</li>
-								<li>Tax and finance from friends and family</li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/loan-or-investment.php">Loan or investment?</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/benefits-and-pitfalls-of-friends-and-family-finance.php">Benefits and pitfalls of friends and family finance</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/setting-up-a-loan-or-investment-with-friends-or-family.php">Setting up a loan or investment with friends or family</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/legal-agreements.php">Legal agreements</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/tax-and-finance-from-friends-and-family.php">Tax and finance from friends and family</a></li>
 							</ul>
 						</li>
 						<li>
@@ -106,14 +106,14 @@
 							<a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php">Commercial mortgages and lenders</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php" title="Commercial mortgages and lenders">Introduction</a></li>
-								<li>An overview of the commercial mortgage</li>
-								<li>Pros and cons of buying business premises</li>
-								<li>What lenders need to know</li>
-								<li>Different types of lender</li>
-								<li>Finding a lender</li>
-								<li>Repaying a commercial mortgage</li>
-								<li>Commercial mortgage fees and costs</li>
-								<li>Here's how I took out a commercial mortgage to buy a pub</li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/an-overview-of-the-commercial-mortgage.php">An overview of the commercial mortgage</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/pros-and-cons-of-buying-business-premises.php">Pros and cons of buying business premises</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/what-lenders-need-to-know.php">What lenders need to know</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/different-types-of-lender.php">Different types of lender</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders/finding-a-lender.php">Finding a lender</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders/repaying-a-commercial-mortgage.php">Repaying a commercial mortgage</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/commercial-mortgage-fees-and-costs.php">Commercial mortgage fees and costs</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders/here-is-how-i-took-out-a-commercial-mortgage-to-buy-a-pub.php">Here's how I took out a commercial mortgage to buy a pub</a></li>
 							</ul>
 						</li>
 						<li>
@@ -130,17 +130,17 @@
 							<a href="/finance-and-grants/finance-options/borrowing/bank-finance.php">Bank finance</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance.php" title="Bank finance">Introduction</a></li>
-								<li>Types of bank finance for businesses</li>
-								<li>Loans</li>
-								<li>Overdrafts</li>
-								<li>Where to look for a bank loan</li>
-								<li>Choosing the right bank</li>
-								<li>Obtaining a loan and offering security</li>
-								<li>Credit scoring and rating</li>
-								<li>Providing a guarantee for your loan</li>
-								<li>European Investment Bank funding for small and medium-sized businesses</li>
-								<li>Here's how my business benefited from taking out a loan (Flash video)</li>
-								<li>Here's how securing the right loan helped my business develop</li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/types-of-bank-finance-for-businesses.php">Types of bank finance for businesses</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/loans.php">Loans</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/overdrafts.php">Overdrafts</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/where-to-look-for-a-bank-loan.php">Where to look for a bank loan</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/choosing-the-right-bank.php">Choosing the right bank</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/obtaining-a-loan-and-offering-security.php">Obtaining a loan and offering security</a></li>
+								<!-- <li>Credit scoring and rating</li> -->
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/providing-a-guarantee-for-your-loan.php">Providing a guarantee for your loan</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/european-investment-bank-funding-for-small-and-medium-sized-businesses.php">European Investment Bank funding for small and medium-sized businesses</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/here-is-how-my-business-benefited-from-taking-out-a-loan_flash-video.php">Here's how my business benefited from taking out a loan (Flash video)</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/here-is-how-securing-the-right-loan-helped-my-business-develop.php">Here's how securing the right loan helped my business develop</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -299,13 +299,13 @@
 							<a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php">Innovation, research and development grants</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php" title="Innovation, research and development grants">Introduction</a></li>
-								<li>Government funding and other support</li>
-								<li>Grant for Research and Development</li>
-								<li>Collaborative research and development</li>
-								<li>Other sources of funding</li>
-								<li>R&amp;D tax credits</li>
-								<li>The EU Framework Programme</li>
-								<li>EUREKA</li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/government-funding-and-other-support.php">Government funding and other support</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/the-smart-programme.php" title="The Smart programme">The Smart programme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/collaborative-research-and-development.php">Collaborative research and development</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/other-sources-of-funding.php">Other sources of funding</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/r-and-d-tax-credits.php">R&amp;D tax credits</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/the-eu-framework-programme.php">The EU Framework Programme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/eureka.php">EUREKA</a></li>
 							</ul>
 						</li>
 						<li>
@@ -508,11 +508,12 @@
 							<a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php">Invoicing and payment terms</a>
 							<ul>
 								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</a></li>
-								<li>Information that invoices must contain</li>
-								<li>Setting terms and conditions</li>
-								<li>Setting suitable payment terms for your customers</li>
-								<li>Commonly used invoice payment terms and their meanings</li>
-								<li>Here's how setting the right payment terms improved my business' cashflow</li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/information-that-invoices-must-contain.php">Information that invoices must contain</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/vat-details-to-include-on-invoices.php">VAT details to include on invoices</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/setting-terms-and-conditions.php">Setting terms and conditions</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/setting-suitable-payment-terms-for-your-customers.php">Setting suitable payment terms for your customers</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/commonly-used-invoice-payment-terms-and-their-meanings.php">Commonly used invoice payment terms and their meanings</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/here-is-how-setting-the-right-payment-terms-improved-my-business-cashflow.php">Here's how setting the right payment terms improved my business' cashflow</a></li>
 							</ul>
 						</li>
 						<li>
@@ -688,14 +689,14 @@
 					<a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php">Balance sheets: the basics</a>
 					<ul>
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php" title="Balance sheets: the basics">Introduction</a></li>
-						<li>Balance sheet reporting - who, when and where?</li>
-						<li>Contents of the balance sheet</li>
-						<li>Interpreting balance sheet figures</li>
-						<li>The relationship between balance sheets and profit and loss accounts</li>
-						<li>Compare balance sheets to assess business performance</li>
-						<li>Use accounting ratios to assess business performance</li>
-						<li>Accounting periods</li>
-						<li>Here's how a good balance sheet helped me to improve my business</li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/balance-sheet-reporting-who-when-and-where.php">Balance sheet reporting - who, when and where?</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/contents-of-the-balance-sheet.php">Contents of the balance sheet</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/interpreting-balance-sheet-figures.php">Interpreting balance sheet figures</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/the-relationship-between-balance-sheets-and-profit-and-loss-accounts.php">The relationship between balance sheets and profit and loss accounts</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/compare-balance-sheets-to-assess-business-performance.php">Compare balance sheets to assess business performance</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/use-accounting-ratios-to-assess-business-performance.php">Use accounting ratios to assess business performance</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/accounting-periods.php">Accounting periods</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/here-is-how-a-good-balance-sheet-helped-me-to-improve-my-business.php">Here's how a good balance sheet helped me to improve my business</a></li>
 					</ul>
 				</li>
 				<li>
@@ -1226,12 +1227,12 @@
 					<a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php">How to choose and manage a business bank account</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php" title="How to choose and manage a business bank account">Introduction</a></li>
-						<li>Choosing a business bank account</li>
-						<li>Open a business bank account</li>
-						<li>Manage a business account</li>
-						<li>How to switch banks</li>
-						<li>Online banking</li>
-						<li>Bank charges</li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/choosing-a-business-bank-account.php">Choosing a business bank account</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/open-a-business-bank-account.php">Open a business bank account</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/manage-a-business-account.php">Manage a business account</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/how-to-switch-banks.php">How to switch banks</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/online-banking.php">Online banking</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/bank-charges.php">Bank charges</a></li>
 					</ul>
 				</li>
 				<li>
@@ -1249,17 +1250,17 @@
 					<a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php">Using payment cards to buy and sell goods or services</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
-						<li>Types of payment cards available</li>
-						<li>Pros and cons of using payment cards for purchases</li>
-						<li>Choosing a payment card provider</li>
-						<li>Risks of financing a business with a personal credit card</li>
-						<li>Pros and cons of accepting payment cards for sales</li>
-						<li>Accepting card payments: the key steps to take</li>
-						<li>Setting up a merchant account</li>
-						<li>How the card payment process works</li>
-						<li>The costs of accepting card payments</li>
-						<li>Your liability for disputed card payments</li>
-						<li>Payment card security measures</li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/types-of-payment-cards-available.php" title="Types of payment cards available ">Types of payment cards available</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/pros-and-cons-of-using-payment-cards-for-purchases.php">Pros and cons of using payment cards for purchases</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/choosing-a-payment-card-provider.php">Choosing a payment card provider</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/risks-of-financing-a-business-with-a-personal-credit-card.php">Risks of financing a business with a personal credit card</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/pros-and-cons-of-accepting-payment-cards-for-sales.php">Pros and cons of accepting payment cards for sales</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/accepting-card-payments-the-key-steps-to-take.php">Accepting card payments: the key steps to take</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/setting-up-a-merchant-account.php">Setting up a merchant account</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/how-the-card-payment-process-works.php">How the card payment process works</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/the-costs-of-accepting-card-payments.php">The costs of accepting card payments</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/your-liability-for-disputed-card-payments.php">Your liability for disputed card payments</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/payment-card-security-measures.php" title="Payment card security measures ">Payment card security measures</a></li>
 					</ul>
 				</li>
 				<li>
@@ -1281,25 +1282,25 @@
 					<a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php">Foreign currency and exchange risks</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php" title="Foreign currency and exchange risks">Introduction</a></li>
-						<li>Foreign currency issues when importing or exporting</li>
-						<li>Identify foreign exchange risks</li>
-						<li>Forward foreign exchange contracts</li>
-						<li>Banking overseas and UK-based foreign currency accounts</li>
-						<li>Buying currency options</li>
-						<li>Foreign currency transactions and your bookkeeping</li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/foreign-currency-issues-when-importing-or-exporting.php">Foreign currency issues when importing or exporting</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/identify-foreign-exchange-risks.php">Identify foreign exchange risks</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/forward-foreign-exchange-contracts.php">Forward foreign exchange contracts</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/banking-overseas-and-uk-based-foreign-currency-accounts.php">Banking overseas and UK-based foreign currency accounts</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/buying-currency-options.php">Buying currency options</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/foreign-currency-transactions-and-your-bookkeeping.php">Foreign currency transactions and your bookkeeping</a></li>
 					</ul>
 				</li>
 				<li>
 					<a href="/finance-and-grants/business-banking/understanding-european-banking-services.php">Understanding European banking services</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services.php" title="Understanding European banking services">Introduction</a></li>
-						<li>Business banking services offered by European banks</li>
-						<li>What you will need to set up your business account in Europe</li>
-						<li>Accessibility of European banks</li>
-						<li>UK bank business accounts for Europe</li>
-						<li>Writing a business plan for a European bank</li>
-						<li>Credit checks in Europe</li>
-						<li>Single European Payment Area</li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/business-banking-services-offered-by-european-banks.php">Business banking services offered by European banks</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/what-you-will-need-to-set-up-your-business-account-in-europe.php">What you will need to set up your business account in Europe</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/accessibility-of-european-banks.php">Accessibility of European banks</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/uk-bank-business-accounts-for-europe.php">UK bank business accounts for Europe</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/writing-a-business-plan-for-a-european-bank.php">Writing a business plan for a European bank</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/credit-checks-in-europe.php">Credit checks in Europe</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/single-european-payment-area.php">Single European Payment Area</a></li>
 					</ul>
 				</li>
 			</ul>
