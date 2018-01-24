@@ -14,8 +14,8 @@ var gulp  = require('gulp'),
 	rename = require('gulp-rename'),
 	plumber = require('gulp-plumber'),
 	babel = require('gulp-babel'), 
-	connect = require('gulp-connect-php'), 
-	browserSync = require('browser-sync');
+	connect = require('gulp-connect-php');
+	// browserSync = require('browser-sync');
 
 
 // Added gulp-imagemin
