@@ -6,11 +6,11 @@
 				<footer>
 					<ul class="menu">
 						<li><a href="https://www.gov.uk/help" target="_blank" rel="noopener noreferrer">Help &amp; Support</a></li>
-						<li><a href="http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/" target="_blank" rel="noopener noreferrer">&copy; Crown Copyright</a></li>
-						<li><a href="https://www.gov.uk/help/terms-conditions" target="_blank" rel="noopener noreferrer">Terms &amp; Conditions</a></li>
-						<li><a href="https://www.gov.uk/help/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
-						<li><a href="https://www.gov.uk/help/accessibility" target="_blank" rel="noopener noreferrer">Accessibility</a></li>
-						<li><a href="https://www.gov.uk/help/cookies" target="_blank" rel="noopener noreferrer">Cookies</a></li>
+						<li><a href="/crown-copyright.php">&copy; Crown Copyright</a></li>
+						<li><a href="/terms-and-conditions.php">Terms &amp; Conditions</a></li>
+						<li><a href="/privacy-policy.php">Privacy Policy</a></li>
+						<li><a href="/accessibility.php">Accessibility</a></li>
+						<li><a href="/cookies.php">Cookies</a></li>
 						<li><a href="/about-venture-labs.php">About us</a></li>
 					</ul>
 
