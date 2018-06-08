@@ -3,6 +3,11 @@
 <head>
 	<title>Here's how an understanding of the product life cycle has helped my business (Flash video) | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3996.html || /detail?itemId=1087254297&type=CASE STUDIES -->
+	<!-- ref: detail250e.html || /detail?itemId=1087254297&type=CASE+STUDIES -->
+	<meta name="description" content="In this video case study, Samantha Fernando explains how an understanding of the product life cycle has helped her business" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>
@@ -43,8 +48,8 @@
 		the rest of the HTML is processed and the page load is complete, remove the line.
 		--> 
 		<script type="text/javascript">brightcove.createExperiences();</script> 
-		<!-- End of Brightcove Player --> 
-		<?php */ ?>
+		<!-- End of Brightcove Player -->
+		<?php */ ?> 
 			
 		<ul>
 			<li><a class="open-modal" data-open="modal" title="Here's how winning the Queen's Award has helped my business - Opens in a new window" target="_blank">Read transcript<a></li>
