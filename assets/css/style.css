@@ -2618,52 +2618,42 @@ a:visited {
   color: #004e5a; }
 
 /* Add a external link icon */
-a[target="_blank"]:after {
-  font-size: 1rem;
-  font-family: "FontAwesome";
-  content: "\f08e";
-  display: inline-block;
-  padding-left: 0.3125rem;
-  float: none !important;
-  right: 0 !important;
-  top: 2px !important;
-  vertical-align: text-top; }
+a[target="_blank"] {
+  position: relative; }
+  a[target="_blank"]::after {
+    content: url("../../_img/external-link-alt.svg");
+    position: absolute;
+    top: -10px;
+    margin-left: 0.3125rem;
+    width: 12px; }
 
 /* show links which are dead */
 a[href="#"] {
+  position: relative;
   color: red; }
-
-a[href="#"]:after {
-  font-family: "FontAwesome";
-  content: "\f057";
-  display: inline-block;
-  color: red;
-  padding-left: 0.3125rem; }
+  a[href="#"]::after {
+    content: url("../../_img/times-circle.svg");
+    position: absolute;
+    top: -10px;
+    margin-left: 0.3125rem;
+    width: 12px; }
 
 /* if in the menu, move icons to the left */
-.categories .menu a[target="_blank"]:before {
-  font-size: 80%;
-  font-family: "FontAwesome";
-  content: "\f08e";
+.categories .menu a[target="_blank"]::before {
+  content: url("../../_img/external-link-alt.svg");
   display: inline-block;
-  padding-right: 0.3125rem;
-  float: none !important;
-  right: 0 !important;
-  top: 2px !important;
-  vertical-align: middle; }
+  margin-right: 0.3125rem;
+  width: 12px; }
 
-.categories .menu a[target="_blank"]:after {
+.categories .menu a[target="_blank"]::after {
   content: '';
   display: none; }
 
-.categories .menu a[href="#"]:before {
-  font-size: 80%;
-  font-family: "FontAwesome";
-  content: "\f057";
+.categories .menu a[href="#"]::before {
+  content: url("../../_img/times-circle.svg");
   display: inline-block;
-  color: red;
-  padding-right: 0.3125rem;
-  vertical-align: text-top; }
+  margin-right: 0.3125rem;
+  width: 12px; }
 
 .categories .menu a[href="#"]:after {
   content: '';
@@ -2792,7 +2782,8 @@ footer {
 
 /*** accordion arrows ***/
 .is-accordion-submenu-parent > a {
-  display: block; }
+  display: block;
+  padding-right: 15px; }
 
 .is-accordion-submenu-parent > a:after {
   top: 11px;

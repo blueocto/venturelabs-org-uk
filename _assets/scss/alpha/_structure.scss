@@ -38,62 +38,65 @@ a:visited {
 }
 
 /* Add a external link icon */
-a[target="_blank"]:after {
-	font-size: 1rem; 
-	font-family: "FontAwesome"; 
-	content: "\f08e"; 
-	display: inline-block; 
-	padding-left: rem-calc(5px); 
-	// stop the accordion styles overwritng		
-	float: none!important; 		
-	right: 0!important; 		
-	top: 2px!important; 
-	vertical-align: text-top; 
+a[target="_blank"] {
+	position: relative; 
+
+	&::after {
+		content: url("../../_img/external-link-alt.svg"); 
+		position: absolute; 
+		top: -10px; 
+		margin-left: rem-calc(5px); 
+		width: 12px; 
+	}
 }
 
 /* show links which are dead */
 a[href="#"] {
+	position: relative; 
 	color: red; 
-}
-a[href="#"]:after {
-	font-family: "FontAwesome"; 
-	content: "\f057"; 
-	display: inline-block; 
-	color: red; 
-	padding-left: rem-calc(5px); 
+
+	&::after {
+		content: url("../../_img/times-circle.svg"); 
+		position: absolute; 
+		top: -10px; 
+		margin-left: rem-calc(5px); 
+		width: 12px; 
+	}
 }
 
 /* if in the menu, move icons to the left */
 .categories {
 	.menu {
-		a[target="_blank"]:before {
-			font-size: 80%; 
-			font-family: "FontAwesome"; 
-			content: "\f08e"; 
-			display: inline-block; 
-			padding-right: rem-calc(5px); 
-			// stop the accordion styles overwritng		
-			float: none!important; 		
-			right: 0!important; 		
-			top: 2px!important; 
-			vertical-align: middle; 
+		a[target="_blank"] {
+			&::before {
+				content: url("../../_img/external-link-alt.svg"); 
+				display: inline-block; 
+				margin-right: rem-calc(5px); 
+				width: 12px; 
+			}
 		}
-		a[target="_blank"]:after {
-			content: ''; 
-			display: none; 
+
+		a[target="_blank"] {
+			&::after {
+				content: ''; 
+				display: none; 
+			}
 		}
-		a[href="#"]:before {
-			font-size: 80%; 
-			font-family: "FontAwesome"; 
-			content: "\f057"; 
-			display: inline-block; 
-			color: red; 
-			padding-right: rem-calc(5px); 
-			vertical-align: text-top; 
+
+		a[href="#"] {
+			&::before {
+				content: url("../../_img/times-circle.svg"); 
+				display: inline-block; 
+				margin-right: rem-calc(5px); 
+				width: 12px; 
+			}
 		}
-		a[href="#"]:after {
-			content: ''; 
-			display: none; 
+
+		a[href="#"] {
+			&:after {
+				content: ''; 
+				display: none; 
+			}
 		}
 	}
 }
@@ -252,20 +255,24 @@ footer {
 	.fa {		
 		position: relative; 		
 		top: -3px; 		
-	}		
+	}
+	
 	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up'		
 	ul li ul {		
 		background-color: lighten($light-gray, 5%); 		
-	}		
+	}
+
 	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics'		
 	ul li ul li ul {		
 		background-color: #fff; 		
-	}		
+	}
+
 	.submenu.is-accordion-submenu {		
 		margin: 0; 
 		padding: 10px 20px; 
 		list-style: none; 
-	}		
+	}
+
 	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
 	ul li ul li ul li ul { 		
 		background-color: lighten($light-gray, 5%); 		
@@ -274,6 +281,7 @@ footer {
 /*** accordion arrows ***/
 .is-accordion-submenu-parent > a {
 	display: block; 
+	padding-right: 15px; 
 }
 .is-accordion-submenu-parent > a:after { 
 	top: 11px;		
@@ -284,15 +292,17 @@ footer {
 }
 
 /* level 0 */
-.is-accordion-submenu-parent > a:after {
+// .is-accordion-submenu-parent > a:after {
 	// see above
 	// outline: 1px solid red; 
-}
+// }
+
 /* level 1 */
 li ul .is-accordion-submenu-parent > a:after {
 	right: 1px; 
 	// outline: 1px solid blue; 
 }
+
 /* level 2 */
 li ul li ul .is-accordion-submenu-parent > a:after {
 	right: -11px; 
