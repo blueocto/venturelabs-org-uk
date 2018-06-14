@@ -14,19 +14,30 @@ var gulp  = require('gulp'),
 	rename = require('gulp-rename'),
 	plumber = require('gulp-plumber'),
 	babel = require('gulp-babel'), 
-	connect = require('gulp-connect-php');
-	// browserSync = require('browser-sync');
+	connect = require('gulp-connect-php'),
+	browserSync = require('browser-sync');
 
 
 // Added gulp-imagemin
 gulp.task('imagemin', function() {
   gulp.src('./_assets/images/*')
+  gulp.src('./_assets/svg/*')
 	.pipe(imagemin({
 			progressive: true,
 			use: [pngquant()]
 		}))
 	.pipe(gulp.dest('./_img/'))
 });
+
+// Added gulp-imagemin
+// gulp.task('svgmin', function() {
+//   gulp.src('./_assets/svg/*')
+// 	.pipe(imagemin({
+// 			progressive: true,
+// 			use: [pngquant()]
+// 		}))
+// 	.pipe(gulp.dest('./_img/'))
+// });
 
 
 // Compile Sass, Autoprefix and minify
@@ -79,20 +90,20 @@ gulp.task('foundation-js', function() {
 
 		// Pick the components you need in your project
 		// './_vendor/foundation-sites/js/foundation.abide.js',
-		'./_vendor/foundation-sites/js/foundation.accordion.js',
+		// './_vendor/foundation-sites/js/foundation.accordion.js',
 		'./_vendor/foundation-sites/js/foundation.accordionMenu.js',
 		'./_vendor/foundation-sites/js/foundation.drilldown.js',
-		'./_vendor/foundation-sites/js/foundation.dropdown.js',
-		'./_vendor/foundation-sites/js/foundation.dropdownMenu.js',
+		// './_vendor/foundation-sites/js/foundation.dropdown.js',
+		// './_vendor/foundation-sites/js/foundation.dropdownMenu.js',
 		// './_vendor/foundation-sites/js/foundation.equalizer.js',
 		// './_vendor/foundation-sites/js/foundation.interchange.js',
 		// './_vendor/foundation-sites/js/foundation.magellan.js',
 		'./_vendor/foundation-sites/js/foundation.offcanvas.js',
 		// './_vendor/foundation-sites/js/foundation.orbit.js',
-		'./_vendor/foundation-sites/js/foundation.responsiveMenu.js',
-		'./_vendor/foundation-sites/js/foundation.responsiveToggle.js',
+		// './_vendor/foundation-sites/js/foundation.responsiveMenu.js',
+		// './_vendor/foundation-sites/js/foundation.responsiveToggle.js',
 		'./_vendor/foundation-sites/js/foundation.reveal.js',
-		'./_vendor/foundation-sites/js/foundation.slider.js',
+		// './_vendor/foundation-sites/js/foundation.slider.js',
 		// './_vendor/foundation-sites/js/foundation.sticky.js',
 		// './_vendor/foundation-sites/js/foundation.tabs.js',
 		// './_vendor/foundation-sites/js/foundation.toggler.js',
