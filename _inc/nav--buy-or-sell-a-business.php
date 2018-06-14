@@ -352,7 +352,7 @@
 			</ul>
 		</li>
 		<li>
-			<a href="/buy-or-sell-a-business/floating-on-the-stock-market/">Floating on the stock market</a>
+			<a href="/buy-or-sell-a-business/floating-on-the-stock-market.php">Floating on the stock market</a>
 			<ul>
 				<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
 				<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/is-your-business-suitable-to-be-a-public-company.php">Is your business suitable to be a public company?</a></li>
