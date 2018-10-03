@@ -3,8 +3,6 @@
 <head>
 	<title>Market research and market reports | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
-
-	<!-- ref: layer8373.html || /layer?topicId=1073901910 -->
 	<meta name="description" content="How to use market research to gain knowledge about your marketplace and your customers" />
 	<meta name="keywords" content="Market research; customers;potential customers;market trends;buying habits;market research;customer survey;competitors;competitor intelligence;market reports;Office for National Statistics;ONS;Chambers of Commerce;UKTI;UK Trade & Investment;local trade association;internet;search engine;qualitative research;quantitative research;field research;sales plan;marketing strategy" />
 </head>
