@@ -7,6 +7,67 @@
 			<ul>
 				<li><a href="/sales-and-marketing/marketing.php" title="Marketing">Introduction</a></li>
 				<li>
+					<a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php">Create your marketing strategy</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php" title="Create your marketing strategy">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/key-elements-of-a-successful-marketing-strategy.php">Key elements of a successful marketing strategy</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/define-your-target-market.php">Define your target market</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/swot-and-pest-analysis.php">SWOT and PEST analysis</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/developing-your-promotional-strategy.php">Developing your promotional strategy</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/product-strategy-positioning-and-differentiation.php">Product strategy - positioning and differentiation</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/product-portfolio-product-life-cycle.php">Product portfolio - product life cycle</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/tips-and-pitfalls.php">Tips and pitfalls</a></li>
+						<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy/here-is-how-i-chose-the-right-marketing-mix.php">Here's how I chose the right marketing mix</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">Write a marketing plan</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php" title="Write a marketing plan">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/marketing-plan-summary-and-introduction.php">Marketing plan summary and introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/external-and-internal-analysis-for-your-marketing-plan.php">External and internal analysis for your marketing plan</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/your-marketing-objectives.php">Your marketing objectives</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/your-marketing-plan-is-your-marketing-strategy-in-action.php">Your marketing plan is your marketing strategy in action</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/plan-your-marketing-tactics.php">Plan your marketing tactics</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/implementing-your-marketing-plan.php">Implementing your marketing plan</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/tips-for-writing-a-marketing-plan.php">Tips for writing a marketing plan</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/here-is-how-i-developed-and-implemented-a-marketing-plan.php">Here's how I developed and implemented a marketing plan</a></li>
+					</ul>
+				</li>
+				<li>
+					Marketing on a tight budget
+				</li>
+				<li>
+					Direct marketing: the basics
+				</li>
+				<li>
+					<a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions.php">Trade shows and exhibitions</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions.php" title="Trade shows and exhibitions">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/using-a-trade-fair-to-promote-your-product-or-service.php">Using a trade fair to promote your product or service</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/going-to-a-trade-fair-as-a-customer.php">Going to a trade fair as a customer</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/choosing-the-right-trade-fair.php">Choosing the right trade fair</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/exhibiting-using-specialist-event-companies.php">Exhibiting - using specialist event companies</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/exhibiting-doing-it-yourself.php">Exhibiting - doing it yourself</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/access-and-legal-issues.php">Access and legal issues</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/checklist-exhibiting-successfully.php">Checklist: exhibiting successfully</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/international-trade-fairs.php">International trade fairs</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/following-up-from-a-trade-fair.php">Following up from a trade fair</a></li>
+						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/here-is-how-i-generated-new-business-by-attending-trade-shows-and-exhibitions.php">Here's how I generated new business by attending trade shows and exhibitions</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php" title="Understand your competitors">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/who-are-your-competitors.php">Who are your competitors?</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/what-you-need-to-know-about-your-competitors.php">What you need to know about your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/learning-about-your-competitors.php">Learning about your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/getting-to-know-your-competitors.php">Getting to know your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/how-to-act-on-the-competitor-information-you-get.php">How to act on the competitor information you get</a></li>
+					</ul>
+				</li>
+				<li>
 					<a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">Market research and market reports</a>
 					<ul>
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
@@ -20,6 +81,15 @@
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php">Should I use a market research agency?</a></li>
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/here-is-how-i-made-the-most-of-market-research.php">Here's how I made the most of market research</a></li>
 					</ul>
+				</li>
+				<li>
+					Competing in markets dominated by big brands
+				</li>
+				<li>
+					Marketing your business confidently
+				</li>
+				<li>
+					Telemarketing
 				</li>
 			</ul>
 		</li>

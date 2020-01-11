@@ -352,7 +352,7 @@
 			</ul>
 		</li>
 		<li>
-			<a href="/buy-or-sell-a-business/floating-on-the-stock-market.php">Floating on the stock market</a>
+			<a href="/buy-or-sell-a-business/floating-on-the-stock-market/">Floating on the stock market</a>
 			<ul>
 				<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
 				<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/is-your-business-suitable-to-be-a-public-company.php">Is your business suitable to be a public company?</a></li>
@@ -506,10 +506,10 @@
 					</ul>
 				</li>
 				<li>
-					<a href="layer2f3a.html?topicId=1084624281">Complain against an undischarged bankrupt or disqualified company director</a>
+					<a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director.php">Complain against an undischarged bankrupt or disqualified company director</a>
 					<ul>
 						<li>
-							<a href="layer2f3a.html?topicId=1084624281" title="Complain against an undischarged bankrupt or disqualified company director">Introduction</a>
+							<a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director.php" title="Complain against an undischarged bankrupt or disqualified company director">Introduction</a>
 						</li>
 						<li>
 							<a href="detail5885.html?itemId=1084681574&amp;type=RESOURCES">What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a>
