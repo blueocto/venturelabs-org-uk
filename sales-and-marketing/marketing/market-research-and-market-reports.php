@@ -15,7 +15,7 @@
 	
 		<h1>Market research and market reports</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/BS0130.gif" width="94" height="62" alt="" />
+		<img src="/_img/BS0130.gif" width="94" height="62" alt="" />
 		<p>A business that understands its customers and their buying habits can sell more effectively, compete with other suppliers, target new customers and identify new opportunities.</p>
 		<p>There is a wide range of published and non-published data available, which can help you build up a picture of general trends and your customers' buying habits.</p>
 		<p>This guide explains what you need to know about market and customer research, how to build your knowledge and how using field research can fill in the gaps.</p>
