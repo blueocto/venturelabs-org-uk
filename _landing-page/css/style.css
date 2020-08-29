@@ -1,0 +1,36 @@
+@import url("reset.css");
+
+body { 
+	height: 100%; 
+	position: relative; 
+	text-align: center; 
+	font-family: 'Abel', sans-serif; 
+	color: #333; 
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,cdcac3+100 */
+	background: #cdcac3; /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover,  #ffffff 0%, #cdcac3 100%); /* FF3.6-15 */
+	background: -webkit-radial-gradient(center, ellipse cover,  #ffffff 0%,#cdcac3 100%); /* Chrome10-25,Safari5.1-6 */
+	background: radial-gradient(ellipse at center,  #ffffff 0%,#cdcac3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#cdcac3',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.container { 
+	position: relative; 
+	margin: 0 auto; 
+	padding: 10px;
+	min-height: 800px; 
+
+}
+
+img {
+	position: relative; 
+	top: 25%; 
+	width: 100%; 
+	max-width: 800px;
+	height: auto;
+}
+
+p { 
+	position: relative;
+	font-size: 20px;
+}
